@@ -1,0 +1,6341 @@
+{
+    "topicId": 2,
+    "topicNameEN": "Population and migration",
+    "topicNameFR": "Population et migration",
+    "tableCode": "lifecbmort",
+    "tableId": 8,
+    "tableName": "Population growth and indicators of fertility and mortality",
+    "tableStatusId": 3,
+    "tbBkCode": "X03 ",
+    "tbBkPrint": "Y",
+    "newSeriesName": "Maternal mortality ratio",
+    "units": "Number of deaths per 1,000 population",
+    "multiplier": 0,
+    "baseYear": null,
+    "SELECT": null,
+    "seriesCode": "SYB013",
+    "SYB_series": [
+        1159
+    ],
+    "sources": [
+        {
+            "sourceCode": "WHO_MMR",
+            "sourceId": 43,
+            "sourceNameEN": "World Health Organization (WHO), the United Nations Children's Fund (UNICEF), the United Nations Population Fund (UNFPA), the World Bank and the United Nations Population Division, \"Trends in Maternal Mortality 1990 - 2015.\"",
+            "sourceNameFR": "Organisation mondiale de la sant\u00e9 (OMS), le Fonds des Nations Unies pour l'enfance (UNICEF), le Fonds des Nations Unies pour la population (UNFPA), la Banque mondiale et la Division des Nations Unies pour la population, \u00ab Les tendances de la mortalit\u00e9 maternelle 1990-2015 \u00bb."
+        }
+    ],
+    "footnotes": [],
+    "refAreas": [
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 1,
+            "refAreaDesc": "World",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 288.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2010,
+                    "value": 246.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 216.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 2,
+            "refAreaDesc": "Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 4,
+            "refAreaDesc": "Afghanistan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 583.8937,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 396.1373,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 820.901,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "419",
+            "parentRegion_DescEN": "Latin America & Caribbean",
+            "refAreaType": "Region",
+            "refAreaCode": 5,
+            "refAreaDesc": "South America",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 8,
+            "refAreaDesc": "Albania",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 30.0993,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 28.5968,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 29.9805,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 9,
+            "refAreaDesc": "Oceania",
+            "data": []
+        },
+        {
+            "parentRegionId": "202",
+            "parentRegion_DescEN": "Sub-Saharan Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 11,
+            "refAreaDesc": "Western Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 12,
+            "refAreaDesc": "Algeria",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 147.2922,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 139.6208,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 148.1117,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "419",
+            "parentRegion_DescEN": "Latin America & Caribbean",
+            "refAreaType": "Region",
+            "refAreaCode": 13,
+            "refAreaDesc": "Central America",
+            "data": []
+        },
+        {
+            "parentRegionId": "202",
+            "parentRegion_DescEN": "Sub-Saharan Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 14,
+            "refAreaDesc": "Eastern Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "2",
+            "parentRegion_DescEN": "Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 15,
+            "refAreaDesc": "Northern Africa",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 95.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60564
+                    ]
+                },
+                {
+                    "year": 2010,
+                    "value": 82.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60564
+                    ]
+                },
+                {
+                    "year": 2015,
+                    "value": 70.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60564
+                    ]
+                }
+            ]
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 16,
+            "refAreaDesc": "American Samoa",
+            "data": []
+        },
+        {
+            "parentRegionId": "202",
+            "parentRegion_DescEN": "Sub-Saharan Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 17,
+            "refAreaDesc": "Middle Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "202",
+            "parentRegion_DescEN": "Sub-Saharan Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 18,
+            "refAreaDesc": "Southern Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 20,
+            "refAreaDesc": "Andorra",
+            "data": []
+        },
+        {
+            "parentRegionId": "19",
+            "parentRegion_DescEN": "Americas",
+            "refAreaType": "Region",
+            "refAreaCode": 21,
+            "refAreaDesc": "Northern America",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 24,
+            "refAreaDesc": "Angola",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 561.3088,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 476.9781,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 705.2795,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 28,
+            "refAreaDesc": "Antigua and Barbuda",
+            "data": []
+        },
+        {
+            "parentRegionId": "419",
+            "parentRegion_DescEN": "Latin America & Caribbean",
+            "refAreaType": "Region",
+            "refAreaCode": 29,
+            "refAreaDesc": "Caribbean",
+            "data": []
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 30,
+            "refAreaDesc": "Eastern Asia",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 48.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60567
+                    ]
+                },
+                {
+                    "year": 2010,
+                    "value": 36.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60567
+                    ]
+                },
+                {
+                    "year": 2015,
+                    "value": 27.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60567
+                    ]
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 31,
+            "refAreaDesc": "Azerbaijan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 27.1828,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 25.0686,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 34.3875,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 32,
+            "refAreaDesc": "Argentina",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 57.8036,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 52.3877,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 58.402,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 34,
+            "refAreaDesc": "Southern Asia",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 288.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2010,
+                    "value": 221.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 176.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 35,
+            "refAreaDesc": "South-eastern Asia",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 166.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2010,
+                    "value": 136.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 110.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 36,
+            "refAreaDesc": "Australia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 6.472,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.9488,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 6.9282,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "150",
+            "parentRegion_DescEN": "Europe",
+            "refAreaType": "Region",
+            "refAreaCode": 39,
+            "refAreaDesc": "Southern Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 40,
+            "refAreaDesc": "Austria",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 4.019,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.8028,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 4.5033,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 44,
+            "refAreaDesc": "Bahamas",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 85.2706,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 80.0141,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 74.3883,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 48,
+            "refAreaDesc": "Bahrain",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 16.268,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 15.1812,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 19.9219,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 50,
+            "refAreaDesc": "Bangladesh",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 242.4396,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 176.1376,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 318.5664,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 51,
+            "refAreaDesc": "Armenia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 33.3368,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 25.3261,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 39.697,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 52,
+            "refAreaDesc": "Barbados",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 32.7648,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 27.1644,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 39.5225,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "9",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Region",
+            "refAreaCode": 53,
+            "refAreaDesc": "Australia and New Zealand",
+            "data": []
+        },
+        {
+            "parentRegionId": "9",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Region",
+            "refAreaCode": 54,
+            "refAreaDesc": "Melanesia",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 56,
+            "refAreaDesc": "Belgium",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 7.6233,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.9711,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 7.6134,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "9",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Region",
+            "refAreaCode": 57,
+            "refAreaDesc": "Micronesia",
+            "data": []
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 60,
+            "refAreaDesc": "Bermuda",
+            "data": []
+        },
+        {
+            "parentRegionId": "9",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Region",
+            "refAreaCode": 61,
+            "refAreaDesc": "Polynesia",
+            "data": []
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 62,
+            "refAreaDesc": "South-central Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 64,
+            "refAreaDesc": "Bhutan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 204.4612,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 147.8948,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 308.0341,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 68,
+            "refAreaDesc": "Bolivia (Plurinational State of)",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 253.4532,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 206.2129,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 305.0377,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 70,
+            "refAreaDesc": "Bosnia and Herzegovina",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 12.8131,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 11.2508,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 14.2086,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 72,
+            "refAreaDesc": "Botswana",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 169.459,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 128.9488,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 276.2822,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 76,
+            "refAreaDesc": "Brazil",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 64.6101,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 43.6669,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 66.9905,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 84,
+            "refAreaDesc": "Belize",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 37.3923,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 27.7005,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 51.6498,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 90,
+            "refAreaDesc": "Solomon Islands",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 136.4057,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 113.9993,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 164.0105,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 92,
+            "refAreaDesc": "British Virgin Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 96,
+            "refAreaDesc": "Brunei Darussalam",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 27.4273,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 22.6096,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 30.1507,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 100,
+            "refAreaDesc": "Bulgaria",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 11.0821,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 10.849,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 15.0735,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 104,
+            "refAreaDesc": "Myanmar",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 204.9231,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 178.4995,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 247.5071,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 108,
+            "refAreaDesc": "Burundi",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 808.2126,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 711.5974,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 863.4554,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 112,
+            "refAreaDesc": "Belarus",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 5.1647,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.2593,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 13.0184,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 116,
+            "refAreaDesc": "Cambodia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 201.6084,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 160.538,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 314.7107,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 120,
+            "refAreaDesc": "Cameroon",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 675.5649,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 596.4439,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 728.7323,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 124,
+            "refAreaDesc": "Canada",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 8.1326,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 7.0046,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 9.0425,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 132,
+            "refAreaDesc": "Cabo Verde",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 51.274,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 42.3483,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 54.0971,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 136,
+            "refAreaDesc": "Cayman Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 140,
+            "refAreaDesc": "Central African Republic",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 909.0938,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 882.0657,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 1058.0717,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 142,
+            "refAreaDesc": "Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 143,
+            "refAreaDesc": "Central Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 144,
+            "refAreaDesc": "Sri Lanka",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 35.0169,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 30.2936,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 42.638,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 145,
+            "refAreaDesc": "Western Asia",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 110.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60558
+                    ]
+                },
+                {
+                    "year": 2010,
+                    "value": 96.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60558
+                    ]
+                },
+                {
+                    "year": 2015,
+                    "value": 91.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60558
+                    ]
+                }
+            ]
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 148,
+            "refAreaDesc": "Chad",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 1036.1676,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 856.2483,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 1167.5985,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 150,
+            "refAreaDesc": "Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "150",
+            "parentRegion_DescEN": "Europe",
+            "refAreaType": "Region",
+            "refAreaCode": 151,
+            "refAreaDesc": "Eastern Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 152,
+            "refAreaDesc": "Chile",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 25.9388,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 22.108,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 27.3262,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "150",
+            "parentRegion_DescEN": "Europe",
+            "refAreaType": "Region",
+            "refAreaCode": 154,
+            "refAreaDesc": "Northern Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "150",
+            "parentRegion_DescEN": "Europe",
+            "refAreaType": "Region",
+            "refAreaCode": 155,
+            "refAreaDesc": "Western Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 156,
+            "refAreaDesc": "China",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 35.1188,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 26.6851,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 47.6927,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 158,
+            "refAreaDesc": "Taiwan province of China",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 170,
+            "refAreaDesc": "Colombia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 72.0166,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 64.3258,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 79.7986,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 174,
+            "refAreaDesc": "Comoros",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 387.8713,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 335.2317,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 435.8409,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 175,
+            "refAreaDesc": "Mayotte",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 178,
+            "refAreaDesc": "Congo",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 508.7469,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 441.9968,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 595.7697,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 180,
+            "refAreaDesc": "Democratic Republic of the Congo",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 793.6745,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 693.3502,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 787.2143,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 184,
+            "refAreaDesc": "Cook Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 188,
+            "refAreaDesc": "Costa Rica",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 28.8791,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 25.1496,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 31.2931,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 191,
+            "refAreaDesc": "Croatia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 10.2658,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 8.479800000000001,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 10.6545,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 192,
+            "refAreaDesc": "Cuba",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 43.77,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 39.1641,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 41.2419,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 196,
+            "refAreaDesc": "Cyprus",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 7.5147,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.9296,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 11.8269,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "2",
+            "parentRegion_DescEN": "Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 202,
+            "refAreaDesc": "Sub-Saharan Africa",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 717.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60570
+                    ]
+                },
+                {
+                    "year": 2010,
+                    "value": 624.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60570
+                    ]
+                },
+                {
+                    "year": 2015,
+                    "value": 546.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60570
+                    ]
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 203,
+            "refAreaDesc": "Czechia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 4.5868,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.4151,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 6.0792,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 204,
+            "refAreaDesc": "Benin",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 446.3111,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 404.9432,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 501.9864,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 208,
+            "refAreaDesc": "Denmark",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 7.3712,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.4969,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 8.2432,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 212,
+            "refAreaDesc": "Dominica",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 214,
+            "refAreaDesc": "Dominican Republic",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 75.4188,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 92.0766,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 64.3051,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 218,
+            "refAreaDesc": "Ecuador",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 74.8714,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 63.7794,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 74.1209,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 222,
+            "refAreaDesc": "El Salvador",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 58.8131,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 54.0803,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 67.9646,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 226,
+            "refAreaDesc": "Equatorial Guinea",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 378.7918,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 341.5933,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 483.0188,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 231,
+            "refAreaDesc": "Ethiopia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 523.4966,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 352.6993,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 742.5456,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 232,
+            "refAreaDesc": "Eritrea",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 579.331,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 500.6256,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 618.5537,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 233,
+            "refAreaDesc": "Estonia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 8.2787,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 9.321,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 15.1672,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 234,
+            "refAreaDesc": "Faroe Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 238,
+            "refAreaDesc": "Falkland Islands (Malvinas)",
+            "data": []
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 242,
+            "refAreaDesc": "Fiji",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 34.1102,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 30.2593,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 38.8667,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 246,
+            "refAreaDesc": "Finland",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 3.2234,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 2.6131,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0293,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 250,
+            "refAreaDesc": "France",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 9.0801,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 8.4652,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 10.2717,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 254,
+            "refAreaDesc": "French Guiana",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 258,
+            "refAreaDesc": "French Polynesia",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 262,
+            "refAreaDesc": "Djibouti",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 274.9683,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 229.1775,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 341.0264,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 266,
+            "refAreaDesc": "Gabon",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 322.4484,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 290.6932,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 370.3455,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 268,
+            "refAreaDesc": "Georgia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 39.6045,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 36.0558,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 36.7204,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 270,
+            "refAreaDesc": "Gambia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 752.855,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 706.0202,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 807.3639,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 275,
+            "refAreaDesc": "State of Palestine",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 54.147,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 45.498,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 62.3704,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 276,
+            "refAreaDesc": "Germany",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 6.9416,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.1788,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 7.1415,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 288,
+            "refAreaDesc": "Ghana",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 324.8625,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 319.4761,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 375.5601,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 292,
+            "refAreaDesc": "Gibraltar",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 296,
+            "refAreaDesc": "Kiribati",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 108.9098,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 89.7881,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 134.7851,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 300,
+            "refAreaDesc": "Greece",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 3.2546,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.2036,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 3.3711,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 304,
+            "refAreaDesc": "Greenland",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 308,
+            "refAreaDesc": "Grenada",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 26.6143,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 26.6984,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 24.7172,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 312,
+            "refAreaDesc": "Guadeloupe",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 316,
+            "refAreaDesc": "Guam",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 320,
+            "refAreaDesc": "Guatemala",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 108.5457,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 87.8702,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 120.4077,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 324,
+            "refAreaDesc": "Guinea",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 720.4752,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 678.9889,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 830.9021,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 328,
+            "refAreaDesc": "Guyana",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 240.9174,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 228.7619,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 231.8651,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 332,
+            "refAreaDesc": "Haiti",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 388.7828,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 359.3186,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 458.5134,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 336,
+            "refAreaDesc": "Holy See",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 340,
+            "refAreaDesc": "Honduras",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 154.6945,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 129.3125,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 150.19,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 344,
+            "refAreaDesc": "China, Hong Kong Special Administrative Region",
+            "data": []
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 348,
+            "refAreaDesc": "Hungary",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 15.1696,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 16.5837,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 14.1501,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 352,
+            "refAreaDesc": "Iceland",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 3.7796000000000003,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.4975,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0805,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 356,
+            "refAreaDesc": "India",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 214.8488,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 174.3311,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 280.2101,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 360,
+            "refAreaDesc": "Indonesia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 164.9255,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 126.1863,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 211.8914,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 364,
+            "refAreaDesc": "Iran (Islamic Republic of)",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 27.1808,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 25.168,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 33.8357,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 368,
+            "refAreaDesc": "Iraq",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 51.297,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 49.5986,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 54.0958,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 372,
+            "refAreaDesc": "Ireland",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 7.3234,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 7.6996,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 7.5100999999999996,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 376,
+            "refAreaDesc": "Israel",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 5.7356,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.2415,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 7.4174,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 380,
+            "refAreaDesc": "Italy",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 3.9758,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.6886,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 4.3701,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 384,
+            "refAreaDesc": "C\u00f4te d\u2019Ivoire",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 716.7483,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 644.9901,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 742.0795,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 388,
+            "refAreaDesc": "Jamaica",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 92.674,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 88.5669,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 92.0582,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 392,
+            "refAreaDesc": "Japan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 5.6238,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.4294,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 7.264,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 398,
+            "refAreaDesc": "Kazakhstan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 20.3527,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 11.9523,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 43.5504,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 400,
+            "refAreaDesc": "Jordan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 58.5721,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 57.7011,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 62.3517,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 404,
+            "refAreaDesc": "Kenya",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 605.3097,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 509.5178,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 727.7133,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 408,
+            "refAreaDesc": "Democratic People's Republic of Korea",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 97.4541,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 82.4627,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 104.7452,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 410,
+            "refAreaDesc": "Republic of Korea",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 14.9222,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 11.0111,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 14.3741,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 414,
+            "refAreaDesc": "Kuwait",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 4.6998,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.1179,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 5.7780000000000005,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 417,
+            "refAreaDesc": "Kyrgyzstan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 83.9955,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 75.5075,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 85.336,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 418,
+            "refAreaDesc": "Lao People's Democratic Republic",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 293.8563,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 197.3987,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 418.0008,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "19",
+            "parentRegion_DescEN": "Americas",
+            "refAreaType": "Region",
+            "refAreaCode": 419,
+            "refAreaDesc": "Latin America and the Caribbean",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 88.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2010,
+                    "value": 81.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 67.0,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 422,
+            "refAreaDesc": "Lebanon",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 19.2038,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 14.9252,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 27.1366,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 426,
+            "refAreaDesc": "Lesotho",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 586.5114,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 487.1718,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 746.2709,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 428,
+            "refAreaDesc": "Latvia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 18.9006,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 18.2875,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 21.7959,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 430,
+            "refAreaDesc": "Liberia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 811.2171,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 724.5062,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 1020.3224,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 434,
+            "refAreaDesc": "Libya",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 8.5548,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 9.3314,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 10.9281,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 438,
+            "refAreaDesc": "Liechtenstein",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 440,
+            "refAreaDesc": "Lithuania",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 9.3516,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 9.9091,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 12.4169,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 442,
+            "refAreaDesc": "Luxembourg",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 11.3882,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 9.6978,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 12.7585,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 446,
+            "refAreaDesc": "China, Macao Special Administrative Region",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 450,
+            "refAreaDesc": "Madagascar",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 436.3941,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 352.8615,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 507.8923,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 454,
+            "refAreaDesc": "Malawi",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 629.2265,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 634.1224,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 647.5148,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 458,
+            "refAreaDesc": "Malaysia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 48.2481,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 39.81,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 51.775,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 462,
+            "refAreaDesc": "Maldives",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 87.4443,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 67.682,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 101.2191,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 466,
+            "refAreaDesc": "Mali",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 630.2669,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 587.0765,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 714.4386,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 470,
+            "refAreaDesc": "Malta",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 11.1625,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 8.7807,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 12.7804,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 474,
+            "refAreaDesc": "Martinique",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 478,
+            "refAreaDesc": "Mauritania",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 722.8495,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 601.5852,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 750.0141,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 480,
+            "refAreaDesc": "Mauritius",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 59.0625,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 53.358,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 39.1335,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 484,
+            "refAreaDesc": "Mexico",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 45.371,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 37.8481,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 53.5177,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 492,
+            "refAreaDesc": "Monaco",
+            "data": []
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 496,
+            "refAreaDesc": "Mongolia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 63.0268,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 43.9547,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 94.5198,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 498,
+            "refAreaDesc": "Republic of Moldova",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 33.6327,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 22.9096,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 39.1551,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 499,
+            "refAreaDesc": "Montenegro",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 8.0319,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 7.1585,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 9.4006,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 500,
+            "refAreaDesc": "Montserrat",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 504,
+            "refAreaDesc": "Morocco",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 152.6738,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 121.3173,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 190.1657,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 508,
+            "refAreaDesc": "Mozambique",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 619.3548,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 489.1058,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 762.0592,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 512,
+            "refAreaDesc": "Oman",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 18.2642,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 17.1357,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 19.9137,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 516,
+            "refAreaDesc": "Namibia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 318.9615,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 264.7376,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 390.0475,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 520,
+            "refAreaDesc": "Nauru",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 524,
+            "refAreaDesc": "Nepal",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 348.8149,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 258.4143,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 443.9685,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 528,
+            "refAreaDesc": "Netherlands",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 7.6052,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.9192,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 11.0897,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 531,
+            "refAreaDesc": "Cura\u00e7ao",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 533,
+            "refAreaDesc": "Aruba",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 534,
+            "refAreaDesc": "Sint Maarten (Dutch part)",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 535,
+            "refAreaDesc": "Bonaire, Sint Eustatius and Saba",
+            "data": []
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 540,
+            "refAreaDesc": "New Caledonia",
+            "data": []
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 548,
+            "refAreaDesc": "Vanuatu",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 94.0474,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 78.4103,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 116.0093,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 554,
+            "refAreaDesc": "New Zealand",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 12.8245,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 11.2364,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 13.5008,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 558,
+            "refAreaDesc": "Nicaragua",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 165.7098,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 149.7722,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 190.0936,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 562,
+            "refAreaDesc": "Niger",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 656.9878,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 553.497,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 722.7635,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 566,
+            "refAreaDesc": "Nigeria",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 866.7404,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 813.9774,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 945.9613,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 570,
+            "refAreaDesc": "Niue",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 578,
+            "refAreaDesc": "Norway",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 5.6924,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.9184,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 6.634,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 580,
+            "refAreaDesc": "Northern Mariana Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 583,
+            "refAreaDesc": "Micronesia (Federated States of)",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 114.5142,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 99.5741,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 134.0635,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 584,
+            "refAreaDesc": "Marshall Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 585,
+            "refAreaDesc": "Palau",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 586,
+            "refAreaDesc": "Pakistan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 210.5187,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 177.9448,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 248.9052,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 591,
+            "refAreaDesc": "Panama",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 101.4014,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 94.4862,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 86.896,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 598,
+            "refAreaDesc": "Papua New Guinea",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 238.2807,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 214.7991,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 277.363,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 600,
+            "refAreaDesc": "Paraguay",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 139.2574,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 131.725,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 158.6206,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 604,
+            "refAreaDesc": "Peru",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 91.5658,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 68.364,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 113.6878,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 608,
+            "refAreaDesc": "Philippines",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 128.7285,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 114.1477,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 126.6959,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 616,
+            "refAreaDesc": "Poland",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 3.5945,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.1057,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 5.5184,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 620,
+            "refAreaDesc": "Portugal",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 11.156,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 10.146,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 11.8597,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 624,
+            "refAreaDesc": "Guinea-Bissau",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 569.8297,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 549.1011,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 713.6417,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 626,
+            "refAreaDesc": "Timor-Leste",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 316.8763,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 214.6423,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 505.704,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 630,
+            "refAreaDesc": "Puerto Rico",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 16.2762,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 14.4669,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 18.5445,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 634,
+            "refAreaDesc": "Qatar",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 16.2929,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 12.6342,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 20.904,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 638,
+            "refAreaDesc": "R\u00e9union",
+            "data": []
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 642,
+            "refAreaDesc": "Romania",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 30.1589,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 31.3806,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 32.786,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 643,
+            "refAreaDesc": "Russian Federation",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 28.7868,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 24.6159,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 42.302,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 646,
+            "refAreaDesc": "Rwanda",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 381.447,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 290.2006,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 567.3332,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 654,
+            "refAreaDesc": "Saint Helena",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 659,
+            "refAreaDesc": "Saint Kitts and Nevis",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 660,
+            "refAreaDesc": "Anguilla",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 662,
+            "refAreaDesc": "Saint Lucia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 54.1567,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 47.8169,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 66.7345,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 666,
+            "refAreaDesc": "Saint Pierre and Miquelon",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 670,
+            "refAreaDesc": "Saint Vincent and the Grenadines",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 49.5902,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 44.7456,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 49.8244,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 674,
+            "refAreaDesc": "San Marino",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 678,
+            "refAreaDesc": "Sao Tome and Principe",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 162.3292,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 156.1115,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 181.3795,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 682,
+            "refAreaDesc": "Saudi Arabia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 13.6807,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 11.6142,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 17.7395,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 686,
+            "refAreaDesc": "Senegal",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 374.9774,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 315.1103,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 427.2295,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 688,
+            "refAreaDesc": "Serbia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 15.5614,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 16.8514,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 15.0564,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 690,
+            "refAreaDesc": "Seychelles",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 694,
+            "refAreaDesc": "Sierra Leone",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 1632.6744,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 1359.6742,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 1986.1357,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 702,
+            "refAreaDesc": "Singapore",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 11.441,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 9.9842,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 15.9548,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 703,
+            "refAreaDesc": "Slovakia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 5.6814,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.6370000000000005,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 7.2468,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 704,
+            "refAreaDesc": "Viet Nam",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 58.4271,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 54.1131,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 61.023,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 705,
+            "refAreaDesc": "Slovenia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 9.1991,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 8.5984,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 10.7504,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 706,
+            "refAreaDesc": "Somalia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 819.5657,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 731.8838,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 939.3303,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 710,
+            "refAreaDesc": "South Africa",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 153.8252,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 138.0462,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 112.4262,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 716,
+            "refAreaDesc": "Zimbabwe",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 445.7649,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 443.3138,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 628.9574,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 724,
+            "refAreaDesc": "Spain",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 4.7758,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.9912,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 5.3102,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 728,
+            "refAreaDesc": "South Sudan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 875.8437,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 789.2084,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 1087.6598,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 729,
+            "refAreaDesc": "Sudan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 349.2449,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 310.8528,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 440.4274,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 732,
+            "refAreaDesc": "Western Sahara",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 740,
+            "refAreaDesc": "Suriname",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 169.0628,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 155.1554,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 223.474,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 748,
+            "refAreaDesc": "Eswatini",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 436.4172,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 389.055,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 595.1182,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 752,
+            "refAreaDesc": "Sweden",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 4.3129,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0511,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 4.8456,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 756,
+            "refAreaDesc": "Switzerland",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 5.8414,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.1893,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 6.6778,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 760,
+            "refAreaDesc": "Syrian Arab Republic",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 49.3639,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 67.6153,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 58.2614,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 762,
+            "refAreaDesc": "Tajikistan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 35.3189,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 31.9818,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 45.8229,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 764,
+            "refAreaDesc": "Thailand",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 23.3136,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 20.2863,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 25.6306,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 768,
+            "refAreaDesc": "Togo",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 393.4958,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 368.2437,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 426.8318,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 772,
+            "refAreaDesc": "Tokelau",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 776,
+            "refAreaDesc": "Tonga",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 130.0389,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 123.9509,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 113.7588,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 780,
+            "refAreaDesc": "Trinidad and Tobago",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 64.5383,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 62.7198,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 61.7074,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 784,
+            "refAreaDesc": "United Arab Emirates",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 5.7586,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.1003,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 6.1483,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 788,
+            "refAreaDesc": "Tunisia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 66.7825,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 62.0202,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 74.2214,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 792,
+            "refAreaDesc": "Turkey",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 23.1752,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 15.9466,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 57.2866,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 795,
+            "refAreaDesc": "Turkmenistan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 46.3815,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 42.0231,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 53.486,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 796,
+            "refAreaDesc": "Turks and Caicos Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 798,
+            "refAreaDesc": "Tuvalu",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 800,
+            "refAreaDesc": "Uganda",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 419.9519,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 343.1332,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 504.141,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 804,
+            "refAreaDesc": "Ukraine",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 25.9038,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 24.4514,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 29.7337,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 807,
+            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 7.9678,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 7.5531,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 9.5183,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 818,
+            "refAreaDesc": "Egypt",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 40.4809,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 33.0396,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 51.8047,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 826,
+            "refAreaDesc": "United Kingdom of Great Britain and Northern Ireland",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 10.0661,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 9.1093,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 11.8484,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 830,
+            "refAreaDesc": "Channel Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 833,
+            "refAreaDesc": "Isle of Man",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 834,
+            "refAreaDesc": "United Republic of Tanzania",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 514.4989,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 398.1328,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 686.8034,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 840,
+            "refAreaDesc": "United States of America",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 14.2896,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 13.7493,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 13.3084,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 850,
+            "refAreaDesc": "United States Virgin Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 854,
+            "refAreaDesc": "Burkina Faso",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 417.3301,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 370.6205,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 467.8911,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 858,
+            "refAreaDesc": "Uruguay",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 18.5342,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 14.8093,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 26.1002,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 860,
+            "refAreaDesc": "Uzbekistan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 39.05,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 35.9338,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 42.0975,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 862,
+            "refAreaDesc": "Venezuela (Bolivarian Republic of)",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 98.853,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 95.3956,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 92.7234,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 876,
+            "refAreaDesc": "Wallis and Futuna Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 882,
+            "refAreaDesc": "Samoa",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 63.6465,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 51.2893,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 76.9156,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 887,
+            "refAreaDesc": "Yemen",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 415.8727,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 385.1551,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 428.0094,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 894,
+            "refAreaDesc": "Zambia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 262.3509,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2015,
+                    "value": 224.2364,
+                    "sourceId": 43,
+                    "footnoteId": null
+                },
+                {
+                    "year": 2005,
+                    "value": 372.3393,
+                    "sourceId": 43,
+                    "footnoteId": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 135,
+            "refAreaDesc": "Caucasus and Central Asia",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 46.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60941
+                    ]
+                },
+                {
+                    "year": 2010,
+                    "value": 37.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60941
+                    ]
+                },
+                {
+                    "year": 2015,
+                    "value": 33.0,
+                    "sourceId": 43,
+                    "footnoteId": [
+                        60941
+                    ]
+                }
+            ]
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 19,
+            "refAreaDesc": "Americas",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 530,
+            "refAreaDesc": "Netherlands Antilles [former, 1986 to 2010]",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 736,
+            "refAreaDesc": "Sudan [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 891,
+            "refAreaDesc": "Serbia and Montenegro [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "419",
+            "parentRegion_DescEN": "Latin America & Caribbean",
+            "refAreaType": "Region",
+            "refAreaCode": 420,
+            "refAreaDesc": "Latin America",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 655,
+            "refAreaDesc": "Saint Helena (Ascension)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 831,
+            "refAreaDesc": "Guernsey",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 832,
+            "refAreaDesc": "Jersey",
+            "data": []
+        },
+        {
+            "parentRegionId": "41",
+            "parentRegion_DescEN": "Eastern Europe [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 200,
+            "refAreaDesc": "Czechoslovakia [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 230,
+            "refAreaDesc": "Ethiopia [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 412,
+            "refAreaDesc": "Kosovo",
+            "data": []
+        },
+        {
+            "parentRegionId": "37",
+            "parentRegion_DescEN": "Western Asia [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 720,
+            "refAreaDesc": "Democratic Yemen [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Area",
+            "refAreaCode": 810,
+            "refAreaDesc": "Union of Soviet Socialist Republics [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 835,
+            "refAreaDesc": "United Republic of Tanzania (mainland)",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 836,
+            "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
+            "data": []
+        },
+        {
+            "parentRegionId": "37",
+            "parentRegion_DescEN": "Western Asia [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 886,
+            "refAreaDesc": "Yemen [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 890,
+            "refAreaDesc": "Yugoslavia [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 98,
+            "refAreaDesc": "Euro Area",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 74,
+            "refAreaDesc": "Bouvet Island",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 162,
+            "refAreaDesc": "Christmas Island",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 166,
+            "refAreaDesc": "Cocos (Keeling) Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 239,
+            "refAreaDesc": "South Georgia and the South Sandwich Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 248,
+            "refAreaDesc": "\u00c5land Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 260,
+            "refAreaDesc": "French Southern Territories",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 334,
+            "refAreaDesc": "Heard Island and McDonald Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 574,
+            "refAreaDesc": "Norfolk Island",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 612,
+            "refAreaDesc": "Pitcairn",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 744,
+            "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": null,
+            "refAreaCode": -147,
+            "refAreaDesc": "Asia and the Pacific",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 97,
+            "refAreaDesc": "European Union (EU)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 134,
+            "refAreaDesc": "Caucasus",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 745,
+            "refAreaDesc": "Europe and Central Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": null,
+            "refAreaCode": 369,
+            "refAreaDesc": "Iraq (Central Iraq)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": null,
+            "refAreaCode": 370,
+            "refAreaDesc": "Iraq (Kurdistan Region)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
+            "data": []
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 10,
+            "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 581,
+            "refAreaDesc": "United States minor outlying islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Other",
+            "refAreaCode": 896,
+            "refAreaDesc": "Areas not elsewhere specified",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 199,
+            "refAreaDesc": "Least developed countries (LDCs)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 432,
+            "refAreaDesc": "Landlocked developing countries (LLDCs)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 515,
+            "refAreaDesc": "Developing regions",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 722,
+            "refAreaDesc": "Small island developing States (SIDS)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 81,
+            "refAreaDesc": "Antarctic Fisheries",
+            "data": []
+        },
+        {
+            "parentRegionId": "41",
+            "parentRegion_DescEN": "Eastern Europe [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 278,
+            "refAreaDesc": "German Democratic Republic [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "38",
+            "parentRegion_DescEN": "Western Europe [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 280,
+            "refAreaDesc": "Germany, Federal Republic of [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 532,
+            "refAreaDesc": "Netherlands Antilles [former, pre-1986]",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 658,
+            "refAreaDesc": "Saint Kitts-Nevis-Anguilla [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 592,
+            "refAreaDesc": "Panama Canal Zone [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 711,
+            "refAreaDesc": "Southern African Customs Union (SACU)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 685,
+            "refAreaDesc": "Denmark-Norway-Sweden",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 669,
+            "refAreaDesc": "Bonaire, Sint Eustatius and Saba (Bonaire)",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 667,
+            "refAreaDesc": "Bonaire, Sint Eustatius and Saba (Saba)",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 668,
+            "refAreaDesc": "Bonaire, Sint Eustatius and Saba (Sint Eustatius)",
+            "data": []
+        },
+        {
+            "parentRegionId": "19",
+            "parentRegion_DescEN": "Americas",
+            "refAreaType": "Region",
+            "refAreaCode": 3,
+            "refAreaDesc": "North America",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Other",
+            "refAreaCode": 898,
+            "refAreaDesc": "Areas not specified",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Agency",
+            "refAreaCode": 593,
+            "refAreaDesc": "Development Assistance Committee (DAC)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Other",
+            "refAreaCode": 0,
+            "refAreaDesc": "Total",
+            "data": []
+        },
+        {
+            "parentRegionId": "47",
+            "parentRegion_DescEN": "Micronesia [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 582,
+            "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "47",
+            "parentRegion_DescEN": "Micronesia [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 396,
+            "refAreaDesc": "Johnston Island [former]",
+            "data": []
+        }
+    ]
+}

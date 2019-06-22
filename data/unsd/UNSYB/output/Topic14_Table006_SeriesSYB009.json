@@ -1,0 +1,5124 @@
+{
+    "topicId": 14,
+    "topicNameEN": "Science and technology",
+    "topicNameFR": "Science et technologie",
+    "tableCode": "rdexpend",
+    "tableId": 6,
+    "tableName": "Gross domestic expenditure on research and development (R&D)",
+    "tableStatusId": 2,
+    "tbBkCode": "T30 ",
+    "tbBkPrint": "Y",
+    "newSeriesName": "Gross domestic expenditure on R & D: Not distributed",
+    "SELECT": null,
+    "seriesCode": "SYB009",
+    "SYB_series": [
+        208
+    ],
+    "sources": [
+        {
+            "sourceCode": "UNESCO_RD",
+            "sourceId": 76,
+            "sourceNameEN": "United Nations Educational, Scientific and Cultural Organization (UNESCO), Montreal, the UNESCO Institute for Statistics (UIS) statistics database, last accessed September 2018.",
+            "sourceNameFR": "Organisation des Nations Unies pour l\u2019\u00e9ducation, la science et la culture (UNESCO), Montr\u00e9al, base de donn\u00e9es statistiques de l\u2019Institut de statistique (ISU) de l\u2019UNESCO, dernier acc\u00e8s septembre 2018.\r\n"
+        }
+    ],
+    "footnotes": [
+        {
+            "footnoteId": 51,
+            "footnoteCode": "estimate",
+            "footnoteTextEN": "Estimate.",
+            "footnoteTextFR": "Donn\u00e9es estimatives."
+        },
+        {
+            "footnoteId": 64,
+            "footnoteCode": "break",
+            "footnoteTextEN": "Break in the time series.",
+            "footnoteTextFR": "Discontinuit\u00e9 dans la s\u00e9rie."
+        },
+        {
+            "footnoteId": 175,
+            "footnoteCode": "higheronly",
+            "footnoteTextEN": "Higher Education only.",
+            "footnoteTextFR": "Enseignement sup\u00e9rieur seulement."
+        },
+        {
+            "footnoteId": 182,
+            "footnoteCode": "incbusentfunds",
+            "footnoteTextEN": "Including business enterprise.",
+            "footnoteTextFR": "Y compris les fonds d'entreprises."
+        },
+        {
+            "footnoteId": 188,
+            "footnoteCode": "exprivnonprof",
+            "footnoteTextEN": "Excluding private non-profit.",
+            "footnoteTextFR": "Non compris les organisations priv\u00e9es \u00e0 but non lucratif."
+        },
+        {
+            "footnoteId": 233,
+            "footnoteCode": "doesnotadd",
+            "footnoteTextEN": "The sum of the breakdown does not add to the total.",
+            "footnoteTextFR": "La somme de toutes les valeurs diff\u00e8re du total."
+        },
+        {
+            "footnoteId": 235,
+            "footnoteCode": "incotherclasses",
+            "footnoteTextEN": "Including other classes.",
+            "footnoteTextFR": "Comprend d\u2019autres cat\u00e9gories."
+        },
+        {
+            "footnoteId": 2160,
+            "footnoteCode": "partialdata",
+            "footnoteTextEN": "Partial data.",
+            "footnoteTextFR": "Donn\u00e9es partielles."
+        },
+        {
+            "footnoteId": 56402,
+            "footnoteCode": "exbusent",
+            "footnoteTextEN": "Excluding business enterprise.",
+            "footnoteTextFR": "Ne comprend pas les entreprises commerciales."
+        },
+        {
+            "footnoteId": 57152,
+            "footnoteCode": "inchighereduc",
+            "footnoteTextEN": "Including higher education.",
+            "footnoteTextFR": "Y compris l'enseignement sup\u00e9rieur."
+        },
+        {
+            "footnoteId": 57163,
+            "footnoteCode": "overestimate",
+            "footnoteTextEN": "Overestimated or based on overestimated data.",
+            "footnoteTextFR": "Surestim\u00e9 ou fond\u00e9 sur des donn\u00e9es surestim\u00e9es."
+        },
+        {
+            "footnoteId": 58476,
+            "footnoteCode": "exclregprost",
+            "footnoteTextEN": "Excluding data from some regions, provinces or states.",
+            "footnoteTextFR": "Non compris les donn\u00e9es de certaines r\u00e9gions, provinces ou \u00e9tats."
+        },
+        {
+            "footnoteId": 58498,
+            "footnoteCode": "incgov",
+            "footnoteTextEN": "Including Government.",
+            "footnoteTextFR": "Y compris l'\u00e9tat."
+        }
+    ],
+    "refAreas": [
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 1,
+            "refAreaDesc": "World",
+            "data": []
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 2,
+            "refAreaDesc": "Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 4,
+            "refAreaDesc": "Afghanistan",
+            "data": []
+        },
+        {
+            "parentRegionId": "419",
+            "parentRegion_DescEN": "Latin America & Caribbean",
+            "refAreaType": "Region",
+            "refAreaCode": 5,
+            "refAreaDesc": "South America",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 8,
+            "refAreaDesc": "Albania",
+            "data": []
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 9,
+            "refAreaDesc": "Oceania",
+            "data": []
+        },
+        {
+            "parentRegionId": "202",
+            "parentRegion_DescEN": "Sub-Saharan Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 11,
+            "refAreaDesc": "Western Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 12,
+            "refAreaDesc": "Algeria",
+            "data": []
+        },
+        {
+            "parentRegionId": "419",
+            "parentRegion_DescEN": "Latin America & Caribbean",
+            "refAreaType": "Region",
+            "refAreaCode": 13,
+            "refAreaDesc": "Central America",
+            "data": []
+        },
+        {
+            "parentRegionId": "202",
+            "parentRegion_DescEN": "Sub-Saharan Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 14,
+            "refAreaDesc": "Eastern Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "2",
+            "parentRegion_DescEN": "Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 15,
+            "refAreaDesc": "Northern Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 16,
+            "refAreaDesc": "American Samoa",
+            "data": []
+        },
+        {
+            "parentRegionId": "202",
+            "parentRegion_DescEN": "Sub-Saharan Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 17,
+            "refAreaDesc": "Middle Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "202",
+            "parentRegion_DescEN": "Sub-Saharan Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 18,
+            "refAreaDesc": "Southern Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 20,
+            "refAreaDesc": "Andorra",
+            "data": []
+        },
+        {
+            "parentRegionId": "19",
+            "parentRegion_DescEN": "Americas",
+            "refAreaType": "Region",
+            "refAreaCode": 21,
+            "refAreaDesc": "Northern America",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 24,
+            "refAreaDesc": "Angola",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 28,
+            "refAreaDesc": "Antigua and Barbuda",
+            "data": []
+        },
+        {
+            "parentRegionId": "419",
+            "parentRegion_DescEN": "Latin America & Caribbean",
+            "refAreaType": "Region",
+            "refAreaCode": 29,
+            "refAreaDesc": "Caribbean",
+            "data": []
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 30,
+            "refAreaDesc": "Eastern Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 31,
+            "refAreaDesc": "Azerbaijan",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 32,
+            "refAreaDesc": "Argentina",
+            "data": [
+                {
+                    "year": 2002,
+                    "value": 0.003,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 0.00030000000000000003,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 0.0013000000000000002,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 0.0005,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 0.0006000000000000001,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 34,
+            "refAreaDesc": "Southern Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 35,
+            "refAreaDesc": "South-eastern Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 36,
+            "refAreaDesc": "Australia",
+            "data": []
+        },
+        {
+            "parentRegionId": "150",
+            "parentRegion_DescEN": "Europe",
+            "refAreaType": "Region",
+            "refAreaCode": 39,
+            "refAreaDesc": "Southern Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 40,
+            "refAreaDesc": "Austria",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 44,
+            "refAreaDesc": "Bahamas",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 48,
+            "refAreaDesc": "Bahrain",
+            "data": [
+                {
+                    "year": 2014,
+                    "value": 1.0772,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 50,
+            "refAreaDesc": "Bangladesh",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 51,
+            "refAreaDesc": "Armenia",
+            "data": [
+                {
+                    "year": 2000,
+                    "value": 22.9079,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2001,
+                    "value": 43.9454,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2002,
+                    "value": 33.5668,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 54.9228,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 49.5976,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 17.7902,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 25.6225,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 38.4508,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 42.3431,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 40.5138,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 3.8276,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 37.2118,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 30.8984,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 23.8447,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 23.9066,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        188,
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 25.2458,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        188,
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 52,
+            "refAreaDesc": "Barbados",
+            "data": []
+        },
+        {
+            "parentRegionId": "9",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Region",
+            "refAreaCode": 53,
+            "refAreaDesc": "Australia and New Zealand",
+            "data": []
+        },
+        {
+            "parentRegionId": "9",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Region",
+            "refAreaCode": 54,
+            "refAreaDesc": "Melanesia",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 56,
+            "refAreaDesc": "Belgium",
+            "data": []
+        },
+        {
+            "parentRegionId": "9",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Region",
+            "refAreaCode": 57,
+            "refAreaDesc": "Micronesia",
+            "data": []
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 60,
+            "refAreaDesc": "Bermuda",
+            "data": []
+        },
+        {
+            "parentRegionId": "9",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Region",
+            "refAreaCode": 61,
+            "refAreaDesc": "Polynesia",
+            "data": []
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 62,
+            "refAreaDesc": "South-central Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 64,
+            "refAreaDesc": "Bhutan",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 68,
+            "refAreaDesc": "Bolivia (Plurinational State of)",
+            "data": [
+                {
+                    "year": 2009,
+                    "value": 13.1505,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 70,
+            "refAreaDesc": "Bosnia and Herzegovina",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 25.318,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 18.9168,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 0.34690000000000004,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 72,
+            "refAreaDesc": "Botswana",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 0.197,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 76,
+            "refAreaDesc": "Brazil",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 0.0002,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 0.0002,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 0.0014,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 84,
+            "refAreaDesc": "Belize",
+            "data": []
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 90,
+            "refAreaDesc": "Solomon Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 92,
+            "refAreaDesc": "British Virgin Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 96,
+            "refAreaDesc": "Brunei Darussalam",
+            "data": []
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 100,
+            "refAreaDesc": "Bulgaria",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 104,
+            "refAreaDesc": "Myanmar",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 108,
+            "refAreaDesc": "Burundi",
+            "data": []
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 112,
+            "refAreaDesc": "Belarus",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 116,
+            "refAreaDesc": "Cambodia",
+            "data": [
+                {
+                    "year": 2002,
+                    "value": 10.6231,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 120,
+            "refAreaDesc": "Cameroon",
+            "data": []
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 124,
+            "refAreaDesc": "Canada",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 132,
+            "refAreaDesc": "Cabo Verde",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 136,
+            "refAreaDesc": "Cayman Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 140,
+            "refAreaDesc": "Central African Republic",
+            "data": []
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 142,
+            "refAreaDesc": "Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 143,
+            "refAreaDesc": "Central Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 144,
+            "refAreaDesc": "Sri Lanka",
+            "data": [
+                {
+                    "year": 2000,
+                    "value": 17.5138,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64,
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 9.258,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 10.9236,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0361,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 0.2575,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 0.41190000000000004,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 0.4602,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "142",
+            "parentRegion_DescEN": "Asia",
+            "refAreaType": "Region",
+            "refAreaCode": 145,
+            "refAreaDesc": "Western Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 148,
+            "refAreaDesc": "Chad",
+            "data": []
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 150,
+            "refAreaDesc": "Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "150",
+            "parentRegion_DescEN": "Europe",
+            "refAreaType": "Region",
+            "refAreaCode": 151,
+            "refAreaDesc": "Eastern Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 152,
+            "refAreaDesc": "Chile",
+            "data": []
+        },
+        {
+            "parentRegionId": "150",
+            "parentRegion_DescEN": "Europe",
+            "refAreaType": "Region",
+            "refAreaCode": 154,
+            "refAreaDesc": "Northern Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "150",
+            "parentRegion_DescEN": "Europe",
+            "refAreaType": "Region",
+            "refAreaCode": 155,
+            "refAreaDesc": "Western Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 156,
+            "refAreaDesc": "China",
+            "data": []
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 158,
+            "refAreaDesc": "Taiwan province of China",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 170,
+            "refAreaDesc": "Colombia",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 174,
+            "refAreaDesc": "Comoros",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 175,
+            "refAreaDesc": "Mayotte",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 178,
+            "refAreaDesc": "Congo",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 180,
+            "refAreaDesc": "Democratic Republic of the Congo",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 184,
+            "refAreaDesc": "Cook Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 188,
+            "refAreaDesc": "Costa Rica",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 9.5738,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 13.7384,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2012,
+                    "value": 34.6628,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 35.168,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 40.3798,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 191,
+            "refAreaDesc": "Croatia",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 192,
+            "refAreaDesc": "Cuba",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 196,
+            "refAreaDesc": "Cyprus",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 0.0779,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2012,
+                    "value": 0.082,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 0.08,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "2",
+            "parentRegion_DescEN": "Africa",
+            "refAreaType": "Region",
+            "refAreaCode": 202,
+            "refAreaDesc": "Sub-Saharan Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 203,
+            "refAreaDesc": "Czechia",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 204,
+            "refAreaDesc": "Benin",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 208,
+            "refAreaDesc": "Denmark",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 212,
+            "refAreaDesc": "Dominica",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 214,
+            "refAreaDesc": "Dominican Republic",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 218,
+            "refAreaDesc": "Ecuador",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 3.9867,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 6.2407,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 40.8404,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64,
+                        182
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 43.4006,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        182
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 58.121,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        182
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2012,
+                    "value": 57.2534,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        182
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 49.0583,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        182
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 42.3041,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        182
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 222,
+            "refAreaDesc": "El Salvador",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 0.042100000000000005,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 0.0244,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 0.3013,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 0.125,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 0.1139,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 0.3305,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 0.003,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 226,
+            "refAreaDesc": "Equatorial Guinea",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 231,
+            "refAreaDesc": "Ethiopia",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 0.5334,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 2.1646,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 16.0066,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 232,
+            "refAreaDesc": "Eritrea",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 233,
+            "refAreaDesc": "Estonia",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 234,
+            "refAreaDesc": "Faroe Islands",
+            "data": [
+                {
+                    "year": 2003,
+                    "value": 60.5819,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        57152,
+                        57163,
+                        58498
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 238,
+            "refAreaDesc": "Falkland Islands (Malvinas)",
+            "data": []
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 242,
+            "refAreaDesc": "Fiji",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 246,
+            "refAreaDesc": "Finland",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 250,
+            "refAreaDesc": "France",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 254,
+            "refAreaDesc": "French Guiana",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 258,
+            "refAreaDesc": "French Polynesia",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 262,
+            "refAreaDesc": "Djibouti",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 266,
+            "refAreaDesc": "Gabon",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 0.0085,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 0.0091,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 268,
+            "refAreaDesc": "Georgia",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 0.44520000000000004,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        175,
+                        233,
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 270,
+            "refAreaDesc": "Gambia",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 275,
+            "refAreaDesc": "State of Palestine",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 29.5,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402,
+                        58476
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 37.6,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402,
+                        58476
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 29.41,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402,
+                        58476
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 18.1756,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 21.0742,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 276,
+            "refAreaDesc": "Germany",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 288,
+            "refAreaDesc": "Ghana",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 292,
+            "refAreaDesc": "Gibraltar",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 296,
+            "refAreaDesc": "Kiribati",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 300,
+            "refAreaDesc": "Greece",
+            "data": []
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 304,
+            "refAreaDesc": "Greenland",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 308,
+            "refAreaDesc": "Grenada",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 312,
+            "refAreaDesc": "Guadeloupe",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 316,
+            "refAreaDesc": "Guam",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 320,
+            "refAreaDesc": "Guatemala",
+            "data": [
+                {
+                    "year": 2014,
+                    "value": 0.0015,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 324,
+            "refAreaDesc": "Guinea",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 328,
+            "refAreaDesc": "Guyana",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 332,
+            "refAreaDesc": "Haiti",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 336,
+            "refAreaDesc": "Holy See",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 340,
+            "refAreaDesc": "Honduras",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 0.0039000000000000003,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 344,
+            "refAreaDesc": "China, Hong Kong Special Administrative Region",
+            "data": []
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 348,
+            "refAreaDesc": "Hungary",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 352,
+            "refAreaDesc": "Iceland",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 356,
+            "refAreaDesc": "India",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 360,
+            "refAreaDesc": "Indonesia",
+            "data": [
+                {
+                    "year": 2000,
+                    "value": 0.54,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2001,
+                    "value": 0.65,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 364,
+            "refAreaDesc": "Iran (Islamic Republic of)",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 368,
+            "refAreaDesc": "Iraq",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 372,
+            "refAreaDesc": "Ireland",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 376,
+            "refAreaDesc": "Israel",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 380,
+            "refAreaDesc": "Italy",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 384,
+            "refAreaDesc": "C\u00f4te d\u2019Ivoire",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 388,
+            "refAreaDesc": "Jamaica",
+            "data": []
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 392,
+            "refAreaDesc": "Japan",
+            "data": []
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 398,
+            "refAreaDesc": "Kazakhstan",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 6.6431000000000004,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0035,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 2.8462,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 5.6338,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 400,
+            "refAreaDesc": "Jordan",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 404,
+            "refAreaDesc": "Kenya",
+            "data": []
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 408,
+            "refAreaDesc": "Democratic People's Republic of Korea",
+            "data": []
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 410,
+            "refAreaDesc": "Republic of Korea",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 414,
+            "refAreaDesc": "Kuwait",
+            "data": [
+                {
+                    "year": 2014,
+                    "value": 2.2633,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        188,
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 417,
+            "refAreaDesc": "Kyrgyzstan",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 1.4538,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 0.0563,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 1.0479,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 0.8282,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        188
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.1691,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        188
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 418,
+            "refAreaDesc": "Lao People's Democratic Republic",
+            "data": []
+        },
+        {
+            "parentRegionId": "19",
+            "parentRegion_DescEN": "Americas",
+            "refAreaType": "Region",
+            "refAreaCode": 419,
+            "refAreaDesc": "Latin America and the Caribbean",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 422,
+            "refAreaDesc": "Lebanon",
+            "data": []
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 426,
+            "refAreaDesc": "Lesotho",
+            "data": [
+                {
+                    "year": 2009,
+                    "value": 78.862,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 51.8928,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 428,
+            "refAreaDesc": "Latvia",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 430,
+            "refAreaDesc": "Liberia",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 434,
+            "refAreaDesc": "Libya",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 438,
+            "refAreaDesc": "Liechtenstein",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 440,
+            "refAreaDesc": "Lithuania",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 442,
+            "refAreaDesc": "Luxembourg",
+            "data": []
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 446,
+            "refAreaDesc": "China, Macao Special Administrative Region",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 1.391,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 2.6029999999999998,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 1.5671,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 0.2816,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 0.4571,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.0882,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 32.4765,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 450,
+            "refAreaDesc": "Madagascar",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 454,
+            "refAreaDesc": "Malawi",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 458,
+            "refAreaDesc": "Malaysia",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 6.3098,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 2.0294,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 0.0472,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 0.0917,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 0.1592,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0313,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 76.7645,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64,
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.9794,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64,
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 462,
+            "refAreaDesc": "Maldives",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 466,
+            "refAreaDesc": "Mali",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 22.3963,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 470,
+            "refAreaDesc": "Malta",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 474,
+            "refAreaDesc": "Martinique",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 478,
+            "refAreaDesc": "Mauritania",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 480,
+            "refAreaDesc": "Mauritius",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 484,
+            "refAreaDesc": "Mexico",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 492,
+            "refAreaDesc": "Monaco",
+            "data": [
+                {
+                    "year": 2004,
+                    "value": 2.9648,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 1.2313,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "30",
+            "parentRegion_DescEN": "Eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 496,
+            "refAreaDesc": "Mongolia",
+            "data": [
+                {
+                    "year": 2003,
+                    "value": 1.585,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 1.327,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 6.5191,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 9.8285,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 22.7621,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 26.1732,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 32.1714,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 25.8943,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 17.9911,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 11.0185,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 10.6889,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 2.9147,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 2.1194,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        2160
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 498,
+            "refAreaDesc": "Republic of Moldova",
+            "data": [
+                {
+                    "year": 2003,
+                    "value": 98.1006,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64,
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 99.1056,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 96.2025,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 97.3597,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 97.3242,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 96.2545,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 93.5139,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 92.6313,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 90.6447,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 88.2023,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 87.211,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 88.3592,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 95.823,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        235
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 499,
+            "refAreaDesc": "Montenegro",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 500,
+            "refAreaDesc": "Montserrat",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 504,
+            "refAreaDesc": "Morocco",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 508,
+            "refAreaDesc": "Mozambique",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 2.8353,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 512,
+            "refAreaDesc": "Oman",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 21.6742,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2012,
+                    "value": 0.0026000000000000003,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 2.3419,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 516,
+            "refAreaDesc": "Namibia",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 520,
+            "refAreaDesc": "Nauru",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 524,
+            "refAreaDesc": "Nepal",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 528,
+            "refAreaDesc": "Netherlands",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 531,
+            "refAreaDesc": "Cura\u00e7ao",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 533,
+            "refAreaDesc": "Aruba",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 534,
+            "refAreaDesc": "Sint Maarten (Dutch part)",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 535,
+            "refAreaDesc": "Bonaire, Sint Eustatius and Saba",
+            "data": []
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 540,
+            "refAreaDesc": "New Caledonia",
+            "data": []
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 548,
+            "refAreaDesc": "Vanuatu",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 554,
+            "refAreaDesc": "New Zealand",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 558,
+            "refAreaDesc": "Nicaragua",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 562,
+            "refAreaDesc": "Niger",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 566,
+            "refAreaDesc": "Nigeria",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 0.641,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 570,
+            "refAreaDesc": "Niue",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 578,
+            "refAreaDesc": "Norway",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 580,
+            "refAreaDesc": "Northern Mariana Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 583,
+            "refAreaDesc": "Micronesia (Federated States of)",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 584,
+            "refAreaDesc": "Marshall Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 585,
+            "refAreaDesc": "Palau",
+            "data": []
+        },
+        {
+            "parentRegionId": "34",
+            "parentRegion_DescEN": "Southern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 586,
+            "refAreaDesc": "Pakistan",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 0.7606,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 1.4782,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 1.2759,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 1.3041,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 1.7119,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        188,
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5596,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        188,
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 591,
+            "refAreaDesc": "Panama",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 0.1,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2002,
+                    "value": 0.1,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 0.1,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 0.0089,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 0.0789,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 0.0925,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 0.007200000000000001,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 0.0073,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 0.016900000000000002,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "54",
+            "parentRegion_DescEN": "Melanesia",
+            "refAreaType": "Area",
+            "refAreaCode": 598,
+            "refAreaDesc": "Papua New Guinea",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 8.7684,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 600,
+            "refAreaDesc": "Paraguay",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 0.0,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2012,
+                    "value": 2.3168,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 7.8099,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 10.0894,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 604,
+            "refAreaDesc": "Peru",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 608,
+            "refAreaDesc": "Philippines",
+            "data": [
+                {
+                    "year": 2002,
+                    "value": 0.6759000000000001,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 0.0534,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 0.318,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 0.5497000000000001,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 3.3766,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 0.0511,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 0.5092,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 616,
+            "refAreaDesc": "Poland",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 620,
+            "refAreaDesc": "Portugal",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 624,
+            "refAreaDesc": "Guinea-Bissau",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 626,
+            "refAreaDesc": "Timor-Leste",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 630,
+            "refAreaDesc": "Puerto Rico",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 0.2753,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 0.5640000000000001,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 634,
+            "refAreaDesc": "Qatar",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 0.0524,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 0.038,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 638,
+            "refAreaDesc": "R\u00e9union",
+            "data": []
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 642,
+            "refAreaDesc": "Romania",
+            "data": []
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 643,
+            "refAreaDesc": "Russian Federation",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 646,
+            "refAreaDesc": "Rwanda",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 654,
+            "refAreaDesc": "Saint Helena",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 659,
+            "refAreaDesc": "Saint Kitts and Nevis",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 660,
+            "refAreaDesc": "Anguilla",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 662,
+            "refAreaDesc": "Saint Lucia",
+            "data": []
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 666,
+            "refAreaDesc": "Saint Pierre and Miquelon",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 670,
+            "refAreaDesc": "Saint Vincent and the Grenadines",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 674,
+            "refAreaDesc": "San Marino",
+            "data": []
+        },
+        {
+            "parentRegionId": "17",
+            "parentRegion_DescEN": "Middle Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 678,
+            "refAreaDesc": "Sao Tome and Principe",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 682,
+            "refAreaDesc": "Saudi Arabia",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 686,
+            "refAreaDesc": "Senegal",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 0.054400000000000004,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 4.4943,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 688,
+            "refAreaDesc": "Serbia",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 690,
+            "refAreaDesc": "Seychelles",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 0.2801,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        56402
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 694,
+            "refAreaDesc": "Sierra Leone",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 702,
+            "refAreaDesc": "Singapore",
+            "data": []
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 703,
+            "refAreaDesc": "Slovakia",
+            "data": []
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 704,
+            "refAreaDesc": "Viet Nam",
+            "data": [
+                {
+                    "year": 2002,
+                    "value": 0.8400000000000001,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 1.8267,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.0416,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 705,
+            "refAreaDesc": "Slovenia",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 706,
+            "refAreaDesc": "Somalia",
+            "data": []
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 710,
+            "refAreaDesc": "South Africa",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 716,
+            "refAreaDesc": "Zimbabwe",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 724,
+            "refAreaDesc": "Spain",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 728,
+            "refAreaDesc": "South Sudan",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 729,
+            "refAreaDesc": "Sudan",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 732,
+            "refAreaDesc": "Western Sahara",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 740,
+            "refAreaDesc": "Suriname",
+            "data": []
+        },
+        {
+            "parentRegionId": "18",
+            "parentRegion_DescEN": "Southern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 748,
+            "refAreaDesc": "Eswatini",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 752,
+            "refAreaDesc": "Sweden",
+            "data": []
+        },
+        {
+            "parentRegionId": "155",
+            "parentRegion_DescEN": "Western Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 756,
+            "refAreaDesc": "Switzerland",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 760,
+            "refAreaDesc": "Syrian Arab Republic",
+            "data": []
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 762,
+            "refAreaDesc": "Tajikistan",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 1.917,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2002,
+                    "value": 5.889,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 27.0134,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 30.3973,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 5.4706,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        233
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 19.8579,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        233
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 2.7251000000000003,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        233
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 7.2897,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        233
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 16.1408,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        233
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 19.6543,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        233
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 15.0788,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        233
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 7.1279,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "35",
+            "parentRegion_DescEN": "South-eastern Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 764,
+            "refAreaDesc": "Thailand",
+            "data": [
+                {
+                    "year": 2002,
+                    "value": 63.1785,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        51
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 1.2517,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 64.456,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        51
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 2.4,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 3.4867,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 1.5710000000000002,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 1.3397000000000001,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 17.8047,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.0292,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 768,
+            "refAreaDesc": "Togo",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 772,
+            "refAreaDesc": "Tokelau",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 776,
+            "refAreaDesc": "Tonga",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 780,
+            "refAreaDesc": "Trinidad and Tobago",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 784,
+            "refAreaDesc": "United Arab Emirates",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 788,
+            "refAreaDesc": "Tunisia",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 792,
+            "refAreaDesc": "Turkey",
+            "data": []
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 795,
+            "refAreaDesc": "Turkmenistan",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 796,
+            "refAreaDesc": "Turks and Caicos Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 798,
+            "refAreaDesc": "Tuvalu",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 800,
+            "refAreaDesc": "Uganda",
+            "data": [
+                {
+                    "year": 2014,
+                    "value": 0.6711,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "151",
+            "parentRegion_DescEN": "Eastern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 804,
+            "refAreaDesc": "Ukraine",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 4.2408,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2002,
+                    "value": 3.4155,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 2.1783,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 2.858,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 2.7971,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 1.522,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 1.3231,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 1.7039,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 1.6455000000000002,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 1.0655000000000001,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 0.7592,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 1.3404,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 1.0533,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 2.0188,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 1.581,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 807,
+            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 818,
+            "refAreaDesc": "Egypt",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 826,
+            "refAreaDesc": "United Kingdom of Great Britain and Northern Ireland",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 830,
+            "refAreaDesc": "Channel Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 833,
+            "refAreaDesc": "Isle of Man",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 834,
+            "refAreaDesc": "United Republic of Tanzania",
+            "data": []
+        },
+        {
+            "parentRegionId": "21",
+            "parentRegion_DescEN": "Northern America",
+            "refAreaType": "Area",
+            "refAreaCode": 840,
+            "refAreaDesc": "United States of America",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 850,
+            "refAreaDesc": "United States Virgin Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 854,
+            "refAreaDesc": "Burkina Faso",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 3.1833,
+                    "sourceId": 76,
+                    "footnoteId": [
+                        64
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 6.6411,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 5.9202,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 858,
+            "refAreaDesc": "Uruguay",
+            "data": [
+                {
+                    "year": 2000,
+                    "value": 0.02,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 27.4848,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 1.1079,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 0.7644000000000001,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 8.8837,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "143",
+            "parentRegion_DescEN": "Central Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 860,
+            "refAreaDesc": "Uzbekistan",
+            "data": [
+                {
+                    "year": 2000,
+                    "value": 4.5157,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2001,
+                    "value": 2.457,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2002,
+                    "value": 2.059,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 2.7798,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 2.4967,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5874,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5653,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2007,
+                    "value": 6.6855,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0022,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2009,
+                    "value": 2.8166,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2010,
+                    "value": 4.6625,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2011,
+                    "value": 3.2623,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2012,
+                    "value": 2.6188000000000002,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 3.4574,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 4.424,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 2.9165,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 2.68,
+                    "sourceId": 76,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 862,
+            "refAreaDesc": "Venezuela (Bolivarian Republic of)",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 876,
+            "refAreaDesc": "Wallis and Futuna Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 882,
+            "refAreaDesc": "Samoa",
+            "data": []
+        },
+        {
+            "parentRegionId": "145",
+            "parentRegion_DescEN": "Western Asia",
+            "refAreaType": "Area",
+            "refAreaCode": 887,
+            "refAreaDesc": "Yemen",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 894,
+            "refAreaDesc": "Zambia",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 135,
+            "refAreaDesc": "Caucasus and Central Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 19,
+            "refAreaDesc": "Americas",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 530,
+            "refAreaDesc": "Netherlands Antilles [former, 1986 to 2010]",
+            "data": []
+        },
+        {
+            "parentRegionId": "15",
+            "parentRegion_DescEN": "Northern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 736,
+            "refAreaDesc": "Sudan [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 891,
+            "refAreaDesc": "Serbia and Montenegro [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "419",
+            "parentRegion_DescEN": "Latin America & Caribbean",
+            "refAreaType": "Region",
+            "refAreaCode": 420,
+            "refAreaDesc": "Latin America",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
+        },
+        {
+            "parentRegionId": "11",
+            "parentRegion_DescEN": "Western Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 655,
+            "refAreaDesc": "Saint Helena (Ascension)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 831,
+            "refAreaDesc": "Guernsey",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 832,
+            "refAreaDesc": "Jersey",
+            "data": []
+        },
+        {
+            "parentRegionId": "41",
+            "parentRegion_DescEN": "Eastern Europe [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 200,
+            "refAreaDesc": "Czechoslovakia [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 230,
+            "refAreaDesc": "Ethiopia [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 412,
+            "refAreaDesc": "Kosovo",
+            "data": []
+        },
+        {
+            "parentRegionId": "37",
+            "parentRegion_DescEN": "Western Asia [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 720,
+            "refAreaDesc": "Democratic Yemen [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Area",
+            "refAreaCode": 810,
+            "refAreaDesc": "Union of Soviet Socialist Republics [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 835,
+            "refAreaDesc": "United Republic of Tanzania (mainland)",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 836,
+            "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
+            "data": []
+        },
+        {
+            "parentRegionId": "37",
+            "parentRegion_DescEN": "Western Asia [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 886,
+            "refAreaDesc": "Yemen [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "39",
+            "parentRegion_DescEN": "Southern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 890,
+            "refAreaDesc": "Yugoslavia [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 98,
+            "refAreaDesc": "Euro Area",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 74,
+            "refAreaDesc": "Bouvet Island",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 162,
+            "refAreaDesc": "Christmas Island",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 166,
+            "refAreaDesc": "Cocos (Keeling) Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "5",
+            "parentRegion_DescEN": "South America",
+            "refAreaType": "Area",
+            "refAreaCode": 239,
+            "refAreaDesc": "South Georgia and the South Sandwich Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 248,
+            "refAreaDesc": "\u00c5land Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 260,
+            "refAreaDesc": "French Southern Territories",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 334,
+            "refAreaDesc": "Heard Island and McDonald Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": "53",
+            "parentRegion_DescEN": "Oceania",
+            "refAreaType": "Area",
+            "refAreaCode": 574,
+            "refAreaDesc": "Norfolk Island",
+            "data": []
+        },
+        {
+            "parentRegionId": "61",
+            "parentRegion_DescEN": "Polynesia",
+            "refAreaType": "Area",
+            "refAreaCode": 612,
+            "refAreaDesc": "Pitcairn",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
+        },
+        {
+            "parentRegionId": "154",
+            "parentRegion_DescEN": "Northern Europe",
+            "refAreaType": "Area",
+            "refAreaCode": 744,
+            "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": null,
+            "refAreaCode": -147,
+            "refAreaDesc": "Asia and the Pacific",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 97,
+            "refAreaDesc": "European Union (EU)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 134,
+            "refAreaDesc": "Caucasus",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 745,
+            "refAreaDesc": "Europe and Central Asia",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": null,
+            "refAreaCode": 369,
+            "refAreaDesc": "Iraq (Central Iraq)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": null,
+            "refAreaCode": 370,
+            "refAreaDesc": "Iraq (Kurdistan Region)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
+            "data": []
+        },
+        {
+            "parentRegionId": "1",
+            "parentRegion_DescEN": "World",
+            "refAreaType": "Region",
+            "refAreaCode": 10,
+            "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "57",
+            "parentRegion_DescEN": "Micronesia",
+            "refAreaType": "Area",
+            "refAreaCode": 581,
+            "refAreaDesc": "United States minor outlying islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Other",
+            "refAreaCode": 896,
+            "refAreaDesc": "Areas not elsewhere specified",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 199,
+            "refAreaDesc": "Least developed countries (LDCs)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 432,
+            "refAreaDesc": "Landlocked developing countries (LLDCs)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 515,
+            "refAreaDesc": "Developing regions",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 722,
+            "refAreaDesc": "Small island developing States (SIDS)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 81,
+            "refAreaDesc": "Antarctic Fisheries",
+            "data": []
+        },
+        {
+            "parentRegionId": "41",
+            "parentRegion_DescEN": "Eastern Europe [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 278,
+            "refAreaDesc": "German Democratic Republic [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "38",
+            "parentRegion_DescEN": "Western Europe [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 280,
+            "refAreaDesc": "Germany, Federal Republic of [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 532,
+            "refAreaDesc": "Netherlands Antilles [former, pre-1986]",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 658,
+            "refAreaDesc": "Saint Kitts-Nevis-Anguilla [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "13",
+            "parentRegion_DescEN": "Central America",
+            "refAreaType": "Area",
+            "refAreaCode": 592,
+            "refAreaDesc": "Panama Canal Zone [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Group",
+            "refAreaCode": 711,
+            "refAreaDesc": "Southern African Customs Union (SACU)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 685,
+            "refAreaDesc": "Denmark-Norway-Sweden",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 669,
+            "refAreaDesc": "Bonaire, Sint Eustatius and Saba (Bonaire)",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 667,
+            "refAreaDesc": "Bonaire, Sint Eustatius and Saba (Saba)",
+            "data": []
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 668,
+            "refAreaDesc": "Bonaire, Sint Eustatius and Saba (Sint Eustatius)",
+            "data": []
+        },
+        {
+            "parentRegionId": "19",
+            "parentRegion_DescEN": "Americas",
+            "refAreaType": "Region",
+            "refAreaCode": 3,
+            "refAreaDesc": "North America",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Other",
+            "refAreaCode": 898,
+            "refAreaDesc": "Areas not specified",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Agency",
+            "refAreaCode": 593,
+            "refAreaDesc": "Development Assistance Committee (DAC)",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Other",
+            "refAreaCode": 0,
+            "refAreaDesc": "Total",
+            "data": []
+        },
+        {
+            "parentRegionId": "47",
+            "parentRegion_DescEN": "Micronesia [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 582,
+            "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
+            "data": []
+        },
+        {
+            "parentRegionId": "47",
+            "parentRegion_DescEN": "Micronesia [former]",
+            "refAreaType": "Area",
+            "refAreaCode": 396,
+            "refAreaDesc": "Johnston Island [former]",
+            "data": []
+        }
+    ]
+}
