@@ -458,6 +458,7 @@ for this_country in countryArray:
 
 
             if this_fact['Text.type'] =='1':
+                
                 fact_title = slice_description['seriesDesc']
                 if conditions:
                     fact_text = this_fact['DA3.1'] + prog + "<span class='fact-value'>" + str(value_y_min) + "</span>" + " <span class='fact-unit'>" + this_fact['unit1']  + "</span>" + " in " +  "<span class='fact-year'>" + str(y_min) + "</span>" + " to " + "<span class='fact-value'>" + str(value_y_max) + this_fact['unit1']+ "</span> " +  " in " +  " <span class='fact-year'>" + str(y_max)  + "</span>" + "."

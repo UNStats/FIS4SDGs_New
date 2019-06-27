@@ -1158,21 +1158,6 @@
                 "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/ER_GRF_ANIMSTOR_2_5_1_2019Q1G03/FeatureServer"
             },
             {
-                "id": "113602edc76e4b59bd1646738289c574",
-                "owner": "unstats_admin",
-                "created": 1537229816000,
-                "modified": 1560542160602,
-                "title": "Indicator 2.5.2: Local breeds classified as being at unknown level of risk of extinction (number)",
-                "type": "Feature Service",
-                "tags": [
-                    "sustainable agriculture",
-                    "genetic resources",
-                    "2018.Q2.G.01",
-                    "Historic"
-                ],
-                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/ER_UNK_LBREDN_2_5_2_2018Q2G01/FeatureServer"
-            },
-            {
                 "seriesCode": "ER_UNK_LBREDN",
                 "seriesName": "Local breeds classified as being at unknown level of risk of extinction (number)",
                 "release": "2019.Q1.G.03",
@@ -1188,21 +1173,6 @@
                     "2019.Q1.G.03"
                 ],
                 "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/ER_UNK_LBREDN_2_5_2_2019Q1G03/FeatureServer"
-            },
-            {
-                "id": "b4d6fc0f14de48a9b852461087d61c8a",
-                "owner": "unstats_admin",
-                "created": 1537229747000,
-                "modified": 1560542175213,
-                "title": "Indicator 2.5.2: Local breeds classified as being not-at-risk (number)",
-                "type": "Feature Service",
-                "tags": [
-                    "sustainable agriculture",
-                    "genetic resources",
-                    "2018.Q2.G.01",
-                    "Historic"
-                ],
-                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/ER_RSK_LBREDN_2_5_2_2018Q2G01/FeatureServer"
             },
             {
                 "seriesCode": "ER_NRK_LBREDN",
@@ -1239,21 +1209,6 @@
                 "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/ER_RSK_LBREDN_2_5_2_2019Q1G03/FeatureServer"
             },
             {
-                "id": "7354bbfd84be47b889c26799f7207b02",
-                "owner": "unstats_admin",
-                "created": 1537229781000,
-                "modified": 1560542198180,
-                "title": "Indicator 2.5.2: Proportion of local breeds classified as being at unknown level of risk of extinction (percent)",
-                "type": "Feature Service",
-                "tags": [
-                    "sustainable agriculture",
-                    "genetic resources",
-                    "2018.Q2.G.01",
-                    "Historic"
-                ],
-                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/ER_UNK_LBRED_2_5_2_2018Q2G01/FeatureServer"
-            },
-            {
                 "seriesCode": "ER_UNK_LBRED",
                 "seriesName": "Proportion of local breeds classified as being at unknown level of risk of extinction (%)",
                 "release": "2019.Q1.G.03",
@@ -1269,21 +1224,6 @@
                     "2019.Q1.G.03"
                 ],
                 "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/ER_UNK_LBRED_2_5_2_2019Q1G03/FeatureServer"
-            },
-            {
-                "id": "afb43afdd71849aea150089fcccf099b",
-                "owner": "unstats_admin",
-                "created": 1537229711000,
-                "modified": 1560542209834,
-                "title": "Indicator 2.5.2: Proportion of local breeds classified as being not-at-risk (percent)",
-                "type": "Feature Service",
-                "tags": [
-                    "sustainable agriculture",
-                    "genetic resources",
-                    "2018.Q2.G.01",
-                    "Historic"
-                ],
-                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/ER_RSK_LBRED_2_5_2_2018Q2G01/FeatureServer"
             },
             {
                 "seriesCode": "ER_NRK_LBRED",
