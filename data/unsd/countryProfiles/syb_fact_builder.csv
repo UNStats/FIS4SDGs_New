@@ -1,195 +1,195 @@
-topicId	topicName	tableId	tableName	seriesCode	seriesDesc	units	multiplier	baseYear	multiplierDesc	personnelTypeCode	personnelTypeDesc	activityCode	activityDesc	speciesCode	speciesDesc	ODACode	ODADesc	urbanizationCode	urbanizationDesc	ageCode	ageDesc	sexCode	sexDesc	educationLevCode	educationLevDesc
-2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB011	Infant mortality ratio	Number of deaths per 1,000 live births	0																		
-2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB012	Life expectancy at birth	Number of years	0															_T	Both sexes or no breakdown by sex		
-2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB012	Life expectancy at birth	Number of years	0															F	Female		
-2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB012	Life expectancy at birth	Number of years	0															M	Male		
-2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB013	Maternal mortality ratio	Number of deaths per 1,000 population	0																		
-2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB014	Population annual rate of increase	Percent	0																		
-2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB015	Total fertility rate	Number of children per women	0																		
-2	Population and migration	78	International migrants and refugees	SYB072	Asylum seekers, including pending cases	Number	0																		
-2	Population and migration	78	International migrants and refugees	SYB073	International migrant stock as percent of total population	Percent of total population	0															_T	Both sexes or no breakdown by sex		
-2	Population and migration	78	International migrants and refugees	SYB073	International migrant stock as percent of total population	Percent of total population	0															F	Female		
-2	Population and migration	78	International migrants and refugees	SYB073	International migrant stock as percent of total population	Percent of total population	0															M	Male		
-2	Population and migration	78	International migrants and refugees	SYB074	International migrant stock	Number	0															_T	Both sexes or no breakdown by sex		
-2	Population and migration	78	International migrants and refugees	SYB075	Other population of concern to UNHCR	Number	0																		
-2	Population and migration	78	International migrants and refugees	SYB076	Total population of concern to UNHCR	Number	0																		
-2	Population and migration	78	International migrants and refugees	SYB077	Total refugees and people in refugee-like situations	Number	0																		
-2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB078	Capital city population as percent of total population	Percent of total population	0																		
-2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB079	Capital city population as percent of total urban population	Percent of total urban population	0																		
-2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB080	Capital city population	Number	3.0																		
-2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB081	Population growth rate per annum	Percent	0											R	Rural						
-2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB081	Population growth rate per annum	Percent	0											U	Urban						
-2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB082	Urban population as percent of total populatoin	Percent of total population	0											U	Urban						
-2	Population and migration	89	Population, density and surface area	SYB087	Share of population by age group	Percent	0													Y0T14	under 15 years old				
-2	Population and migration	89	Population, density and surface area	SYB087	Share of population by age group	Percent	0													Y_GE65	65 years old and over				
-2	Population and migration	89	Population, density and surface area	SYB088	Population density		0																		
-2	Population and migration	89	Population, density and surface area	SYB089	Population mid-year estimates	Number	6.0															_T	Both sexes or no breakdown by sex		
-2	Population and migration	89	Population, density and surface area	SYB089	Population mid-year estimates	Number	6.0															F	Female		
-2	Population and migration	89	Population, density and surface area	SYB089	Population mid-year estimates	Number	6.0															M	Male		
-2	Population and migration	89	Population, density and surface area	SYB090	Sex ratio (males per 100 females)	Percent	0																		
-2	Population and migration	89	Population, density and surface area	SYB091	Surface area	km2	3.0																		
-3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	Ratio	0															M	Male	ISCED11_1	Primary education
-3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	Ratio	0															F	Female	ISCED11_1	Primary education
-3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	Ratio	0															F	Female	AGG_2_3	Secondary education (lower and upper secondary education)
-3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	Ratio	0															M	Male	AGG_2_3	Secondary education (lower and upper secondary education)
-3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	Ratio	0															F	Female	AGG_5T8	Tertiary education
-3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	Ratio	0															M	Male	AGG_5T8	Tertiary education
-3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB002	Number of students enrolled in formal education	Number of students	3.0																	ISCED11_1	Primary education
-3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB002	Number of students enrolled in formal education	Number of students	3.0																	AGG_2_3	Secondary education (lower and upper secondary education)
-3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB002	Number of students enrolled in formal education	Number of students	3.0																	AGG_5T8	Tertiary education
-3	Education	109	Public expenditure on education	SYB108	Public expenditure in education as percent of total expenditure in public institutions: staff compensation	Percent	0																		
-3	Education	109	Public expenditure on education	SYB109	Public expenditure in education as percent of total expenditure in public institutions: capital expenditure	Percent	0																		
-3	Education	109	Public expenditure on education	SYB110	Public expenditure in education as percent of total expenditure in public institutions: Current expenditure other than staff compensation	Percent	0																		
-3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	Percent	0																	ISCED11_1	Primary education
-3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	Percent	0																	AGG_2_3	Secondary education (lower and upper secondary education)
-3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	Percent	0																	AGG_5T8	Tertiary education
-3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	Percent	0																	_T	Total or no breakdown by education level
-3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	Percent	0																	ISCED11_02	Pre-primary education
-3	Education	109	Public expenditure on education	SYB112	Public expenditure in education as percent of GDP	Percent	0																	_T	Total or no breakdown by education level
-3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB119	Pupil-teacher ratio	Pupil to teacher ratio	0																	ISCED11_1	Primary education
-3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB119	Pupil-teacher ratio	Pupil to teacher ratio	0																	AGG_2_3	Secondary education (lower and upper secondary education)
-3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB119	Pupil-teacher ratio	Pupil to teacher ratio	0																	AGG_5T8	Tertiary education
-3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB120	Number of teachers	Number	0																	ISCED11_1	Primary education
-3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB120	Number of teachers	Number	0																	AGG_2_3	Secondary education (lower and upper secondary education)
-3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB120	Number of teachers	Number	0																	AGG_5T8	Tertiary education
-4	Gender	115	Ratio of girls to boys in primary, secondary and tertiary education	SYB113	Gender parity ratio in education	Girls to boys ratio	0																	ISCED11_1	Primary education
-4	Gender	115	Ratio of girls to boys in primary, secondary and tertiary education	SYB113	Gender parity ratio in education	Girls to boys ratio	0																	AGG_2_3	Secondary education (lower and upper secondary education)
-4	Gender	115	Ratio of girls to boys in primary, secondary and tertiary education	SYB113	Gender parity ratio in education	Girls to boys ratio	0																	AGG_5T8	Tertiary education
-4	Gender	134	Proportion of seats held by women in national parliament	SYB118	Proportion of seats held by women in national parliament, as of February	Percent	0																		
-5	Communication	106	Internet Usage	SYB105	Percentage of individuals using the internet	Percent	0																		
-5	Communication	107	Cellular mobile telephone subscriptions	SYB106	Cellular mobile telephone subscriptions	Number	0																		
-5	Communication	107	Cellular mobile telephone subscriptions	SYB107	Cellular mobile telephone subscriptions per 100 inhabitants	Subscriptions per 100 inhabitants	0																		
-6	National accounts	18	Gross Value added by kind of economic activity	SYB022	Gross value added by industry	Percent of total gross value added	0					AGR	Agriculture, hunting, forestry and fishing												
-6	National accounts	18	Gross Value added by kind of economic activity	SYB022	Gross value added by industry	Percent of total gross value added	0					IND	Industry												
-6	National accounts	18	Gross Value added by kind of economic activity	SYB022	Gross value added by industry	Percent of total gross value added	0					SER	Services												
-6	National accounts	19	Gross domestic product and gross domestic product per capita	SYB023	GDP in constant prices	US dollars	6.0	2010																	
-6	National accounts	19	Gross domestic product and gross domestic product per capita	SYB024	GDP in current prices	US dollars	6.0																		
-6	National accounts	19	Gross domestic product and gross domestic product per capita	SYB025	GDP per capita	US dollars	0																		
-6	National accounts	19	Gross domestic product and gross domestic product per capita	SYB026	GDP real rates of growth	Percent	0																		
-7	Finance	74	Balance of payments summary	SYB065	Balance of Payments: Capital account	US dollars	6.0																		
-7	Finance	74	Balance of payments summary	SYB066	Balance of Payments: Current account	US dollars	6.0																		
-7	Finance	74	Balance of payments summary	SYB067	Balance of Payments: Financial account	US dollars	6.0																		
-7	Finance	75	Exchange rates	SYB068	Exchange rate: end of period	National currency per US dollar	0																		
-7	Finance	75	Exchange rates	SYB069	Exchange rate: period average	National currency per US dollar	0																		
-8	Labour market	94	Labour force participation and unemployment	SYB092	Labour force participation	Percent	0															F	Female		
-8	Labour market	94	Labour force participation and unemployment	SYB092	Labour force participation	Percent	0															M	Male		
-8	Labour market	94	Labour force participation and unemployment	SYB092	Labour force participation	Percent	0															_T	Both sexes or no breakdown by sex		
-8	Labour market	94	Labour force participation and unemployment	SYB093	Unemployment rate	Percent	0															F	Female		
-8	Labour market	94	Labour force participation and unemployment	SYB093	Unemployment rate	Percent	0															M	Male		
-8	Labour market	94	Labour force participation and unemployment	SYB093	Unemployment rate	Percent	0															_T	Both sexes or no breakdown by sex		
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_CHEM_PET_RUB_PLA	Chemicals, petroleum, rubber and plastic products												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_ELEC_GAS_STEAM	Electricity, gas, steam												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_FOOD_BEV_TOB	Food, beverages and tobacco												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_MANUFACTURING	Manufacturing												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_METAL_PRODUCTS_MACHINERY	Metal products and machinery												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_MINING	Mining												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_TEXTILES_APPAREL_LEATHER_FOOTWEAR	Textiles, wearing apparel, leather, footwear												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_TOTAL	Total industry - Mining; manufacturing; electricity, gas and water												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_WATER_WASTE_MGNT	Water and waste management												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_BASIC_METALS	Basic metals												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_ELEC_GAS_WATER	Electricity, gas and water												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_MACHINERY	Machinery												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_METAL_PRODUCTS	Metal products												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_MISC_MANUFACTURING	Miscellaneous manufacturing industries												
-9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	Index	0	2005=100				IND_MINING_MANUFACTURING	Mining and manufacturing												
-9	Price and production indices	32	Agricultural production indices	SYB028	Index of agricultural production	Index	0	2004-2006 = 100																	
-9	Price and production indices	32	Agricultural production indices	SYB029	Index of food production	Index	0	2004-2006 = 100																	
-9	Price and production indices	98	Consumer Price Index	SYB094	Consumer Price index: food	Index	0																		
-9	Price and production indices	98	Consumer Price Index	SYB095	Consumer Price index: general	Index	0																		
-11	Crime	104	Intentional homicides and other crimes	SYB098	Assault rate	Incidents per 100,000 population	0																		
-11	Crime	104	Intentional homicides and other crimes	SYB099	Intentional homicide rate	Incidents per 100,000 population	0																		
-11	Crime	104	Intentional homicides and other crimes	SYB100	National kidnapping rate	Incidents per 100,000 population	0																		
-11	Crime	104	Intentional homicides and other crimes	SYB101	Distribution of intentional homicide victims by sex	Percent	0															F	Female		
-11	Crime	104	Intentional homicides and other crimes	SYB101	Distribution of intentional homicide victims by sex	Percent	0															M	Male		
-11	Crime	104	Intentional homicides and other crimes	SYB102	National robbery rate	Incidents per 100,000 population	0																		
-11	Crime	104	Intentional homicides and other crimes	SYB103	National theft rate	Incidents per 100,000 population	0																		
-11	Crime	104	Intentional homicides and other crimes	SYB104	Total national sexual violence rate	Incidents per 100,000 population	0																		
-13	Environment	5	Threatened species	SYB003	Threatened species	Number of species	0							INVERTEBRATES	Invertebrates										
-13	Environment	5	Threatened species	SYB003	Threatened species	Number of species	0							PLANTS	Plants										
-13	Environment	5	Threatened species	SYB003	Threatened species	Number of species	0							_T	Total										
-13	Environment	5	Threatened species	SYB003	Threatened species	Number of species	0							VERTEBRATES	Vertebrates										
-13	Environment	64	Land	SYB045	Arable land as percent of total land area	Percent	0																		
-13	Environment	64	Land	SYB046	Arable land area	Hectares	3.0																		
-13	Environment	64	Land	SYB047	Forest cover as percent of total land area	Percent	0																		
-13	Environment	64	Land	SYB048	Forest cover area	Hectares	3.0																		
-13	Environment	64	Land	SYB049	Important sites for terrestrial biodiversity protected as percent of total sites protected	Percent	0																		
-13	Environment	64	Land	SYB050	Land area	Hectares	3.0																		
-13	Environment	64	Land	SYB051	Permanent crops as percent of total land area	Percent	0																		
-13	Environment	64	Land	SYB052	Permanent crops area	Hectares	3.0																		
-13	Environment	84	Water supply and sanitation services	SYB083	Proportion of population with access to Improved drinking water sources	Percent	0											R	Rural						
-13	Environment	84	Water supply and sanitation services	SYB083	Proportion of population with access to Improved drinking water sources	Percent	0											_T	Total						
-13	Environment	84	Water supply and sanitation services	SYB083	Proportion of population with access to Improved drinking water sources	Percent	0											U	Urban						
-13	Environment	84	Water supply and sanitation services	SYB084	Proportion of population with access to improved sanitation facilities	Percent	0											R	Rural						
-13	Environment	84	Water supply and sanitation services	SYB084	Proportion of population with access to improved sanitation facilities	Percent	0											_T	Total						
-13	Environment	84	Water supply and sanitation services	SYB084	Proportion of population with access to improved sanitation facilities	Percent	0											U	Urban						
-13	Environment	84	Water supply and sanitation services	SYB085	Proportion of population with access to safely managed drinking water sources	Percent	0											_T	Total						
-13	Environment	84	Water supply and sanitation services	SYB085	Proportion of population with access to safely managed drinking water sources	Percent	0											U	Urban						
-13	Environment	84	Water supply and sanitation services	SYB085	Proportion of population with access to safely managed drinking water sources	Percent	0											R	Rural						
-13	Environment	84	Water supply and sanitation services	SYB086	Proportion of population with access to safely managed sanitation facilities	Percent	0											R	Rural						
-13	Environment	84	Water supply and sanitation services	SYB086	Proportion of population with access to safely managed sanitation facilities	Percent	0											_T	Total						
-13	Environment	84	Water supply and sanitation services	SYB086	Proportion of population with access to safely managed sanitation facilities	Percent	0											U	Urban						
-13	Environment	152	CO2 emission estimates	SYB123	Carbon dioxide emissions	Metric tons	3.0																		
-13	Environment	152	CO2 emission estimates	SYB124	Carbon dioxide emissions per capita	Metric tons per capita	0																		
-14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB004	Gross domestic expenditure on R & D as a percentage of GDP	Percent	0																		
-14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB005	Gross domestic expenditure on R & D: Business enterprises	Percent	0																		
-14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB006	Gross domestic expenditure on R & D: Funds from abroad	Percent	0																		
-14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB007	Gross domestic expenditure on R & D: Government	Percent	0																		
-14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB008	Gross domestic expenditure on R & D: Higher education	Percent	0																		
-14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB009	Gross domestic expenditure on R & D: Not distributed	Percent	0																		
-14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB010	Gross domestic expenditure on R & D: Private non-profit	Percent	0																		
-14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	Number of full-time equivalent staff	0				Other supporting staff											_T	Both sexes or no breakdown by sex		
-14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	Number of full-time equivalent staff	0				Researchers											_T	Both sexes or no breakdown by sex		
-14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	Number of full-time equivalent staff	0				Researchers											F	Female		
-14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	Number of full-time equivalent staff	0				Technicians											_T	Both sexes or no breakdown by sex		
-14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	Number of full-time equivalent staff	0				Total											_T	Both sexes or no breakdown by sex		
-14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	Number of full-time equivalent staff	0				Other supporting staff											F	Female		
-14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	Number of full-time equivalent staff	0				Technicians											F	Female		
-14	Science and technology	67	Patents	SYB059	Grants of patents	Number	0																		
-14	Science and technology	67	Patents	SYB060	Patents in force	Number	0																		
-14	Science and technology	67	Patents	SYB061	Resident patent filings	Number of patents per million population	0																		
-15	International merchandise trade	14	Major trading partners	SYB016	Share of exports to first major trading partner	Percent	0																		
-15	International merchandise trade	14	Major trading partners	SYB017	Share of imports from first major trading partner	Percent	0																		
-15	International merchandise trade	14	Major trading partners	SYB018	Share of exports to second major trading partner	Percent	0																		
-15	International merchandise trade	14	Major trading partners	SYB019	Share of imports from second major trading partner	Percent	0																		
-15	International merchandise trade	14	Major trading partners	SYB020	Share of exports to third major trading partner	Percent	0																		
-15	International merchandise trade	14	Major trading partners	SYB021	Share of imports from third major trading partner	Percent	0																		
-15	International merchandise trade	68	Total imports, exports and balance of trade	SYB062	Balance of trade	US dollars	6.0																		
-15	International merchandise trade	68	Total imports, exports and balance of trade	SYB063	Exports FOB	US dollars	6.0																		
-15	International merchandise trade	68	Total imports, exports and balance of trade	SYB064	Imports CIF	US dollars	6.0																		
-16	International tourism and transport	57	Railways: traffic	SYB031	Railway traffic - net weight-distance	Ton-kilometers	6.0																		
-16	International tourism and transport	57	Railways: traffic	SYB032	Railway traffic - passenger-distance	Passenger-kilometers	6.0																		
-16	International tourism and transport	58	Motor vehicles in use	SYB033	Motor vehicles in use: Commercial vehicles	Number of vehicles	3.0																		
-16	International tourism and transport	58	Motor vehicles in use	SYB034	Motor vehicles in use: Passenger cars	Number of vehicles	3.0																		
-16	International tourism and transport	60	International maritime transport	SYB035	International maritime transport: Vessels cleared	Net registered tons	3.0																		
-16	International tourism and transport	60	International maritime transport	SYB036	International maritime transport: Vessels entered	Net registered tons	3.0																		
-16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB037	Civil aviation: scheduled international airline traffic - distance flown	Kilometers 	6.0																		
-16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB038	Civil aviation: scheduled international airline traffic - passenger-distance	Passenger-kilometers	6.0																		
-16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB039	Civil aviation: scheduled international airline traffic - passengers carried	Number of passengers	3.0																		
-16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB040	Civil aviation: scheduled international airline traffic - total weight-distance	Ton-kilometers	6.0																		
-16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB041	Civil aviation: total scheduled airline traffic - distance	Kilometers 	6.0																		
-16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB042	Civil aviation: total scheduled airline traffic - passenger-distance	Passenger-kilometers	6.0																		
-16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB043	Civil aviation: total scheduled airline traffic - passengers carried	Number of passengers	3.0																		
-16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB044	Civil aviation: total scheduled airline traffic - total weight-distance	Ton-kilometers	6.0																		
-16	International tourism and transport	116	Tourist/visitor arrivals and tourism expenditure	SYB114	Tourism expenditure	US dollars	6.0																		
-16	International tourism and transport	116	Tourist/visitor arrivals and tourism expenditure	SYB115	Tourist/visitor arrivals	Number	3.0																		
-19	Development assistance	77	Net disbursements of official development assistance to recipients	SYB070	Net disbursements of official development assistance received	US dollars	6.0									BILATERAL	Bilateral								
-19	Development assistance	77	Net disbursements of official development assistance to recipients	SYB070	Net disbursements of official development assistance received	US dollars	6.0									MULTILATERAL	Multilateral								
-19	Development assistance	77	Net disbursements of official development assistance to recipients	SYB070	Net disbursements of official development assistance received	US dollars	6.0									_T	Total								
-19	Development assistance	77	Net disbursements of official development assistance to recipients	SYB071	Net disbursements of official development assistance received as percent of GNI	Percent of GNI	0									_T	Total								
-19	Development assistance	103	Net disbursements of official development assistance from donors	SYB096	Net disbursements of official development assistance to developing countries and multilateral organizations as percent of GNI	Percent of GNI	0																		
-19	Development assistance	103	Net disbursements of official development assistance from donors	SYB097	Net disbursements of official development assistance to developing countries and multilateral organizations	US dollars	6.0																		
-20	Energy	65	Production, trade and supply of energy	SYB053	Change in energy stocks	Petajoules	0																		
-20	Energy	65	Production, trade and supply of energy	SYB054	Net energy imports [Imports - Exports - Bunkers]	Petajoules	0																		
-20	Energy	65	Production, trade and supply of energy	SYB055	Primary energy production	Petajoules	0																		
-20	Energy	65	Production, trade and supply of energy	SYB056	Supply of energy per capita	Gigajoules	0																		
-20	Energy	65	Production, trade and supply of energy	SYB057	Total energy supply	Petajoules	0																		
-22	Health	117	Expenditure on health	SYB116	Current health expenditure as a percentage of GDP	Percent	0																		
-22	Health	117	Expenditure on health	SYB117	Domestic general government health expenditure as a percent of government expenditure	Percent	0																		
-22	Health	151	Health Personnel	SYB121	Health personnel	Number	0				Dentists														
-22	Health	151	Health Personnel	SYB121	Health personnel	Number	0				Nurses and midwives														
-22	Health	151	Health Personnel	SYB121	Health personnel	Number	0				Pharmacists														
-22	Health	151	Health Personnel	SYB121	Health personnel	Number	0				Physicians														
-22	Health	151	Health Personnel	SYB122	Health personnel per 1000 population	Number per 1000 population	0				Dentists														
-22	Health	151	Health Personnel	SYB122	Health personnel per 1000 population	Number per 1000 population	0				Nurses and midwives														
-22	Health	151	Health Personnel	SYB122	Health personnel per 1000 population	Number per 1000 population	0				Pharmacists														
-22	Health	151	Health Personnel	SYB122	Health personnel per 1000 population	Number per 1000 population	0				Physicians														
+topicId	topicName	tableId	tableName	seriesCode	seriesDesc	hub	units	multiplier	baseYear	multiplierDesc	personnelTypeCode	personnelTypeDesc	activityCode	activityDesc	speciesCode	speciesDesc	ODACode	ODADesc	urbanizationCode	urbanizationDesc	ageCode	ageDesc	sexCode	sexDesc	educationLevCode	educationLevDesc
+2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB011	Infant mortality ratio	b69e704c91974e69b5ae5763f1a49450	Number of deaths per 1,000 live births	0																		
+2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB012	Life expectancy at birth	3aa919d7703a4ecfa9d55bac8694343f	Number of years	0															_T	Both sexes or no breakdown by sex		
+2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB012	Life expectancy at birth	3aa919d7703a4ecfa9d55bac8694343f	Number of years	0															F	Female		
+2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB012	Life expectancy at birth	3aa919d7703a4ecfa9d55bac8694343f	Number of years	0															M	Male		
+2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB013	Maternal mortality ratio	0a5482be9b574d9294c03089fe52803f	Number of deaths per 1,000 population	0																		
+2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB014	Population annual rate of increase	f6f16a88b56840249b4439bbea05dba4	Percent	0																		
+2	Population and migration	8	Population growth and indicators of fertility and mortality	SYB015	Total fertility rate	bbb7dbea77a9464c883e3605eca93d51	Number of children per women	0																		
+2	Population and migration	78	International migrants and refugees	SYB072	Asylum seekers, including pending cases	a1bc495b927c4873b6d314a0ce3b7bd1	Number	0																		
+2	Population and migration	78	International migrants and refugees	SYB073	International migrant stock as percent of total population	d7f798f2a6cd46e2b6d9c09065f03de4	Percent of total population	0															_T	Both sexes or no breakdown by sex		
+2	Population and migration	78	International migrants and refugees	SYB073	International migrant stock as percent of total population	d7f798f2a6cd46e2b6d9c09065f03de4	Percent of total population	0															F	Female		
+2	Population and migration	78	International migrants and refugees	SYB073	International migrant stock as percent of total population	d7f798f2a6cd46e2b6d9c09065f03de4	Percent of total population	0															M	Male		
+2	Population and migration	78	International migrants and refugees	SYB074	International migrant stock	1b32a522b98748ac8c040c4567b4061a	Number	0															_T	Both sexes or no breakdown by sex		
+2	Population and migration	78	International migrants and refugees	SYB075	Other population of concern to UNHCR	a96325f096344e99a1b44d8a5c891b9e	Number	0																		
+2	Population and migration	78	International migrants and refugees	SYB076	Total population of concern to UNHCR	772a41a4477f4b1b81409dbad8fbac7a	Number	0																		
+2	Population and migration	78	International migrants and refugees	SYB077	Total refugees and people in refugee-like situations	592ed636d538491593ed9de1e2c3f47b	Number	0																		
+2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB078	Capital city population as percent of total population	133574278815466b886afee49f3206b9	Percent of total population	0																		
+2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB079	Capital city population as percent of total urban population	966aa129360f4f9a8081dd4d0d4e219f	Percent of total urban population	0																		
+2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB080	Capital city population	7a7b7cc9beff4fd5b40f8d487a1e23b6	Number	3.0																		
+2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB081	Population growth rate per annum	b95285b0546841fa917c197a6dd73c1e	Percent	0											R	Rural						
+2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB081	Population growth rate per annum	b95285b0546841fa917c197a6dd73c1e	Percent	0											U	Urban						
+2	Population and migration	83	Population and rates of growth in urban areas and capital cities	SYB082	Urban population as percent of total populatoin	c7e749b42fda4c84b39cf8fa5d038371	Percent of total population	0											U	Urban						
+2	Population and migration	89	Population, density and surface area	SYB087	Share of population by age group	493ee3f35221493fa582b807034fe488	Percent	0													Y0T14	under 15 years old				
+2	Population and migration	89	Population, density and surface area	SYB087	Share of population by age group	493ee3f35221493fa582b807034fe488	Percent	0													Y_GE65	65 years old and over				
+2	Population and migration	89	Population, density and surface area	SYB088	Population density	566287a1c8f442b389bcef3b2e9454d4		0																		
+2	Population and migration	89	Population, density and surface area	SYB089	Population mid-year estimates	7e77f35a3ebb49c29d9fc8c10f825f33	Number	6.0															_T	Both sexes or no breakdown by sex		
+2	Population and migration	89	Population, density and surface area	SYB089	Population mid-year estimates	7e77f35a3ebb49c29d9fc8c10f825f33	Number	6.0															F	Female		
+2	Population and migration	89	Population, density and surface area	SYB089	Population mid-year estimates	7e77f35a3ebb49c29d9fc8c10f825f33	Number	6.0															M	Male		
+2	Population and migration	89	Population, density and surface area	SYB090	Sex ratio (males per 100 females)	1e28bd6f12a942deb823d4cf809b6756	Percent	0																		
+2	Population and migration	89	Population, density and surface area	SYB091	Surface area	875ce0c9115b46e6a9fe2471e312ea03	km2	3.0																		
+3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	f4ebc92d8aea47bdac090dfa3da29bb2	Ratio	0															M	Male	ISCED11_1	Primary education
+3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	f4ebc92d8aea47bdac090dfa3da29bb2	Ratio	0															F	Female	ISCED11_1	Primary education
+3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	f4ebc92d8aea47bdac090dfa3da29bb2	Ratio	0															F	Female	AGG_2_3	Secondary education (lower and upper secondary education)
+3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	f4ebc92d8aea47bdac090dfa3da29bb2	Ratio	0															M	Male	AGG_2_3	Secondary education (lower and upper secondary education)
+3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	f4ebc92d8aea47bdac090dfa3da29bb2	Ratio	0															F	Female	AGG_5T8	Tertiary education
+3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB001	Gross education enrollment ratio	f4ebc92d8aea47bdac090dfa3da29bb2	Ratio	0															M	Male	AGG_5T8	Tertiary education
+3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB002	Number of students enrolled in formal education	4aa9ce6bd1cf48deab7dcf9152c404a1	Number of students	3.0																	ISCED11_1	Primary education
+3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB002	Number of students enrolled in formal education	4aa9ce6bd1cf48deab7dcf9152c404a1	Number of students	3.0																	AGG_2_3	Secondary education (lower and upper secondary education)
+3	Education	1	Enrolment in primary, secondary and tertiary education levels	SYB002	Number of students enrolled in formal education	4aa9ce6bd1cf48deab7dcf9152c404a1	Number of students	3.0																	AGG_5T8	Tertiary education
+3	Education	109	Public expenditure on education	SYB108	Public expenditure in education as percent of total expenditure in public institutions: staff compensation	7a57cd1c85464609ab8af5ce418cdf03	Percent	0																		
+3	Education	109	Public expenditure on education	SYB109	Public expenditure in education as percent of total expenditure in public institutions: capital expenditure	49f827b7121940cf8a472e62f6612048	Percent	0																		
+3	Education	109	Public expenditure on education	SYB110	Public expenditure in education as percent of total expenditure in public institutions: Current expenditure other than staff compensation	5f92a363a2a94684bd0c89361ba52ce9	Percent	0																		
+3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	f1c6471ca64b4740bc3f9046073381ef	Percent	0																	ISCED11_1	Primary education
+3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	f1c6471ca64b4740bc3f9046073381ef	Percent	0																	AGG_2_3	Secondary education (lower and upper secondary education)
+3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	f1c6471ca64b4740bc3f9046073381ef	Percent	0																	AGG_5T8	Tertiary education
+3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	f1c6471ca64b4740bc3f9046073381ef	Percent	0																	_T	Total or no breakdown by education level
+3	Education	109	Public expenditure on education	SYB111	Public expenditure in education as percent of government expenditure	f1c6471ca64b4740bc3f9046073381ef	Percent	0																	ISCED11_02	Pre-primary education
+3	Education	109	Public expenditure on education	SYB112	Public expenditure in education as percent of GDP	e3d44eb52a9d495c821786cfc5723681	Percent	0																	_T	Total or no breakdown by education level
+3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB119	Pupil-teacher ratio	c6fd3b6933f54d54af3bc10e344f3f70	Pupil to teacher ratio	0																	ISCED11_1	Primary education
+3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB119	Pupil-teacher ratio	c6fd3b6933f54d54af3bc10e344f3f70	Pupil to teacher ratio	0																	AGG_2_3	Secondary education (lower and upper secondary education)
+3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB119	Pupil-teacher ratio	c6fd3b6933f54d54af3bc10e344f3f70	Pupil to teacher ratio	0																	AGG_5T8	Tertiary education
+3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB120	Number of teachers	e39123d0e03d4a5d8c29369e5ac2f732	Number	0																	ISCED11_1	Primary education
+3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB120	Number of teachers	e39123d0e03d4a5d8c29369e5ac2f732	Number	0																	AGG_2_3	Secondary education (lower and upper secondary education)
+3	Education	135	Teaching staff at the primary, secondary and tertiary levels	SYB120	Number of teachers	e39123d0e03d4a5d8c29369e5ac2f732	Number	0																	AGG_5T8	Tertiary education
+4	Gender	115	Ratio of girls to boys in primary, secondary and tertiary education	SYB113	Gender parity ratio in education	5ab360904e1d44c88a11240eaaf76843	Girls to boys ratio	0																	ISCED11_1	Primary education
+4	Gender	115	Ratio of girls to boys in primary, secondary and tertiary education	SYB113	Gender parity ratio in education	5ab360904e1d44c88a11240eaaf76843	Girls to boys ratio	0																	AGG_2_3	Secondary education (lower and upper secondary education)
+4	Gender	115	Ratio of girls to boys in primary, secondary and tertiary education	SYB113	Gender parity ratio in education	5ab360904e1d44c88a11240eaaf76843	Girls to boys ratio	0																	AGG_5T8	Tertiary education
+4	Gender	134	Proportion of seats held by women in national parliament	SYB118	Proportion of seats held by women in national parliament, as of February	a4862bdf37334c79a9e3344f843ddac1	Percent	0																		
+5	Communication	106	Internet Usage	SYB105	Percentage of individuals using the internet	16d3087c8d544007ac1aa01c2c755c42	Percent	0																		
+5	Communication	107	Cellular mobile telephone subscriptions	SYB106	Cellular mobile telephone subscriptions		Number	0																		
+5	Communication	107	Cellular mobile telephone subscriptions	SYB107	Cellular mobile telephone subscriptions per 100 inhabitants		Subscriptions per 100 inhabitants	0																		
+6	National accounts	18	Gross Value added by kind of economic activity	SYB022	Gross value added by industry	4ea3388567b64f33b3601bac26767f96	Percent of total gross value added	0					AGR	Agriculture, hunting, forestry and fishing												
+6	National accounts	18	Gross Value added by kind of economic activity	SYB022	Gross value added by industry	4ea3388567b64f33b3601bac26767f96	Percent of total gross value added	0					IND	Industry												
+6	National accounts	18	Gross Value added by kind of economic activity	SYB022	Gross value added by industry	4ea3388567b64f33b3601bac26767f96	Percent of total gross value added	0					SER	Services												
+6	National accounts	19	Gross domestic product and gross domestic product per capita	SYB023	GDP in constant prices	5e962982b65c47e2adaba44f367c9845	US dollars	6.0	2010																	
+6	National accounts	19	Gross domestic product and gross domestic product per capita	SYB024	GDP in current prices	77621dfd97e94273a1405e960582854f	US dollars	6.0																		
+6	National accounts	19	Gross domestic product and gross domestic product per capita	SYB025	GDP per capita	5ec9f38def1247ebbcee2557fc0c3a9b	US dollars	0																		
+6	National accounts	19	Gross domestic product and gross domestic product per capita	SYB026	GDP real rates of growth	18378adffb914440b6f6ae8579b9706d	Percent	0																		
+7	Finance	74	Balance of payments summary	SYB065	Balance of Payments: Capital account	a201ac34ff6a47a6a978ca2b3b7f0dfd	US dollars	6.0																		
+7	Finance	74	Balance of payments summary	SYB066	Balance of Payments: Current account	12fb78721cdc4d678a74e58006b131cf	US dollars	6.0																		
+7	Finance	74	Balance of payments summary	SYB067	Balance of Payments: Financial account	fab67e6783d14d1988ff7ed19bea77ef	US dollars	6.0																		
+7	Finance	75	Exchange rates	SYB068	Exchange rate: end of period	9b697a11f8084ac682dea3f55b2b088f	National currency per US dollar	0																		
+7	Finance	75	Exchange rates	SYB069	Exchange rate: period average	2ab2182d60cc430c92c51ce791ac7f3d	National currency per US dollar	0																		
+8	Labour market	94	Labour force participation and unemployment	SYB092	Labour force participation	646314aeef1b42bc9de3a49902eb5d98	Percent	0															F	Female		
+8	Labour market	94	Labour force participation and unemployment	SYB092	Labour force participation	646314aeef1b42bc9de3a49902eb5d98	Percent	0															M	Male		
+8	Labour market	94	Labour force participation and unemployment	SYB092	Labour force participation	646314aeef1b42bc9de3a49902eb5d98	Percent	0															_T	Both sexes or no breakdown by sex		
+8	Labour market	94	Labour force participation and unemployment	SYB093	Unemployment rate	4a000e35f2fb4699a79729f50a189b20	Percent	0															F	Female		
+8	Labour market	94	Labour force participation and unemployment	SYB093	Unemployment rate	4a000e35f2fb4699a79729f50a189b20	Percent	0															M	Male		
+8	Labour market	94	Labour force participation and unemployment	SYB093	Unemployment rate	4a000e35f2fb4699a79729f50a189b20	Percent	0															_T	Both sexes or no breakdown by sex		
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_CHEM_PET_RUB_PLA	Chemicals, petroleum, rubber and plastic products												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_ELEC_GAS_STEAM	Electricity, gas, steam												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_FOOD_BEV_TOB	Food, beverages and tobacco												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_MANUFACTURING	Manufacturing												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_METAL_PRODUCTS_MACHINERY	Metal products and machinery												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_MINING	Mining												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_TEXTILES_APPAREL_LEATHER_FOOTWEAR	Textiles, wearing apparel, leather, footwear												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_TOTAL	Total industry - Mining; manufacturing; electricity, gas and water												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_WATER_WASTE_MGNT	Water and waste management												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_BASIC_METALS	Basic metals												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_ELEC_GAS_WATER	Electricity, gas and water												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_MACHINERY	Machinery												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_METAL_PRODUCTS	Metal products												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_MISC_MANUFACTURING	Miscellaneous manufacturing industries												
+9	Price and production indices	23	Index of Industrial Production	SYB027	Index of industrial production	3e6c2522bf274ac1930b60e124ff46fd	Index	0	2005=100				IND_MINING_MANUFACTURING	Mining and manufacturing												
+9	Price and production indices	32	Agricultural production indices	SYB028	Index of agricultural production	b980c23d110d443f82c8bfbf2d8a13e7	Index	0	2004-2006 = 100																	
+9	Price and production indices	32	Agricultural production indices	SYB029	Index of food production	070efd18b12049899372bda29e3f6205	Index	0	2004-2006 = 100																	
+9	Price and production indices	98	Consumer Price Index	SYB094	Consumer Price index: food	d0ed6d76f6df4b58855d99661319b0f0	Index	0																		
+9	Price and production indices	98	Consumer Price Index	SYB095	Consumer Price index: general	a27b203621164e85857ffc85a5392703	Index	0																		
+11	Crime	104	Intentional homicides and other crimes	SYB098	Assault rate	4294a38ad217408b9c426d923359875c	Incidents per 100,000 population	0																		
+11	Crime	104	Intentional homicides and other crimes	SYB099	Intentional homicide rate	09f5f5b86d41446dae119948a3974cfd	Incidents per 100,000 population	0																		
+11	Crime	104	Intentional homicides and other crimes	SYB100	National kidnapping rate	2f2aa9381c5b4e93984c31b38f56d785	Incidents per 100,000 population	0																		
+11	Crime	104	Intentional homicides and other crimes	SYB101	Distribution of intentional homicide victims by sex	b31ac79e3dc44162a9942a4d4bcb1183	Percent	0															F	Female		
+11	Crime	104	Intentional homicides and other crimes	SYB101	Distribution of intentional homicide victims by sex	b31ac79e3dc44162a9942a4d4bcb1183	Percent	0															M	Male		
+11	Crime	104	Intentional homicides and other crimes	SYB102	National robbery rate	04047e5125f84d8c98aa50821ea64767	Incidents per 100,000 population	0																		
+11	Crime	104	Intentional homicides and other crimes	SYB103	National theft rate	e64a546a527f4ecc96313cf0b4b8f792	Incidents per 100,000 population	0																		
+11	Crime	104	Intentional homicides and other crimes	SYB104	Total national sexual violence rate	cfa16e075f8a4886b799f67a2cfba067	Incidents per 100,000 population	0																		
+13	Environment	5	Threatened species	SYB003	Threatened species	5157cb78563b4da4936c39efda0be6c3	Number of species	0							INVERTEBRATES	Invertebrates										
+13	Environment	5	Threatened species	SYB003	Threatened species	5157cb78563b4da4936c39efda0be6c3	Number of species	0							PLANTS	Plants										
+13	Environment	5	Threatened species	SYB003	Threatened species	5157cb78563b4da4936c39efda0be6c3	Number of species	0							_T	Total										
+13	Environment	5	Threatened species	SYB003	Threatened species	5157cb78563b4da4936c39efda0be6c3	Number of species	0							VERTEBRATES	Vertebrates										
+13	Environment	64	Land	SYB045	Arable land as percent of total land area	ddf9aaf75c8049688634c59e4a47a53a	Percent	0																		
+13	Environment	64	Land	SYB046	Arable land area	7038b4b16ad0487186524da1df58b413	Hectares	3.0																		
+13	Environment	64	Land	SYB047	Forest cover as percent of total land area	686bb7cb792748a29b203842f553f249	Percent	0																		
+13	Environment	64	Land	SYB048	Forest cover area	6bc0bf63f61a45fdbb01ac2a5692ee40	Hectares	3.0																		
+13	Environment	64	Land	SYB049	Important sites for terrestrial biodiversity protected as percent of total sites protected	48a4a84dbdd640f48dea6795bb6e0f1f	Percent	0																		
+13	Environment	64	Land	SYB050	Land area	be9f976cde964d02b38168123b478d66	Hectares	3.0																		
+13	Environment	64	Land	SYB051	Permanent crops as percent of total land area	b6e78096d8024588a0cce59d729bc154	Percent	0																		
+13	Environment	64	Land	SYB052	Permanent crops area	b03884cce5cd4c6a8d713fb95fe16846	Hectares	3.0																		
+13	Environment	84	Water supply and sanitation services	SYB083	Proportion of population with access to Improved drinking water sources	b4f6f529c056400487edd3c4e6b28a4c	Percent	0											R	Rural						
+13	Environment	84	Water supply and sanitation services	SYB083	Proportion of population with access to Improved drinking water sources	b4f6f529c056400487edd3c4e6b28a4c	Percent	0											_T	Total						
+13	Environment	84	Water supply and sanitation services	SYB083	Proportion of population with access to Improved drinking water sources	b4f6f529c056400487edd3c4e6b28a4c	Percent	0											U	Urban						
+13	Environment	84	Water supply and sanitation services	SYB084	Proportion of population with access to improved sanitation facilities	e79199fb17ef4f809f14b3bcb212687b	Percent	0											R	Rural						
+13	Environment	84	Water supply and sanitation services	SYB084	Proportion of population with access to improved sanitation facilities	e79199fb17ef4f809f14b3bcb212687b	Percent	0											_T	Total						
+13	Environment	84	Water supply and sanitation services	SYB084	Proportion of population with access to improved sanitation facilities	e79199fb17ef4f809f14b3bcb212687b	Percent	0											U	Urban						
+13	Environment	84	Water supply and sanitation services	SYB085	Proportion of population with access to safely managed drinking water sources	a5a5fa906d2143919125fe9cbd1c669f	Percent	0											_T	Total						
+13	Environment	84	Water supply and sanitation services	SYB085	Proportion of population with access to safely managed drinking water sources	a5a5fa906d2143919125fe9cbd1c669f	Percent	0											U	Urban						
+13	Environment	84	Water supply and sanitation services	SYB085	Proportion of population with access to safely managed drinking water sources	a5a5fa906d2143919125fe9cbd1c669f	Percent	0											R	Rural						
+13	Environment	84	Water supply and sanitation services	SYB086	Proportion of population with access to safely managed sanitation facilities	8bd9d377cbec4f948ce64c2e3debde30	Percent	0											R	Rural						
+13	Environment	84	Water supply and sanitation services	SYB086	Proportion of population with access to safely managed sanitation facilities	8bd9d377cbec4f948ce64c2e3debde30	Percent	0											_T	Total						
+13	Environment	84	Water supply and sanitation services	SYB086	Proportion of population with access to safely managed sanitation facilities	8bd9d377cbec4f948ce64c2e3debde30	Percent	0											U	Urban						
+13	Environment	152	CO2 emission estimates	SYB123	Carbon dioxide emissions	d3581d327da343e8bfd54e32b41ac565	Metric tons	3.0																		
+13	Environment	152	CO2 emission estimates	SYB124	Carbon dioxide emissions per capita	f3014b6e5da449cbb2ddee83cb8b0080	Metric tons per capita	0																		
+14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB004	Gross domestic expenditure on R & D as a percentage of GDP	516b158641f445a2a982a46bfdb852a3	Percent	0																		
+14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB005	Gross domestic expenditure on R & D: Business enterprises	200f2498b38942d994f5acaf07628f02	Percent	0																		
+14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB006	Gross domestic expenditure on R & D: Funds from abroad	5d99ab6eba2a477f90088daf76a88be8	Percent	0																		
+14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB007	Gross domestic expenditure on R & D: Government	c7854288ecb84eeabcf5f798a37d9bfa	Percent	0																		
+14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB008	Gross domestic expenditure on R & D: Higher education	5df5708e8bad4269b2b780ed038bcf74	Percent	0																		
+14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB009	Gross domestic expenditure on R & D: Not distributed	da7613fc860f46c28a8a4fda55564890	Percent	0																		
+14	Science and technology	6	Gross domestic expenditure on research and development (R&D)	SYB010	Gross domestic expenditure on R & D: Private non-profit	aab8b5297c4b4d40bc24258e000a5f4b	Percent	0																		
+14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	0155a072f23c40639c9c1f65b9667d89	Number of full-time equivalent staff	0				Other supporting staff											_T	Both sexes or no breakdown by sex		
+14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	0155a072f23c40639c9c1f65b9667d89	Number of full-time equivalent staff	0				Researchers											_T	Both sexes or no breakdown by sex		
+14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	0155a072f23c40639c9c1f65b9667d89	Number of full-time equivalent staff	0				Researchers											F	Female		
+14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	0155a072f23c40639c9c1f65b9667d89	Number of full-time equivalent staff	0				Technicians											_T	Both sexes or no breakdown by sex		
+14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	0155a072f23c40639c9c1f65b9667d89	Number of full-time equivalent staff	0				Total											_T	Both sexes or no breakdown by sex		
+14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	0155a072f23c40639c9c1f65b9667d89	Number of full-time equivalent staff	0				Other supporting staff											F	Female		
+14	Science and technology	66	Population employed in research and development (R&D)	SYB058	Population employed in research and development (R&D)	0155a072f23c40639c9c1f65b9667d89	Number of full-time equivalent staff	0				Technicians											F	Female		
+14	Science and technology	67	Patents	SYB059	Grants of patents	e44a82d6b21e41d790ea221489e2e05a	Number	0																		
+14	Science and technology	67	Patents	SYB060	Patents in force	926e211d51d74533a30b4be0f429969f	Number	0																		
+14	Science and technology	67	Patents	SYB061	Resident patent filings	55e5021e5ed54ef693b0a3e83d463468	Number of patents per million population	0																		
+15	International merchandise trade	14	Major trading partners	SYB016	Share of exports to first major trading partner	98217db641c4408ebbfbd466bc435ed1	Percent	0																		
+15	International merchandise trade	14	Major trading partners	SYB017	Share of imports from first major trading partner	5d20115697c64d96bfb5c5d8f93a9397	Percent	0																		
+15	International merchandise trade	14	Major trading partners	SYB018	Share of exports to second major trading partner	c40c433ca8bf42268a279d4edaa4a129	Percent	0																		
+15	International merchandise trade	14	Major trading partners	SYB019	Share of imports from second major trading partner	d15f3b7424a841d5b189f658cf1c868e	Percent	0																		
+15	International merchandise trade	14	Major trading partners	SYB020	Share of exports to third major trading partner	e7076265cb3e4f749beabd9013df9231	Percent	0																		
+15	International merchandise trade	14	Major trading partners	SYB021	Share of imports from third major trading partner	35980a3e474845119427797aac070971	Percent	0																		
+15	International merchandise trade	68	Total imports, exports and balance of trade	SYB062	Balance of trade	af3fcb6e186d4cc1b8ff1aea91147496	US dollars	6.0																		
+15	International merchandise trade	68	Total imports, exports and balance of trade	SYB063	Exports FOB	853d6d5eab0a4176902118b65863a2c3	US dollars	6.0																		
+15	International merchandise trade	68	Total imports, exports and balance of trade	SYB064	Imports CIF	f88839ade39842a1906c88053823bc63	US dollars	6.0																		
+16	International tourism and transport	57	Railways: traffic	SYB031	Railway traffic - net weight-distance	c7368c21d75947f88fed9801e6477a3c	Ton-kilometers	6.0																		
+16	International tourism and transport	57	Railways: traffic	SYB032	Railway traffic - passenger-distance	39dc2a917748444493018eab251e5774	Passenger-kilometers	6.0																		
+16	International tourism and transport	58	Motor vehicles in use	SYB033	Motor vehicles in use: Commercial vehicles	685f45c354964e199c6f7b043ffbff14	Number of vehicles	3.0																		
+16	International tourism and transport	58	Motor vehicles in use	SYB034	Motor vehicles in use: Passenger cars	1c35d274546f460894ebb842389de646	Number of vehicles	3.0																		
+16	International tourism and transport	60	International maritime transport	SYB035	International maritime transport: Vessels cleared	9dacceba74a14ddeb991f2c4b5f8a084	Net registered tons	3.0																		
+16	International tourism and transport	60	International maritime transport	SYB036	International maritime transport: Vessels entered	67e7c4507f504944a1e95ed64da925f4	Net registered tons	3.0																		
+16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB037	Civil aviation: scheduled international airline traffic - distance flown	628af69abf17412c9ed41531cf5e43a0	Kilometers 	6.0																		
+16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB038	Civil aviation: scheduled international airline traffic - passenger-distance	daf06dca87624c4f9d07f9e99a740782	Passenger-kilometers	6.0																		
+16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB039	Civil aviation: scheduled international airline traffic - passengers carried	e41b385906304f4398f737e65ecc2395	Number of passengers	3.0																		
+16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB040	Civil aviation: scheduled international airline traffic - total weight-distance	562b628eb16b4241bab20acd1d1eae28	Ton-kilometers	6.0																		
+16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB041	Civil aviation: total scheduled airline traffic - distance	c9ba0efc5b13471f8de72bb83adec724	Kilometers 	6.0																		
+16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB042	Civil aviation: total scheduled airline traffic - passenger-distance	13179ba04be9443186c9f5edf9dad3f1	Passenger-kilometers	6.0																		
+16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB043	Civil aviation: total scheduled airline traffic - passengers carried	5a449c541b25476d9ba1deb3f7136038	Number of passengers	3.0																		
+16	International tourism and transport	61	Civil aviation: scheduled airline traffic	SYB044	Civil aviation: total scheduled airline traffic - total weight-distance	1a2f203243f24fcf892254d87c8b3403	Ton-kilometers	6.0																		
+16	International tourism and transport	116	Tourist/visitor arrivals and tourism expenditure	SYB114	Tourism expenditure	e5f6c8d46ef94732a08edb7f03811dee	US dollars	6.0																		
+16	International tourism and transport	116	Tourist/visitor arrivals and tourism expenditure	SYB115	Tourist/visitor arrivals	4c2c3e6e76de44078804d07868347973	Number	3.0																		
+19	Development assistance	77	Net disbursements of official development assistance to recipients	SYB070	Net disbursements of official development assistance received	a95c6bddae19483f9ae696ee6473cfeb	US dollars	6.0									BILATERAL	Bilateral								
+19	Development assistance	77	Net disbursements of official development assistance to recipients	SYB070	Net disbursements of official development assistance received	a95c6bddae19483f9ae696ee6473cfeb	US dollars	6.0									MULTILATERAL	Multilateral								
+19	Development assistance	77	Net disbursements of official development assistance to recipients	SYB070	Net disbursements of official development assistance received	a95c6bddae19483f9ae696ee6473cfeb	US dollars	6.0									_T	Total								
+19	Development assistance	77	Net disbursements of official development assistance to recipients	SYB071	Net disbursements of official development assistance received as percent of GNI	868fe94fbfef470889b0c51a2f919fcc	Percent of GNI	0									_T	Total								
+19	Development assistance	103	Net disbursements of official development assistance from donors	SYB096	Net disbursements of official development assistance to developing countries and multilateral organizations as percent of GNI	79dc5d6c0e424fb2bcb19ec77a742e07	Percent of GNI	0																		
+19	Development assistance	103	Net disbursements of official development assistance from donors	SYB097	Net disbursements of official development assistance to developing countries and multilateral organizations	8065c12d5211488c8641024ba14688f1	US dollars	6.0																		
+20	Energy	65	Production, trade and supply of energy	SYB053	Change in energy stocks	c1e65b470517439aa20cc885f9c00a79	Petajoules	0																		
+20	Energy	65	Production, trade and supply of energy	SYB054	Net energy imports [Imports - Exports - Bunkers]	d78a993f8f804607be4955d1217b85ee	Petajoules	0																		
+20	Energy	65	Production, trade and supply of energy	SYB055	Primary energy production	17d2e797402744f5957179e55ae8a53c	Petajoules	0																		
+20	Energy	65	Production, trade and supply of energy	SYB056	Supply of energy per capita	fbbfb40c9c764ddbae5c618639a99685	Gigajoules	0																		
+20	Energy	65	Production, trade and supply of energy	SYB057	Total energy supply	c8e641cb9791484f8c4a2228967d999d	Petajoules	0																		
+22	Health	117	Expenditure on health	SYB116	Current health expenditure as a percentage of GDP	565037320392406681529c7afd3bbeb4	Percent	0																		
+22	Health	117	Expenditure on health	SYB117	Domestic general government health expenditure as a percent of government expenditure	79729a8c39d743c7bab4a10a842d4a12	Percent	0																		
+22	Health	151	Health Personnel	SYB121	Health personnel	46b0b285f2f5495d851cb23659ad0133	Number	0				Dentists														
+22	Health	151	Health Personnel	SYB121	Health personnel	46b0b285f2f5495d851cb23659ad0133	Number	0				Nurses and midwives														
+22	Health	151	Health Personnel	SYB121	Health personnel	46b0b285f2f5495d851cb23659ad0133	Number	0				Pharmacists														
+22	Health	151	Health Personnel	SYB121	Health personnel	46b0b285f2f5495d851cb23659ad0133	Number	0				Physicians														
+22	Health	151	Health Personnel	SYB122	Health personnel per 1000 population	6ab9cedce0e5488bba16195f651edd5e	Number per 1000 population	0				Dentists														
+22	Health	151	Health Personnel	SYB122	Health personnel per 1000 population	6ab9cedce0e5488bba16195f651edd5e	Number per 1000 population	0				Nurses and midwives														
+22	Health	151	Health Personnel	SYB122	Health personnel per 1000 population	6ab9cedce0e5488bba16195f651edd5e	Number per 1000 population	0				Pharmacists														
+22	Health	151	Health Personnel	SYB122	Health personnel per 1000 population	6ab9cedce0e5488bba16195f651edd5e	Number per 1000 population	0				Physicians														
