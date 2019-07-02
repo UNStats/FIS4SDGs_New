@@ -1,0 +1,1806 @@
+[
+    {
+        "topic": 2,
+        "id": "29deadbc8f8c4ffaa4e39a1309753967",
+        "series": [
+            {
+                "seriesName": "Asylum seekers  including pending cases",
+                "publicationYear": "2018",
+                "id": "a1bc495b927c4873b6d314a0ce3b7bd1",
+                "owner": "unstats_admin",
+                "created": 1561274445000,
+                "modified": 1561310873000,
+                "title": "SYB indicator: Asylum seekers, including pending cases",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB072_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Capital city population",
+                "publicationYear": "2018",
+                "id": "7a7b7cc9beff4fd5b40f8d487a1e23b6",
+                "owner": "unstats_admin",
+                "created": 1561274632000,
+                "modified": 1561310942000,
+                "title": "SYB indicator: Capital city population",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB080_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Capital city population as percent of total population",
+                "publicationYear": "2018",
+                "id": "133574278815466b886afee49f3206b9",
+                "owner": "unstats_admin",
+                "created": 1561274585000,
+                "modified": 1561310925000,
+                "title": "SYB indicator: Capital city population as percent of total population",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB078_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Capital city population as percent of total urban population",
+                "publicationYear": "2018",
+                "id": "966aa129360f4f9a8081dd4d0d4e219f",
+                "owner": "unstats_admin",
+                "created": 1561274610000,
+                "modified": 1561310933000,
+                "title": "SYB indicator: Capital city population as percent of total urban population",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB079_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Infant mortality ratio",
+                "publicationYear": "2018",
+                "id": "b69e704c91974e69b5ae5763f1a49450",
+                "owner": "unstats_admin",
+                "created": 1561274328000,
+                "modified": 1561310819000,
+                "title": "SYB indicator: Infant mortality ratio",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB011_2018/FeatureServer"
+            },
+            {
+                "seriesName": "International migrant stock",
+                "publicationYear": "2018",
+                "id": "1b32a522b98748ac8c040c4567b4061a",
+                "owner": "unstats_admin",
+                "created": 1561274494000,
+                "modified": 1561310889000,
+                "title": "SYB indicator: International migrant stock",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB074_2018/FeatureServer"
+            },
+            {
+                "seriesName": "International migrant stock as percent of total population",
+                "publicationYear": "2018",
+                "id": "d7f798f2a6cd46e2b6d9c09065f03de4",
+                "owner": "unstats_admin",
+                "created": 1561274467000,
+                "modified": 1561310881000,
+                "title": "SYB indicator: International migrant stock as percent of total population",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB073_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Life expectancy at birth",
+                "publicationYear": "2018",
+                "id": "3aa919d7703a4ecfa9d55bac8694343f",
+                "owner": "unstats_admin",
+                "created": 1561274353000,
+                "modified": 1561310837000,
+                "title": "SYB indicator: Life expectancy at birth",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB012_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Maternal mortality ratio",
+                "publicationYear": "2018",
+                "id": "0a5482be9b574d9294c03089fe52803f",
+                "owner": "unstats_admin",
+                "created": 1561274380000,
+                "modified": 1561310845000,
+                "title": "SYB indicator: Maternal mortality ratio",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB013_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Other population of concern to UNHCR",
+                "publicationYear": "2018",
+                "id": "a96325f096344e99a1b44d8a5c891b9e",
+                "owner": "unstats_admin",
+                "created": 1561274520000,
+                "modified": 1561310899000,
+                "title": "SYB indicator: Other population of concern to UNHCR",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB075_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Population annual rate of increase",
+                "publicationYear": "2018",
+                "id": "f6f16a88b56840249b4439bbea05dba4",
+                "owner": "unstats_admin",
+                "created": 1561274403000,
+                "modified": 1561310854000,
+                "title": "SYB indicator: Population annual rate of increase",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB014_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Population density",
+                "publicationYear": "2018",
+                "id": "566287a1c8f442b389bcef3b2e9454d4",
+                "owner": "unstats_admin",
+                "created": 1561274726000,
+                "modified": 1561310983000,
+                "title": "SYB indicator: Population density",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB088_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Population growth rate per annum",
+                "publicationYear": "2018",
+                "id": "b95285b0546841fa917c197a6dd73c1e",
+                "owner": "unstats_admin",
+                "created": 1561274658000,
+                "modified": 1561310950000,
+                "title": "SYB indicator: Population growth rate per annum",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB081_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Population mid-year estimates",
+                "publicationYear": "2018",
+                "id": "7e77f35a3ebb49c29d9fc8c10f825f33",
+                "owner": "unstats_admin",
+                "created": 1561274746000,
+                "modified": 1561310991000,
+                "title": "SYB indicator: Population mid-year estimates",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB089_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Sex ratio (males per 100 females)",
+                "publicationYear": "2018",
+                "id": "1e28bd6f12a942deb823d4cf809b6756",
+                "owner": "unstats_admin",
+                "created": 1561274773000,
+                "modified": 1561311000000,
+                "title": "SYB indicator: Sex ratio (males per 100 females)",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB090_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Share of population by age group",
+                "publicationYear": "2018",
+                "id": "493ee3f35221493fa582b807034fe488",
+                "owner": "unstats_admin",
+                "created": 1561274704000,
+                "modified": 1561310974000,
+                "title": "SYB indicator: Share of population by age group",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB087_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Surface area",
+                "publicationYear": "2018",
+                "id": "875ce0c9115b46e6a9fe2471e312ea03",
+                "owner": "unstats_admin",
+                "created": 1561274794000,
+                "modified": 1561311013000,
+                "title": "SYB indicator: Surface area",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB091_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Total fertility rate",
+                "publicationYear": "2018",
+                "id": "bbb7dbea77a9464c883e3605eca93d51",
+                "owner": "unstats_admin",
+                "created": 1561274424000,
+                "modified": 1561310864000,
+                "title": "SYB indicator: Total fertility rate",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB015_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Total population of concern to UNHCR",
+                "publicationYear": "2018",
+                "id": "772a41a4477f4b1b81409dbad8fbac7a",
+                "owner": "unstats_admin",
+                "created": 1561274541000,
+                "modified": 1561310909000,
+                "title": "SYB indicator: Total population of concern to UNHCR",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB076_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Total refugees and people in refugee-like situations",
+                "publicationYear": "2018",
+                "id": "592ed636d538491593ed9de1e2c3f47b",
+                "owner": "unstats_admin",
+                "created": 1561274562000,
+                "modified": 1561310917000,
+                "title": "SYB indicator: Total refugees and people in refugee-like situations",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB077_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Urban population as percent of total populatoin",
+                "publicationYear": "2018",
+                "id": "c7e749b42fda4c84b39cf8fa5d038371",
+                "owner": "unstats_admin",
+                "created": 1561274683000,
+                "modified": 1561310965000,
+                "title": "SYB indicator: Urban population as percent of total populatoin",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB082_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 3,
+        "id": "f490c0547c1441239d1e2774cff18ee1",
+        "series": [
+            {
+                "seriesName": "Gross education enrollment ratio",
+                "publicationYear": "2018",
+                "id": "f4ebc92d8aea47bdac090dfa3da29bb2",
+                "owner": "unstats_admin",
+                "created": 1561274818000,
+                "modified": 1561311510000,
+                "title": "SYB indicator: Gross education enrollment ratio",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB001_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Number of students enrolled in formal education",
+                "publicationYear": "2018",
+                "id": "4aa9ce6bd1cf48deab7dcf9152c404a1",
+                "owner": "unstats_admin",
+                "created": 1561274850000,
+                "modified": 1561311520000,
+                "title": "SYB indicator: Number of students enrolled in formal education",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB002_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Number of teachers",
+                "publicationYear": "2018",
+                "id": "e39123d0e03d4a5d8c29369e5ac2f732",
+                "owner": "unstats_admin",
+                "created": 1561275029000,
+                "modified": 1561311580000,
+                "title": "SYB indicator: Number of teachers",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB120_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Public expenditure in education as percent of GDP",
+                "publicationYear": "2018",
+                "id": "e3d44eb52a9d495c821786cfc5723681",
+                "owner": "unstats_admin",
+                "created": 1561274977000,
+                "modified": 1561311563000,
+                "title": "SYB indicator: Public expenditure in education as percent of GDP",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB112_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Public expenditure in education as percent of government expenditure",
+                "publicationYear": "2018",
+                "id": "f1c6471ca64b4740bc3f9046073381ef",
+                "owner": "unstats_admin",
+                "created": 1561274951000,
+                "modified": 1561311554000,
+                "title": "SYB indicator: Public expenditure in education as percent of government expenditure",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB111_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Public expenditure in education as percent of total expenditure in public institutions: capital expenditure",
+                "publicationYear": "2018",
+                "id": "49f827b7121940cf8a472e62f6612048",
+                "owner": "unstats_admin",
+                "created": 1561274903000,
+                "modified": 1561311537000,
+                "title": "SYB indicator: Public expenditure in education as percent of total expenditure in public institutions: capital expenditure",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB109_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Public expenditure in education as percent of total expenditure in public institutions: Current expenditure other than staff compensation",
+                "publicationYear": "2018",
+                "id": "5f92a363a2a94684bd0c89361ba52ce9",
+                "owner": "unstats_admin",
+                "created": 1561274924000,
+                "modified": 1561311546000,
+                "title": "SYB indicator: Public expenditure in education as percent of total expenditure in public institutions: Current expenditure other than staff compensation",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB110_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Public expenditure in education as percent of total expenditure in public institutions: staff compensation",
+                "publicationYear": "2018",
+                "id": "7a57cd1c85464609ab8af5ce418cdf03",
+                "owner": "unstats_admin",
+                "created": 1561274877000,
+                "modified": 1561311529000,
+                "title": "SYB indicator: Public expenditure in education as percent of total expenditure in public institutions: staff compensation",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB108_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Pupil-teacher ratio",
+                "publicationYear": "2018",
+                "id": "c6fd3b6933f54d54af3bc10e344f3f70",
+                "owner": "unstats_admin",
+                "created": 1561275007000,
+                "modified": 1561311572000,
+                "title": "SYB indicator: Pupil-teacher ratio",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB119_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 4,
+        "id": "d29d2a9106e4428d8bd3f3a0cae4e021",
+        "series": [
+            {
+                "seriesName": "Gender parity ratio in education",
+                "publicationYear": "2018",
+                "id": "5ab360904e1d44c88a11240eaaf76843",
+                "owner": "unstats_admin",
+                "created": 1561275050000,
+                "modified": 1561311646000,
+                "title": "SYB indicator: Gender parity ratio in education",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB113_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Proportion of seats held by women in national parliament  as of February",
+                "publicationYear": "2018",
+                "id": "a4862bdf37334c79a9e3344f843ddac1",
+                "owner": "unstats_admin",
+                "created": 1561275075000,
+                "modified": 1561311654000,
+                "title": "SYB indicator: Proportion of seats held by women in national parliament, as of February",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB118_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 5,
+        "id": "583d7057c4ca40b28ee344dd271ffd07",
+        "series": [
+            {
+                "seriesName": "Percentage of individuals using the internet",
+                "publicationYear": "2018",
+                "id": "16d3087c8d544007ac1aa01c2c755c42",
+                "owner": "unstats_admin",
+                "created": 1561275096000,
+                "modified": 1561311740000,
+                "title": "SYB indicator: Percentage of individuals using the internet",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB105_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 6,
+        "id": "4682c606514044d3bbbe741f1a3e4e2a",
+        "series": [
+            {
+                "seriesName": "GDP in constant prices",
+                "publicationYear": "2018",
+                "id": "5e962982b65c47e2adaba44f367c9845",
+                "owner": "unstats_admin",
+                "created": 1561275197000,
+                "modified": 1561311823000,
+                "title": "SYB indicator: GDP in constant prices",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB023_2018/FeatureServer"
+            },
+            {
+                "seriesName": "GDP in current prices",
+                "publicationYear": "2018",
+                "id": "77621dfd97e94273a1405e960582854f",
+                "owner": "unstats_admin",
+                "created": 1561275223000,
+                "modified": 1561311832000,
+                "title": "SYB indicator: GDP in current prices",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB024_2018/FeatureServer"
+            },
+            {
+                "seriesName": "GDP per capita",
+                "publicationYear": "2018",
+                "id": "5ec9f38def1247ebbcee2557fc0c3a9b",
+                "owner": "unstats_admin",
+                "created": 1561275244000,
+                "modified": 1561311843000,
+                "title": "SYB indicator: GDP per capita",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB025_2018/FeatureServer"
+            },
+            {
+                "seriesName": "GDP real rates of growth",
+                "publicationYear": "2018",
+                "id": "18378adffb914440b6f6ae8579b9706d",
+                "owner": "unstats_admin",
+                "created": 1561275270000,
+                "modified": 1561311852000,
+                "title": "SYB indicator: GDP real rates of growth",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB026_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Gross value added by industry",
+                "publicationYear": "2018",
+                "id": "4ea3388567b64f33b3601bac26767f96",
+                "owner": "unstats_admin",
+                "created": 1561275175000,
+                "modified": 1561311815000,
+                "title": "SYB indicator: Gross value added by industry",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB022_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 7,
+        "id": "6e4d253e2e944132ab72b2d8e6e0d149",
+        "series": [
+            {
+                "seriesName": "Balance of Payments: Capital account",
+                "publicationYear": "2018",
+                "id": "a201ac34ff6a47a6a978ca2b3b7f0dfd",
+                "owner": "unstats_admin",
+                "created": 1561275292000,
+                "modified": 1561311885000,
+                "title": "SYB indicator: Balance of Payments: Capital account",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB065_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Balance of Payments: Current account",
+                "publicationYear": "2018",
+                "id": "12fb78721cdc4d678a74e58006b131cf",
+                "owner": "unstats_admin",
+                "created": 1561275317000,
+                "modified": 1561311894000,
+                "title": "SYB indicator: Balance of Payments: Current account",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB066_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Balance of Payments: Financial account",
+                "publicationYear": "2018",
+                "id": "fab67e6783d14d1988ff7ed19bea77ef",
+                "owner": "unstats_admin",
+                "created": 1561275338000,
+                "modified": 1561311903000,
+                "title": "SYB indicator: Balance of Payments: Financial account",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB067_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Exchange rate: end of period",
+                "publicationYear": "2018",
+                "id": "9b697a11f8084ac682dea3f55b2b088f",
+                "owner": "unstats_admin",
+                "created": 1561275359000,
+                "modified": 1561311912000,
+                "title": "SYB indicator: Exchange rate: end of period",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB068_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Exchange rate: period average",
+                "publicationYear": "2018",
+                "id": "2ab2182d60cc430c92c51ce791ac7f3d",
+                "owner": "unstats_admin",
+                "created": 1561275384000,
+                "modified": 1561311922000,
+                "title": "SYB indicator: Exchange rate: period average",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB069_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 8,
+        "id": "d277c4d7c8a0438394bee1e98e501cb3",
+        "series": [
+            {
+                "seriesName": "Distribution of employment by industry and sex",
+                "publicationYear": "2018",
+                "id": "053bf43b5a724a5082efde98adebc4ca",
+                "owner": "unstats_admin",
+                "created": 1561275406000,
+                "modified": 1561312349000,
+                "title": "SYB indicator: Distribution of employment by industry and sex",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB030_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Labour force participation",
+                "publicationYear": "2018",
+                "id": "646314aeef1b42bc9de3a49902eb5d98",
+                "owner": "unstats_admin",
+                "created": 1561275432000,
+                "modified": 1561312357000,
+                "title": "SYB indicator: Labour force participation",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB092_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Unemployment rate",
+                "publicationYear": "2018",
+                "id": "4a000e35f2fb4699a79729f50a189b20",
+                "owner": "unstats_admin",
+                "created": 1561275459000,
+                "modified": 1561312366000,
+                "title": "SYB indicator: Unemployment rate",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB093_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 9,
+        "id": "e682722d7cae463f84b1b50408779451",
+        "series": [
+            {
+                "seriesName": "Consumer Price index: food",
+                "publicationYear": "2018",
+                "id": "d0ed6d76f6df4b58855d99661319b0f0",
+                "owner": "unstats_admin",
+                "created": 1561275567000,
+                "modified": 1561312927000,
+                "title": "SYB indicator: Consumer Price index: food",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB094_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Consumer Price index: general",
+                "publicationYear": "2018",
+                "id": "a27b203621164e85857ffc85a5392703",
+                "owner": "unstats_admin",
+                "created": 1561275589000,
+                "modified": 1561312937000,
+                "title": "SYB indicator: Consumer Price index: general",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB095_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Index of agricultural production",
+                "publicationYear": "2018",
+                "id": "b980c23d110d443f82c8bfbf2d8a13e7",
+                "owner": "unstats_admin",
+                "created": 1561275519000,
+                "modified": 1561312909000,
+                "title": "SYB indicator: Index of agricultural production",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB028_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Index of food production",
+                "publicationYear": "2018",
+                "id": "070efd18b12049899372bda29e3f6205",
+                "owner": "unstats_admin",
+                "created": 1561275540000,
+                "modified": 1561312917000,
+                "title": "SYB indicator: Index of food production",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB029_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Index of industrial production",
+                "publicationYear": "2018",
+                "id": "3e6c2522bf274ac1930b60e124ff46fd",
+                "owner": "unstats_admin",
+                "created": 1561275491000,
+                "modified": 1561312900000,
+                "title": "SYB indicator: Index of industrial production",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB027_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 11,
+        "id": "4fc4d373d4574eb1bb5e06bb825dc83c",
+        "series": [
+            {
+                "seriesName": "Assault rate",
+                "publicationYear": "2018",
+                "id": "4294a38ad217408b9c426d923359875c",
+                "owner": "unstats_admin",
+                "created": 1561275610000,
+                "modified": 1561313103000,
+                "title": "SYB indicator: Assault rate",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB098_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Distribution of intentional homicide victims by sex",
+                "publicationYear": "2018",
+                "id": "b31ac79e3dc44162a9942a4d4bcb1183",
+                "owner": "unstats_admin",
+                "created": 1561275677000,
+                "modified": 1561313129000,
+                "title": "SYB indicator: Distribution of intentional homicide victims by sex",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB101_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Intentional homicide rate",
+                "publicationYear": "2018",
+                "id": "09f5f5b86d41446dae119948a3974cfd",
+                "owner": "unstats_admin",
+                "created": 1561275631000,
+                "modified": 1561313112000,
+                "title": "SYB indicator: Intentional homicide rate",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB099_2018/FeatureServer"
+            },
+            {
+                "seriesName": "National kidnapping rate",
+                "publicationYear": "2018",
+                "id": "2f2aa9381c5b4e93984c31b38f56d785",
+                "owner": "unstats_admin",
+                "created": 1561275657000,
+                "modified": 1561313120000,
+                "title": "SYB indicator: National kidnapping rate",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB100_2018/FeatureServer"
+            },
+            {
+                "seriesName": "National robbery rate",
+                "publicationYear": "2018",
+                "id": "04047e5125f84d8c98aa50821ea64767",
+                "owner": "unstats_admin",
+                "created": 1561275698000,
+                "modified": 1561313139000,
+                "title": "SYB indicator: National robbery rate",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB102_2018/FeatureServer"
+            },
+            {
+                "seriesName": "National theft rate",
+                "publicationYear": "2018",
+                "id": "e64a546a527f4ecc96313cf0b4b8f792",
+                "owner": "unstats_admin",
+                "created": 1561275724000,
+                "modified": 1561313148000,
+                "title": "SYB indicator: National theft rate",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB103_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Total national sexual violence rate",
+                "publicationYear": "2018",
+                "id": "cfa16e075f8a4886b799f67a2cfba067",
+                "owner": "unstats_admin",
+                "created": 1561275746000,
+                "modified": 1561313156000,
+                "title": "SYB indicator: Total national sexual violence rate",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB104_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 13,
+        "id": "d940686a22a84aa7820c619352d3b252",
+        "series": [
+            {
+                "seriesName": "Arable land area",
+                "publicationYear": "2018",
+                "id": "7038b4b16ad0487186524da1df58b413",
+                "owner": "unstats_admin",
+                "created": 1561275828000,
+                "modified": 1561313276000,
+                "title": "SYB indicator: Arable land area",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB046_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Arable land as percent of total land area",
+                "publicationYear": "2018",
+                "id": "ddf9aaf75c8049688634c59e4a47a53a",
+                "owner": "unstats_admin",
+                "created": 1561275799000,
+                "modified": 1561313268000,
+                "title": "SYB indicator: Arable land as percent of total land area",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB045_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Carbon dioxide emissions",
+                "publicationYear": "2018",
+                "id": "d3581d327da343e8bfd54e32b41ac565",
+                "owner": "unstats_admin",
+                "created": 1561276086000,
+                "modified": 1561313368000,
+                "title": "SYB indicator: Carbon dioxide emissions",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB123_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Carbon dioxide emissions per capita",
+                "publicationYear": "2018",
+                "id": "f3014b6e5da449cbb2ddee83cb8b0080",
+                "owner": "unstats_admin",
+                "created": 1561276108000,
+                "modified": 1561313377000,
+                "title": "SYB indicator: Carbon dioxide emissions per capita",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB124_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Forest cover area",
+                "publicationYear": "2018",
+                "id": "6bc0bf63f61a45fdbb01ac2a5692ee40",
+                "owner": "unstats_admin",
+                "created": 1561275869000,
+                "modified": 1561313293000,
+                "title": "SYB indicator: Forest cover area",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB048_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Forest cover as percent of total land area",
+                "publicationYear": "2018",
+                "id": "686bb7cb792748a29b203842f553f249",
+                "owner": "unstats_admin",
+                "created": 1561275848000,
+                "modified": 1561313284000,
+                "title": "SYB indicator: Forest cover as percent of total land area",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB047_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Important sites for terrestrial biodiversity protected as percent of total sites protected",
+                "publicationYear": "2018",
+                "id": "48a4a84dbdd640f48dea6795bb6e0f1f",
+                "owner": "unstats_admin",
+                "created": 1561275891000,
+                "modified": 1561313302000,
+                "title": "SYB indicator: Important sites for terrestrial biodiversity protected as percent of total sites protected",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB049_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Land area",
+                "publicationYear": "2018",
+                "id": "be9f976cde964d02b38168123b478d66",
+                "owner": "unstats_admin",
+                "created": 1561275917000,
+                "modified": 1561313310000,
+                "title": "SYB indicator: Land area",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB050_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Permanent crops area",
+                "publicationYear": "2018",
+                "id": "b03884cce5cd4c6a8d713fb95fe16846",
+                "owner": "unstats_admin",
+                "created": 1561275959000,
+                "modified": 1561313326000,
+                "title": "SYB indicator: Permanent crops area",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB052_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Permanent crops as percent of total land area",
+                "publicationYear": "2018",
+                "id": "b6e78096d8024588a0cce59d729bc154",
+                "owner": "unstats_admin",
+                "created": 1561275937000,
+                "modified": 1561313318000,
+                "title": "SYB indicator: Permanent crops as percent of total land area",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB051_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Proportion of population with access to Improved drinking water sources",
+                "publicationYear": "2018",
+                "id": "b4f6f529c056400487edd3c4e6b28a4c",
+                "owner": "unstats_admin",
+                "created": 1561276001000,
+                "modified": 1561313335000,
+                "title": "SYB indicator: Proportion of population with access to Improved drinking water sources",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB083_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Proportion of population with access to improved sanitation facilities",
+                "publicationYear": "2018",
+                "id": "e79199fb17ef4f809f14b3bcb212687b",
+                "owner": "unstats_admin",
+                "created": 1561276022000,
+                "modified": 1561313344000,
+                "title": "SYB indicator: Proportion of population with access to improved sanitation facilities",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB084_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Proportion of population with access to safely managed drinking water sources",
+                "publicationYear": "2018",
+                "id": "a5a5fa906d2143919125fe9cbd1c669f",
+                "owner": "unstats_admin",
+                "created": 1561276043000,
+                "modified": 1561313352000,
+                "title": "SYB indicator: Proportion of population with access to safely managed drinking water sources",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB085_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Proportion of population with access to safely managed sanitation facilities",
+                "publicationYear": "2018",
+                "id": "8bd9d377cbec4f948ce64c2e3debde30",
+                "owner": "unstats_admin",
+                "created": 1561276065000,
+                "modified": 1561313360000,
+                "title": "SYB indicator: Proportion of population with access to safely managed sanitation facilities",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB086_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Threatened species",
+                "publicationYear": "2018",
+                "id": "5157cb78563b4da4936c39efda0be6c3",
+                "owner": "unstats_admin",
+                "created": 1561275772000,
+                "modified": 1561313260000,
+                "title": "SYB indicator: Threatened species",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB003_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 14,
+        "id": "f0a7f4c435bf4d54a0b1f89e268d9137",
+        "series": [
+            {
+                "seriesName": "Grants of patents",
+                "publicationYear": "2018",
+                "id": "e44a82d6b21e41d790ea221489e2e05a",
+                "owner": "unstats_admin",
+                "created": 1561276573000,
+                "modified": 1561313470000,
+                "title": "SYB indicator: Grants of patents",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB059_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Gross domestic expenditure on R & D as a percentage of GDP",
+                "publicationYear": "2018",
+                "id": "516b158641f445a2a982a46bfdb852a3",
+                "owner": "unstats_admin",
+                "created": 1561276366000,
+                "modified": 1561313401000,
+                "title": "SYB indicator: Gross domestic expenditure on R & D as a percentage of GDP",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB004_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Gross domestic expenditure on R & D: Business enterprises",
+                "publicationYear": "2018",
+                "id": "200f2498b38942d994f5acaf07628f02",
+                "owner": "unstats_admin",
+                "created": 1561276394000,
+                "modified": 1561313410000,
+                "title": "SYB indicator: Gross domestic expenditure on R & D: Business enterprises",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB005_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Gross domestic expenditure on R & D: Funds from abroad",
+                "publicationYear": "2018",
+                "id": "5d99ab6eba2a477f90088daf76a88be8",
+                "owner": "unstats_admin",
+                "created": 1561276420000,
+                "modified": 1561313418000,
+                "title": "SYB indicator: Gross domestic expenditure on R & D: Funds from abroad",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB006_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Gross domestic expenditure on R & D: Government",
+                "publicationYear": "2018",
+                "id": "c7854288ecb84eeabcf5f798a37d9bfa",
+                "owner": "unstats_admin",
+                "created": 1561276441000,
+                "modified": 1561313426000,
+                "title": "SYB indicator: Gross domestic expenditure on R & D: Government",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB007_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Gross domestic expenditure on R & D: Higher education",
+                "publicationYear": "2018",
+                "id": "5df5708e8bad4269b2b780ed038bcf74",
+                "owner": "unstats_admin",
+                "created": 1561276462000,
+                "modified": 1561313435000,
+                "title": "SYB indicator: Gross domestic expenditure on R & D: Higher education",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB008_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Gross domestic expenditure on R & D: Not distributed",
+                "publicationYear": "2018",
+                "id": "da7613fc860f46c28a8a4fda55564890",
+                "owner": "unstats_admin",
+                "created": 1561276488000,
+                "modified": 1561313445000,
+                "title": "SYB indicator: Gross domestic expenditure on R & D: Not distributed",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB009_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Gross domestic expenditure on R & D: Private non-profit",
+                "publicationYear": "2018",
+                "id": "aab8b5297c4b4d40bc24258e000a5f4b",
+                "owner": "unstats_admin",
+                "created": 1561276515000,
+                "modified": 1561313454000,
+                "title": "SYB indicator: Gross domestic expenditure on R & D: Private non-profit",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB010_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Patents in force",
+                "publicationYear": "2018",
+                "id": "926e211d51d74533a30b4be0f429969f",
+                "owner": "unstats_admin",
+                "created": 1561276595000,
+                "modified": 1561313479000,
+                "title": "SYB indicator: Patents in force",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB060_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Population employed in research and development (R&D)",
+                "publicationYear": "2018",
+                "id": "0155a072f23c40639c9c1f65b9667d89",
+                "owner": "unstats_admin",
+                "created": 1561276547000,
+                "modified": 1561313462000,
+                "title": "SYB indicator: Population employed in research and development (R&D)",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB058_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Resident patent filings",
+                "publicationYear": "2018",
+                "id": "55e5021e5ed54ef693b0a3e83d463468",
+                "owner": "unstats_admin",
+                "created": 1561276617000,
+                "modified": 1561313487000,
+                "title": "SYB indicator: Resident patent filings",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB061_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 15,
+        "id": "692d1929a8fa4f91b16e1098afe8d451",
+        "series": [
+            {
+                "seriesName": "Balance of trade",
+                "publicationYear": "2018",
+                "id": "af3fcb6e186d4cc1b8ff1aea91147496",
+                "owner": "unstats_admin",
+                "created": 1561276767000,
+                "modified": 1561313562000,
+                "title": "SYB indicator: Balance of trade",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB062_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Exports FOB",
+                "publicationYear": "2018",
+                "id": "853d6d5eab0a4176902118b65863a2c3",
+                "owner": "unstats_admin",
+                "created": 1561276788000,
+                "modified": 1561313570000,
+                "title": "SYB indicator: Exports FOB",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB063_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Imports CIF",
+                "publicationYear": "2018",
+                "id": "f88839ade39842a1906c88053823bc63",
+                "owner": "unstats_admin",
+                "created": 1561276808000,
+                "modified": 1561313582000,
+                "title": "SYB indicator: Imports CIF",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB064_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Share of exports to first major trading partner",
+                "publicationYear": "2018",
+                "id": "98217db641c4408ebbfbd466bc435ed1",
+                "owner": "unstats_admin",
+                "created": 1561276638000,
+                "modified": 1561313510000,
+                "title": "SYB indicator: Share of exports to first major trading partner",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB016_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Share of exports to second major trading partner",
+                "publicationYear": "2018",
+                "id": "c40c433ca8bf42268a279d4edaa4a129",
+                "owner": "unstats_admin",
+                "created": 1561276680000,
+                "modified": 1561313527000,
+                "title": "SYB indicator: Share of exports to second major trading partner",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB018_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Share of exports to third major trading partner",
+                "publicationYear": "2018",
+                "id": "e7076265cb3e4f749beabd9013df9231",
+                "owner": "unstats_admin",
+                "created": 1561276725000,
+                "modified": 1561313545000,
+                "title": "SYB indicator: Share of exports to third major trading partner",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB020_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Share of imports from first major trading partner",
+                "publicationYear": "2018",
+                "id": "5d20115697c64d96bfb5c5d8f93a9397",
+                "owner": "unstats_admin",
+                "created": 1561276659000,
+                "modified": 1561313518000,
+                "title": "SYB indicator: Share of imports from first major trading partner",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB017_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Share of imports from second major trading partner",
+                "publicationYear": "2018",
+                "id": "d15f3b7424a841d5b189f658cf1c868e",
+                "owner": "unstats_admin",
+                "created": 1561276704000,
+                "modified": 1561313536000,
+                "title": "SYB indicator: Share of imports from second major trading partner",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB019_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Share of imports from third major trading partner",
+                "publicationYear": "2018",
+                "id": "35980a3e474845119427797aac070971",
+                "owner": "unstats_admin",
+                "created": 1561276746000,
+                "modified": 1561313553000,
+                "title": "SYB indicator: Share of imports from third major trading partner",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB021_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 16,
+        "id": "043d947fea5b467e8f6071b299394c9e",
+        "series": [
+            {
+                "seriesName": "Civil aviation: scheduled international airline traffic - distance flown",
+                "publicationYear": "2018",
+                "id": "628af69abf17412c9ed41531cf5e43a0",
+                "owner": "unstats_admin",
+                "created": 1561314420000,
+                "modified": 1561314905000,
+                "title": "SYB indicator: Civil aviation: scheduled international airline traffic - distance flown",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB037_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Civil aviation: scheduled international airline traffic - passenger-distance",
+                "publicationYear": "2018",
+                "id": "daf06dca87624c4f9d07f9e99a740782",
+                "owner": "unstats_admin",
+                "created": 1561314446000,
+                "modified": 1561314914000,
+                "title": "SYB indicator: Civil aviation: scheduled international airline traffic - passenger-distance",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB038_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Civil aviation: scheduled international airline traffic - passengers carried",
+                "publicationYear": "2018",
+                "id": "e41b385906304f4398f737e65ecc2395",
+                "owner": "unstats_admin",
+                "created": 1561314471000,
+                "modified": 1561314923000,
+                "title": "SYB indicator: Civil aviation: scheduled international airline traffic - passengers carried",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB039_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Civil aviation: scheduled international airline traffic - total weight-distance",
+                "publicationYear": "2018",
+                "id": "562b628eb16b4241bab20acd1d1eae28",
+                "owner": "unstats_admin",
+                "created": 1561314501000,
+                "modified": 1561314931000,
+                "title": "SYB indicator: Civil aviation: scheduled international airline traffic - total weight-distance",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB040_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Civil aviation: total scheduled airline traffic - distance",
+                "publicationYear": "2018",
+                "id": "c9ba0efc5b13471f8de72bb83adec724",
+                "owner": "unstats_admin",
+                "created": 1561314527000,
+                "modified": 1561314939000,
+                "title": "SYB indicator: Civil aviation: total scheduled airline traffic - distance",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB041_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Civil aviation: total scheduled airline traffic - passenger-distance",
+                "publicationYear": "2018",
+                "id": "13179ba04be9443186c9f5edf9dad3f1",
+                "owner": "unstats_admin",
+                "created": 1561314554000,
+                "modified": 1561314949000,
+                "title": "SYB indicator: Civil aviation: total scheduled airline traffic - passenger-distance",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB042_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Civil aviation: total scheduled airline traffic - passengers carried",
+                "publicationYear": "2018",
+                "id": "5a449c541b25476d9ba1deb3f7136038",
+                "owner": "unstats_admin",
+                "created": 1561314585000,
+                "modified": 1561314957000,
+                "title": "SYB indicator: Civil aviation: total scheduled airline traffic - passengers carried",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB043_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Civil aviation: total scheduled airline traffic - total weight-distance",
+                "publicationYear": "2018",
+                "id": "1a2f203243f24fcf892254d87c8b3403",
+                "owner": "unstats_admin",
+                "created": 1561314611000,
+                "modified": 1561314966000,
+                "title": "SYB indicator: Civil aviation: total scheduled airline traffic - total weight-distance",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB044_2018/FeatureServer"
+            },
+            {
+                "seriesName": "International maritime transport: Vessels cleared",
+                "publicationYear": "2018",
+                "id": "9dacceba74a14ddeb991f2c4b5f8a084",
+                "owner": "unstats_admin",
+                "created": 1561314371000,
+                "modified": 1561314888000,
+                "title": "SYB indicator: International maritime transport: Vessels cleared",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB035_2018/FeatureServer"
+            },
+            {
+                "seriesName": "International maritime transport: Vessels entered",
+                "publicationYear": "2018",
+                "id": "67e7c4507f504944a1e95ed64da925f4",
+                "owner": "unstats_admin",
+                "created": 1561314395000,
+                "modified": 1561314897000,
+                "title": "SYB indicator: International maritime transport: Vessels entered",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB036_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Motor vehicles in use: Commercial vehicles",
+                "publicationYear": "2018",
+                "id": "685f45c354964e199c6f7b043ffbff14",
+                "owner": "unstats_admin",
+                "created": 1561314313000,
+                "modified": 1561314871000,
+                "title": "SYB indicator: Motor vehicles in use: Commercial vehicles",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB033_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Motor vehicles in use: Passenger cars",
+                "publicationYear": "2018",
+                "id": "1c35d274546f460894ebb842389de646",
+                "owner": "unstats_admin",
+                "created": 1561314341000,
+                "modified": 1561314879000,
+                "title": "SYB indicator: Motor vehicles in use: Passenger cars",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB034_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Railway traffic - net weight-distance",
+                "publicationYear": "2018",
+                "id": "c7368c21d75947f88fed9801e6477a3c",
+                "owner": "unstats_admin",
+                "created": 1561314256000,
+                "modified": 1561314854000,
+                "title": "SYB indicator: Railway traffic - net weight-distance",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB031_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Railway traffic - passenger-distance",
+                "publicationYear": "2018",
+                "id": "39dc2a917748444493018eab251e5774",
+                "owner": "unstats_admin",
+                "created": 1561314283000,
+                "modified": 1561314862000,
+                "title": "SYB indicator: Railway traffic - passenger-distance",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB032_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Tourism expenditure",
+                "publicationYear": "2018",
+                "id": "e5f6c8d46ef94732a08edb7f03811dee",
+                "owner": "unstats_admin",
+                "created": 1561314637000,
+                "modified": 1561314975000,
+                "title": "SYB indicator: Tourism expenditure",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB114_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Tourist visitor arrivals",
+                "publicationYear": "2018",
+                "id": "4c2c3e6e76de44078804d07868347973",
+                "owner": "unstats_admin",
+                "created": 1561314667000,
+                "modified": 1561314984000,
+                "title": "SYB indicator: Tourist/visitor arrivals",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB115_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 19,
+        "id": "247d50a1970c4310bfc8e5d37c87e789",
+        "series": [
+            {
+                "seriesName": "Net disbursements of official development assistance received",
+                "publicationYear": "2018",
+                "id": "a95c6bddae19483f9ae696ee6473cfeb",
+                "owner": "unstats_admin",
+                "created": 1561277200000,
+                "modified": 1561315043000,
+                "title": "SYB indicator: Net disbursements of official development assistance received",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB070_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Net disbursements of official development assistance received as percent of GNI",
+                "publicationYear": "2018",
+                "id": "868fe94fbfef470889b0c51a2f919fcc",
+                "owner": "unstats_admin",
+                "created": 1561277221000,
+                "modified": 1561315051000,
+                "title": "SYB indicator: Net disbursements of official development assistance received as percent of GNI",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB071_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Net disbursements of official development assistance to developing countries and multilateral organizations",
+                "publicationYear": "2018",
+                "id": "8065c12d5211488c8641024ba14688f1",
+                "owner": "unstats_admin",
+                "created": 1561277263000,
+                "modified": 1561315068000,
+                "title": "SYB indicator: Net disbursements of official development assistance to developing countries and multilateral organizations",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB097_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Net disbursements of official development assistance to developing countries and multilateral organizations as percent of GNI",
+                "publicationYear": "2018",
+                "id": "79dc5d6c0e424fb2bcb19ec77a742e07",
+                "owner": "unstats_admin",
+                "created": 1561277242000,
+                "modified": 1561315060000,
+                "title": "SYB indicator: Net disbursements of official development assistance to developing countries and multilateral organizations as percent of GNI",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB096_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 20,
+        "id": "768edf7961644d29a730a47c3075c11a",
+        "series": [
+            {
+                "seriesName": "Change in energy stocks",
+                "publicationYear": "2018",
+                "id": "c1e65b470517439aa20cc885f9c00a79",
+                "owner": "unstats_admin",
+                "created": 1561277284000,
+                "modified": 1561315107000,
+                "title": "SYB indicator: Change in energy stocks",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB053_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Net energy imports [Imports - Exports - Bunkers]",
+                "publicationYear": "2018",
+                "id": "d78a993f8f804607be4955d1217b85ee",
+                "owner": "unstats_admin",
+                "created": 1561277310000,
+                "modified": 1561315117000,
+                "title": "SYB indicator: Net energy imports [Imports - Exports - Bunkers]",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB054_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Primary energy production",
+                "publicationYear": "2018",
+                "id": "17d2e797402744f5957179e55ae8a53c",
+                "owner": "unstats_admin",
+                "created": 1561277341000,
+                "modified": 1561315125000,
+                "title": "SYB indicator: Primary energy production",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB055_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Supply of energy per capita",
+                "publicationYear": "2018",
+                "id": "fbbfb40c9c764ddbae5c618639a99685",
+                "owner": "unstats_admin",
+                "created": 1561277371000,
+                "modified": 1561315134000,
+                "title": "SYB indicator: Supply of energy per capita",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB056_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Total energy supply",
+                "publicationYear": "2018",
+                "id": "c8e641cb9791484f8c4a2228967d999d",
+                "owner": "unstats_admin",
+                "created": 1561277392000,
+                "modified": 1561315143000,
+                "title": "SYB indicator: Total energy supply",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB057_2018/FeatureServer"
+            }
+        ]
+    },
+    {
+        "topic": 22,
+        "id": "a5d0dd033b3e449295276a43e77b8eaa",
+        "series": [
+            {
+                "seriesName": "Current health expenditure as a percentage of GDP",
+                "publicationYear": "2018",
+                "id": "565037320392406681529c7afd3bbeb4",
+                "owner": "unstats_admin",
+                "created": 1561277413000,
+                "modified": 1561315178000,
+                "title": "SYB indicator: Current health expenditure as a percentage of GDP",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB116_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Domestic general government health expenditure as a percent of government expenditure",
+                "publicationYear": "2018",
+                "id": "79729a8c39d743c7bab4a10a842d4a12",
+                "owner": "unstats_admin",
+                "created": 1561277440000,
+                "modified": 1561315186000,
+                "title": "SYB indicator: Domestic general government health expenditure as a percent of government expenditure",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB117_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Health personnel",
+                "publicationYear": "2018",
+                "id": "46b0b285f2f5495d851cb23659ad0133",
+                "owner": "unstats_admin",
+                "created": 1561277467000,
+                "modified": 1561315194000,
+                "title": "SYB indicator: Health personnel",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB121_2018/FeatureServer"
+            },
+            {
+                "seriesName": "Health personnel per 1000 population",
+                "publicationYear": "2018",
+                "id": "6ab9cedce0e5488bba16195f651edd5e",
+                "owner": "unstats_admin",
+                "created": 1561277487000,
+                "modified": 1561315203000,
+                "title": "SYB indicator: Health personnel per 1000 population",
+                "type": "Feature Service",
+                "tags": [
+                    "SYB"
+                ],
+                "url": "https://services7.arcgis.com/gp50Ao2knMlOM89z/arcgis/rest/services/SYB122_2018/FeatureServer"
+            }
+        ]
+    }
+]
