@@ -76,7 +76,7 @@
                                         84.7,
                                         84.7
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -293,7 +293,7 @@
                                         100,
                                         100
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 },
                                 {
                                     "seriesCode": "ER_PTD_TERRS",

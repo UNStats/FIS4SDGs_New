@@ -57,7 +57,7 @@
                                         29.8,
                                         18.2
                                     ],
-                                    "preferred_visualization": "singleton"
+                                    "preferred_visualization": "time_series"
                                 },
                                 {
                                     "seriesCode": "SI_POV_EMP1",
@@ -65,8 +65,8 @@
                                     "hub": "e8e11539dd9a4293b502b076d041133d",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y_GE15",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y_GE15"
                                     },
                                     "text_type": "2",
                                     "fact_text": "In <span class='fact-year'>2009</span>, <span class='fact-value'>13.9</span> <span class='fact-unit'>% </span> of the country's workers and their families were living on less than 1.90 US dollars per person per day",
@@ -526,8 +526,8 @@
                                     "hub": "941d6bfede104ca8a122877b2e128f09",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y0T4",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y0T4"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The mortality rate of children under 5 years of age fell from <span class='fact-value'>87</span>  <span class='fact-unit'> per 1,000 live births</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>37.6 per 1,000 live births</span> in <span class='fact-year'>2017</span>.",
@@ -641,8 +641,8 @@
                                     "hub": "f14fe62f978f4e1fb5921c079499e7a0",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "_T",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "_T"
                                     },
                                     "text_type": "13",
                                     "fact_text": "In <span class='fact-year'> 2017</span>, there were about <span class='fact-value'> 7.47</span>  <span class='fact-unit'> people</span>  in every 100,000 uninfected population that became newly infected with HIV.",
@@ -1431,8 +1431,8 @@
                                     "hub": "5065a8bb4c644e3e9eb88899d0cda2e5",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y_GE15",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y_GE15"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The total unemployment rate increased from <span class='fact-value'>15.9</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>17.9%</span> in <span class='fact-year'>2010</span>.",
@@ -1638,7 +1638,7 @@
                                         0.25,
                                         0.54
                                     ],
-                                    "preferred_visualization": "singleton"
+                                    "preferred_visualization": "time_series"
                                 }
                             ]
                         }
@@ -2069,7 +2069,7 @@
                                         45.96,
                                         45.96
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 },
                                 {
                                     "seriesCode": "ER_PTD_TERRS",
@@ -2174,7 +2174,7 @@
                                         51.11,
                                         51.11
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

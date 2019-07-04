@@ -220,7 +220,7 @@
                                         100.0,
                                         100.0
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

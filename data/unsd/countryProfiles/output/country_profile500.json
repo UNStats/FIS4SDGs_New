@@ -364,7 +364,7 @@
                                         25,
                                         25
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         },

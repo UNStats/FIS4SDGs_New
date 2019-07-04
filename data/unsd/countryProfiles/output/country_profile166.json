@@ -166,7 +166,7 @@
                                         100,
                                         100
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

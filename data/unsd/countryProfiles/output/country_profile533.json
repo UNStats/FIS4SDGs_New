@@ -543,7 +543,7 @@
                                         2.33,
                                         2.33
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         },
@@ -653,7 +653,7 @@
                                         31.9,
                                         31.9
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

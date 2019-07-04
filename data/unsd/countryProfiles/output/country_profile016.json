@@ -275,7 +275,7 @@
                                         61.49,
                                         61.49
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

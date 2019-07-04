@@ -112,7 +112,7 @@
                                         100.0,
                                         100.0
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -166,7 +166,7 @@
                                         0.26,
                                         0.26
                                     ],
-                                    "preferred_visualization": "singleton"
+                                    "preferred_visualization": "time_series"
                                 }
                             ]
                         }
@@ -270,7 +270,7 @@
                                         46.3,
                                         46.3
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         },
@@ -380,7 +380,7 @@
                                         60.25,
                                         60.25
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

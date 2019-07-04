@@ -104,7 +104,7 @@
                                         74.47,
                                         74.47
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         },

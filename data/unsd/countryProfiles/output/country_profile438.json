@@ -323,7 +323,7 @@
                                         100,
                                         100
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -426,7 +426,7 @@
                                         99.33,
                                         99.33
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -538,7 +538,7 @@
                                         100.0,
                                         100.0
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -670,8 +670,8 @@
                                     "hub": "5065a8bb4c644e3e9eb88899d0cda2e5",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y_GE15",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y_GE15"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The total unemployment rate increased from <span class='fact-value'>1.3</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>2.0%</span> in <span class='fact-year'>2007</span>.",
@@ -881,7 +881,7 @@
                                         43.13,
                                         43.13
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         },

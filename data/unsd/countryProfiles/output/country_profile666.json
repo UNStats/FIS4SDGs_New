@@ -80,7 +80,7 @@
                                         83.13,
                                         83.13
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

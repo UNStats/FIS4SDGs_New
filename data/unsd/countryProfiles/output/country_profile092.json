@@ -827,7 +827,7 @@
                                         11.13,
                                         11.13
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

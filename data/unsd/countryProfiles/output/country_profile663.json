@@ -104,7 +104,7 @@
                                         21.58,
                                         21.58
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         },

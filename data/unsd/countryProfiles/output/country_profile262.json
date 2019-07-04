@@ -57,7 +57,7 @@
                                         18.3,
                                         22.5
                                     ],
-                                    "preferred_visualization": "singleton"
+                                    "preferred_visualization": "time_series"
                                 }
                             ]
                         }
@@ -303,7 +303,7 @@
                                         32.6,
                                         33.5
                                     ],
-                                    "preferred_visualization": "singleton"
+                                    "preferred_visualization": "time_series"
                                 }
                             ]
                         },
@@ -350,7 +350,7 @@
                                         13.4,
                                         8.1
                                     ],
-                                    "preferred_visualization": "singleton"
+                                    "preferred_visualization": "time_series"
                                 }
                             ]
                         }
@@ -519,8 +519,8 @@
                                     "hub": "941d6bfede104ca8a122877b2e128f09",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y0T4",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y0T4"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The mortality rate of children under 5 years of age fell from <span class='fact-value'>101.5</span>  <span class='fact-unit'> per 1,000 live births</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>61.7 per 1,000 live births</span> in <span class='fact-year'>2017</span>.",
@@ -634,8 +634,8 @@
                                     "hub": "f14fe62f978f4e1fb5921c079499e7a0",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "_T",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "_T"
                                     },
                                     "text_type": "13",
                                     "fact_text": "In <span class='fact-year'> 2017</span>, there were about <span class='fact-value'> 0.61</span>  <span class='fact-unit'> people</span>  in every 100,000 uninfected population that became newly infected with HIV.",
@@ -843,8 +843,8 @@
                                     "hub": "62be27aeb98d417f952bf4e2523915f8",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y20T24",
-                                        "sexCode": "F"
+                                        "sexCode": "F",
+                                        "ageCode": "Y20T24"
                                     },
                                     "text_type": "2",
                                     "fact_text": "In <span class='fact-year'>2006</span>, <span class='fact-value'>5.4</span> <span class='fact-unit'>% </span> of women between 20 to 24 years of age reported having been married before their eighteenth birthday",
@@ -1890,7 +1890,7 @@
                                         0.24,
                                         0.24
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         },
@@ -2000,7 +2000,7 @@
                                         0,
                                         0
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 },
                                 {
                                     "seriesCode": "ER_PTD_TERRS",

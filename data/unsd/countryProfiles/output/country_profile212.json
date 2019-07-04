@@ -133,8 +133,8 @@
                                     "hub": "941d6bfede104ca8a122877b2e128f09",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y0T4",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y0T4"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The mortality rate of children under 5 years of age increased from <span class='fact-value'>15.4</span>  <span class='fact-unit'> per 1,000 live births</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>34 per 1,000 live births</span> in <span class='fact-year'>2017</span>.",
@@ -286,7 +286,7 @@
                                         88.18,
                                         70.77
                                     ],
-                                    "preferred_visualization": "singleton"
+                                    "preferred_visualization": "time_series"
                                 }
                             ]
                         }
@@ -866,8 +866,8 @@
                                     "hub": "5065a8bb4c644e3e9eb88899d0cda2e5",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y_GE15",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y_GE15"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The total unemployment rate was <span class='fact-value'>11.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2001</span>.",
@@ -1335,7 +1335,7 @@
                                         0.1,
                                         0.1
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 },
                                 {
                                     "seriesCode": "ER_PTD_TERRS",
@@ -1440,7 +1440,7 @@
                                         29.52,
                                         29.52
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

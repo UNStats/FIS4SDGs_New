@@ -166,7 +166,7 @@
                                         62.89,
                                         62.89
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }

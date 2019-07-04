@@ -112,7 +112,7 @@
                                         100.0,
                                         100.0
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -220,8 +220,8 @@
                                     "hub": "5065a8bb4c644e3e9eb88899d0cda2e5",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y_GE15",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y_GE15"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The total unemployment rate was <span class='fact-value'>11.7</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2015</span>.",
@@ -426,7 +426,7 @@
                                         100.0,
                                         100.0
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -530,7 +530,7 @@
                                         0.17,
                                         0.17
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         },

@@ -73,8 +73,8 @@
                                     "hub": "941d6bfede104ca8a122877b2e128f09",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y0T4",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y0T4"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The mortality rate of children under 5 years of age fell from <span class='fact-value'>22.5</span>  <span class='fact-unit'> per 1,000 live births</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>13.7 per 1,000 live births</span> in <span class='fact-year'>2017</span>.",
@@ -461,7 +461,7 @@
                                         95,
                                         95
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -593,8 +593,8 @@
                                     "hub": "5065a8bb4c644e3e9eb88899d0cda2e5",
                                     "dashboard": "62f44e7da0864b1eb6f9d4bb5f9d2f54",
                                     "slice_dimensions": {
-                                        "ageCode": "Y_GE15",
-                                        "sexCode": "_T"
+                                        "sexCode": "_T",
+                                        "ageCode": "Y_GE15"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The total unemployment rate was <span class='fact-value'>5.1</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2001</span>.",
@@ -679,7 +679,7 @@
                                         100.0,
                                         100.0
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -928,7 +928,7 @@
                                         42.31,
                                         42.31
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         },
@@ -1038,7 +1038,7 @@
                                         29.2,
                                         29.2
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
@@ -1092,7 +1092,7 @@
                                         65.38,
                                         34.23
                                     ],
-                                    "preferred_visualization": "singleton"
+                                    "preferred_visualization": "time_series"
                                 }
                             ]
                         }

@@ -104,7 +104,7 @@
                                         2.66,
                                         2.66
                                     ],
-                                    "preferred_visualization": "time_series"
+                                    "preferred_visualization": "singleton"
                                 }
                             ]
                         }
