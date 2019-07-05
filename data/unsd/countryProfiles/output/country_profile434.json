@@ -257,8 +257,8 @@
                                     "hub": "941d6bfede104ca8a122877b2e128f09",
                                     "dashboard": "761962347a9f42a08072bbbb2e4d0c3b",
                                     "slice_dimensions": {
-                                        "sexCode": "_T",
-                                        "ageCode": "Y0T4"
+                                        "ageCode": "Y0T4",
+                                        "sexCode": "_T"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The mortality rate of children under 5 years of age fell from <span class='fact-value'>28.1</span>  <span class='fact-unit'> per 1,000 live births</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>12.4 per 1,000 live births</span> in <span class='fact-year'>2017</span>.",
@@ -922,8 +922,8 @@
                                     "hub": "5065a8bb4c644e3e9eb88899d0cda2e5",
                                     "dashboard": "4accf1a1e0f245a9b38c4a9bf4f98172",
                                     "slice_dimensions": {
-                                        "sexCode": "_T",
-                                        "ageCode": "Y_GE15"
+                                        "ageCode": "Y_GE15",
+                                        "sexCode": "_T"
                                     },
                                     "text_type": "1",
                                     "fact_text": "The total unemployment rate was <span class='fact-value'>19.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2012</span>.",
