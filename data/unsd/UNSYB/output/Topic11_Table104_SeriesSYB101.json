@@ -5,7 +5,7 @@
     "tableCode": "crime",
     "tableId": 104,
     "tableName": "Intentional homicides and other crimes",
-    "tableStatusId": 2,
+    "tableStatusId": 7,
     "tbBkCode": "T12 ",
     "tbBkPrint": "Y",
     "newSeriesName": "Distribution of intentional homicide victims by sex",
@@ -19,8 +19,8 @@
         {
             "sourceCode": "UNODC",
             "sourceId": 92,
-            "sourceNameEN": "United Nations Office on Drugs and Crime (UNODC), Vienna, UNODC Statistics database, last accessed December 2018.",
-            "sourceNameFR": "Office des Nations Unies contre la drogue et le crime (ONUDC), Vienne, base de donn\u00e9es statistiques de l\u2019ONUDC, dernier acc\u00e8s decembre 2018."
+            "sourceNameEN": "United Nations Office on Drugs and Crime (UNODC), Vienna, UNODC Statistics database, last accessed March 2019.",
+            "sourceNameFR": "Office des Nations Unies contre la drogue et le crime (ONUDC), Vienne, base de donn\u00e9es statistiques de l\u2019ONUDC, dernier acc\u00e8s mars 2019."
         }
     ],
     "footnotes": [
@@ -29,6 +29,12 @@
             "footnoteCode": "estimate",
             "footnoteTextEN": "Estimate.",
             "footnoteTextFR": "Donn\u00e9es estimatives."
+        },
+        {
+            "footnoteId": 56965,
+            "footnoteCode": "chinastat3",
+            "footnoteTextEN": "For statistical purposes, the data for China do not include those for the Hong Kong Special Administrative Region (Hong Kong SAR), Macao Special Administrative Region (Macao SAR) and Taiwan Province of China.",
+            "footnoteTextFR": "Pour la pr\u00e9sentation des statistiques, les donn\u00e9es pour la Chine ne comprennent pas la r\u00e9gion administrative sp\u00e9ciale de Hong Kong (RAS de Hong Kong), la r\u00e9gion administrative sp\u00e9ciale de Macao (RAS de Macao) et la province chinoise de Ta\u00efwan."
         },
         {
             "footnoteId": 61404,
@@ -6376,9 +6382,7 @@
                     "year": 2015,
                     "value": 3.6235,
                     "sourceId": 92,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "sexCode": "F",
                     "sexDesc": "Female",
                     "units": "Percent",
@@ -6389,9 +6393,7 @@
                     "year": 2015,
                     "value": 14.4471,
                     "sourceId": 92,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "sexCode": "M",
                     "sexDesc": "Male",
                     "units": "Percent",
@@ -6717,7 +6719,8 @@
                     "value": 0.5062,
                     "sourceId": 92,
                     "footnoteId": [
-                        51
+                        51,
+                        56965
                     ],
                     "sexCode": "F",
                     "sexDesc": "Female",
@@ -6730,7 +6733,8 @@
                     "value": 0.9316000000000001,
                     "sourceId": 92,
                     "footnoteId": [
-                        51
+                        51,
+                        56965
                     ],
                     "sexCode": "M",
                     "sexDesc": "Male",
@@ -21533,6 +21537,14 @@
             ]
         },
         {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
+        },
+        {
             "parentRegionId": "18",
             "parentRegion_DescEN": "Southern Africa",
             "refAreaType": "Area",
@@ -22495,6 +22507,14 @@
             "refAreaType": "Area",
             "refAreaCode": 540,
             "refAreaDesc": "New Caledonia",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
             "data": []
         },
         {
@@ -26685,6 +26705,14 @@
             ]
         },
         {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
+        },
+        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
@@ -26936,6 +26964,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
         },
         {
             "parentRegionId": "21",
@@ -29558,6 +29594,14 @@
             ]
         },
         {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
+            "data": []
+        },
+        {
             "parentRegionId": "18",
             "parentRegion_DescEN": "Southern Africa",
             "refAreaType": "Area",
@@ -29974,6 +30018,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
         },
         {
             "parentRegionId": "155",
@@ -32293,7 +32345,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "data": [
                 {
                     "year": 2006,
@@ -34698,35 +34750,11 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 513,
-            "refAreaDesc": "Northern America and Europe",
-            "data": []
-        },
-        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
             "refAreaCode": 655,
             "refAreaDesc": "Saint Helena (Ascension)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 747,
-            "refAreaDesc": "Northern Africa and Western Asia",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 753,
-            "refAreaDesc": "Eastern and South-Eastern Asia",
             "data": []
         },
         {
@@ -34988,14 +35016,6 @@
             "parentRegionId": "14",
             "parentRegion_DescEN": "Eastern Africa",
             "refAreaType": "Area",
-            "refAreaCode": 835,
-            "refAreaDesc": "United Republic of Tanzania (mainland)",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
             "refAreaCode": 836,
             "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
             "data": []
@@ -35030,14 +35050,6 @@
             "refAreaType": "Area",
             "refAreaCode": 74,
             "refAreaDesc": "Bouvet Island",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -35105,27 +35117,19 @@
             "data": []
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "data": []
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "data": []
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
             "refAreaCode": 744,
             "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 58,
+            "refAreaDesc": "Belgium-Luxembourg",
             "data": []
         },
         {
@@ -35161,323 +35165,19 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 369,
-            "refAreaDesc": "Iraq (Central Iraq)",
-            "data": [
-                {
-                    "year": 2008,
-                    "value": 4.786,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2009,
-                    "value": 7.3101,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 3.4914,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 3.4196,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2012,
-                    "value": 3.4947,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2013,
-                    "value": 3.6006,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2014,
-                    "value": 3.5768,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2008,
-                    "value": 30.7751,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2009,
-                    "value": 11.8965,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 15.7936,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 15.0043,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2012,
-                    "value": 14.8571,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2013,
-                    "value": 18.4494,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2014,
-                    "value": 16.4336,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                }
-            ]
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 370,
-            "refAreaDesc": "Iraq (Kurdistan Region)",
-            "data": [
-                {
-                    "year": 2008,
-                    "value": 2.916,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2009,
-                    "value": 1.3202,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 1.2371,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 1.322,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2012,
-                    "value": 1.0083,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2013,
-                    "value": 0.8949,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "F",
-                    "sexDesc": "Female",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2008,
-                    "value": 3.7389,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2009,
-                    "value": 2.9847,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 4.7581,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 3.5658000000000003,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2012,
-                    "value": 3.1849,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2013,
-                    "value": 3.4676,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "sexCode": "M",
-                    "sexDesc": "Male",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                }
-            ]
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 543,
-            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
-            "data": []
-        },
-        {
             "parentRegionId": "1",
             "parentRegion_DescEN": "World",
             "refAreaType": "Region",
             "refAreaCode": 10,
             "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -35654,14 +35354,6 @@
             "refAreaType": "Area",
             "refAreaCode": 582,
             "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
-            "data": []
-        },
-        {
-            "parentRegionId": "47",
-            "parentRegion_DescEN": "Micronesia [former]",
-            "refAreaType": "Area",
-            "refAreaCode": 396,
-            "refAreaDesc": "Johnston Island [former]",
             "data": []
         }
     ]

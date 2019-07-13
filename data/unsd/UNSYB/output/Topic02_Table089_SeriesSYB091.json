@@ -5,7 +5,7 @@
     "tableCode": "pop",
     "tableId": 89,
     "tableName": "Population, density and surface area",
-    "tableStatusId": 1,
+    "tableStatusId": 2,
     "tbBkCode": "T02 ",
     "tbBkPrint": "Y",
     "newSeriesName": "Surface area",
@@ -220,6 +220,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 136162.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -250,6 +259,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 30311.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 30311.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -292,6 +310,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 652.864,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -304,6 +331,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 17832.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 17832.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -346,6 +382,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 28.748,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -382,6 +427,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 8564.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -394,6 +448,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 6138.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 6138.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -436,6 +499,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2381.741,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -448,6 +520,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 2480.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 2480.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -472,6 +553,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 7005.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -484,6 +574,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 7880.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 7880.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -526,6 +625,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.199,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -544,6 +652,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 6613.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -556,6 +673,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 2675.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 2675.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -598,6 +724,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.468,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -628,6 +763,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 21776.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 21776.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -670,6 +814,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1246.7,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -706,6 +859,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.442,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -724,6 +886,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 234.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -736,6 +907,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 11799.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 11799.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -778,6 +958,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 86.6,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -808,6 +997,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 2780.4,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 2780.4,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -856,6 +1054,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 6688.0,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        55118
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -868,6 +1077,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 4495.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 4495.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -916,6 +1134,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 7692.06,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        60796
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -928,6 +1157,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 1317.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1317.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -970,6 +1208,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 83.871,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1000,6 +1247,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 13.94,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 13.94,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1042,6 +1298,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.771,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1072,6 +1337,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 147.57,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 147.57,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1114,6 +1388,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 29.743,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1150,6 +1433,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.431,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1168,6 +1460,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 8012.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1180,6 +1481,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 541.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 541.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1222,6 +1532,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 30.528,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1234,6 +1553,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 3.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 3.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1276,6 +1604,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.053000000000000005,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1294,6 +1631,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 8.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1306,6 +1652,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 10791.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 10791.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1342,6 +1697,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 38.394,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 38.394,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1390,6 +1754,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1098.581,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        59824
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1420,6 +1795,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 51.209,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 51.209,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1462,6 +1846,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 582.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1492,6 +1885,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 8515.767,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 8515.767,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1534,6 +1936,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 22.966,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1564,6 +1975,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 28.896,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 28.896,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1606,6 +2026,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.151,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1636,6 +2065,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 5.765,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 5.765,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1678,6 +2116,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 111.002,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1708,6 +2155,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 676.577,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 676.577,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1750,6 +2206,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 27.83,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1780,6 +2245,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 207.6,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 207.6,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1822,6 +2296,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 181.035,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1852,6 +2335,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 475.65,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 475.65,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1894,6 +2386,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 9984.67,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1924,6 +2425,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 4.033,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 4.033,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -1966,6 +2476,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.264,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2002,6 +2521,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 622.984,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2032,6 +2560,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 31915.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 31915.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2080,6 +2617,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4103.0,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        55118
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2116,6 +2664,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 65.61,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2128,6 +2685,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 4831.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 4831.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2170,6 +2736,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1284.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2206,6 +2781,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 23049.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2218,6 +2802,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 18814.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 18814.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2260,6 +2853,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 756.102,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2278,6 +2880,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1810.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2290,6 +2901,15 @@
             "data": [
                 {
                     "year": 2015,
+                    "value": 1108.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1108.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2330,6 +2950,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 9600.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 9600.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2380,6 +3009,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1141.748,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2410,6 +3048,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 2.235,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 2.235,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2460,6 +3107,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 342.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2490,6 +3146,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 2344.858,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 2344.858,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2532,6 +3197,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.23600000000000002,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2562,6 +3236,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 51.1,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 51.1,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2604,6 +3287,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 56.594,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2640,6 +3332,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 109.884,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2670,6 +3371,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 9.251,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 9.251,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2718,6 +3428,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 22431.0,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        55118
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2748,6 +3469,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 78.8678,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 78.8678,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2790,6 +3520,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 114.763,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2820,6 +3559,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 42.921,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 42.921,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2862,6 +3610,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.75,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2898,6 +3655,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 48.671,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2928,6 +3694,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 257.217,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 257.217,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -2976,6 +3751,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 21.0408,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        59051
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3006,6 +3792,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 28.0515,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 28.0515,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3048,6 +3843,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1104.3,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3078,6 +3882,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 117.6,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 117.6,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3120,6 +3933,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 45.227,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3150,6 +3972,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 1.393,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1.393,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3198,6 +4029,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 12.173,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        55834
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3228,6 +4070,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 18.272,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 18.272,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3276,6 +4127,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 338.44,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        58397
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3306,6 +4168,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 551.5,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 551.5,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3348,6 +4219,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 83.534,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3378,6 +4258,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 4.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 4.0,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3420,6 +4309,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 23.2,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3450,6 +4348,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 267.668,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 267.668,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3492,6 +4399,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 69.7,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3522,6 +4438,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 11.295,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 11.295,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3564,6 +4489,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 6.02,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3594,6 +4528,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 357.376,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 357.376,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3636,6 +4579,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 238.537,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3666,6 +4618,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.006,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.006,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3714,6 +4675,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.7263000000000001,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        59814
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3744,6 +4716,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 131.957,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 131.957,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3786,6 +4767,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2166.086,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3816,6 +4806,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.34500000000000003,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.34500000000000003,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3858,6 +4857,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1.705,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3888,6 +4896,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.549,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.549,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -3930,6 +4947,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 108.889,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3960,6 +4986,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 245.857,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 245.857,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4002,6 +5037,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 214.969,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4032,6 +5076,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 27.75,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 27.75,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4080,6 +5133,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.0004,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        58399
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4110,6 +5174,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 112.492,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 112.492,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4152,6 +5225,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1.1057,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4182,6 +5264,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 93.024,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 93.024,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4224,6 +5315,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 103.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4260,6 +5360,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3287.263,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4290,6 +5399,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 1910.931,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1910.931,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4338,6 +5456,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1628.75,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        59042
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4368,6 +5497,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 435.052,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 435.052,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4410,6 +5548,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 69.797,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4440,6 +5587,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 22.072,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 22.072,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4482,6 +5638,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 302.073,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4518,6 +5683,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 322.463,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4548,6 +5722,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 10.9905,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 10.9905,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4610,6 +5793,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2724.902,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4640,6 +5832,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 89.318,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 89.318,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4682,6 +5883,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 591.958,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4712,6 +5922,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 120.538,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 120.538,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4754,6 +5973,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 100.2839,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4784,6 +6012,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 17.818,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 17.818,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4826,6 +6063,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 199.949,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4856,6 +6102,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 236.8,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 236.8,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4898,6 +6153,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 20546.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4928,6 +6192,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 10.452,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 10.452,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -4970,6 +6243,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 30.355,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5000,6 +6282,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 64.573,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 64.573,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5042,6 +6333,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 111.369,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5072,6 +6372,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 1676.198,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1676.198,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5114,6 +6423,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.16,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5150,6 +6468,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 65.286,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5180,6 +6507,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 2.5860000000000003,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 2.5860000000000003,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5224,6 +6560,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.030000000000000002,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        61213
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5254,6 +6601,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 587.295,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 587.295,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5296,6 +6652,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 118.484,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5326,6 +6691,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 330.323,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 330.323,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5368,6 +6742,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.3,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5398,6 +6781,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 1240.192,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1240.192,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5440,6 +6832,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.3154,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5476,6 +6877,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1.1280000000000001,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5506,6 +6916,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 1030.7,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1030.7,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5554,6 +6973,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1.969,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        59029
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5584,6 +7014,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 1964.375,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1964.375,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5626,6 +7065,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.002,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5656,6 +7104,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 1564.116,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1564.116,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5698,6 +7155,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 33.846000000000004,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5728,6 +7194,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 13.812,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 13.812,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5770,6 +7245,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.10300000000000001,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5800,6 +7284,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 446.55,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 446.55,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5842,6 +7335,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 799.38,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5878,8 +7380,25 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 309.5,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
         },
         {
             "parentRegionId": "18",
@@ -5908,6 +7427,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 824.116,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 824.116,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -5950,6 +7478,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.021,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5980,6 +7517,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 147.181,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 147.181,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6022,6 +7568,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 41.542,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6052,6 +7607,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.444,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.444,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6094,6 +7658,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.18000000000000002,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6124,6 +7697,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.034,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.034,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6174,8 +7756,25 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 18.575,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
+            "data": []
         },
         {
             "parentRegionId": "54",
@@ -6204,6 +7803,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 12.189,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 12.189,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6246,6 +7854,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 268.107,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6276,6 +7893,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 130.373,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 130.373,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6318,6 +7944,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1267.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6354,6 +7989,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 923.768,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6384,6 +8028,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.26,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.26,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6432,6 +8085,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 386.194,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        2152
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6462,6 +8126,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.457,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.457,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6504,6 +8177,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.7020000000000001,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6534,6 +8216,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.18100000000000002,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.18100000000000002,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6576,6 +8267,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.459,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6606,6 +8306,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 796.095,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 796.095,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6648,6 +8357,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 75.32,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6678,6 +8396,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 462.84,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 462.84,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6720,6 +8447,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 406.752,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6750,6 +8486,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 1285.216,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 1285.216,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6792,6 +8537,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 300.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6822,6 +8576,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 312.679,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 312.679,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6864,6 +8627,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 92.226,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6894,6 +8666,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 36.125,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 36.125,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -6936,6 +8717,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 14.919,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6966,6 +8756,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 8.868,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 8.868,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7008,6 +8807,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 11.607,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7038,6 +8846,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 2.513,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 2.513,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7080,6 +8897,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 238.3907,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7110,6 +8936,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 17098.246,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 17098.246,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7152,8 +8987,25 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 26.338,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
         },
         {
             "parentRegionId": "11",
@@ -7184,6 +9036,17 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.308,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        1704
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.308,
                     "sourceId": 35,
                     "footnoteId": [
@@ -7228,6 +9091,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.261,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7258,6 +9130,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.091,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.091,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7306,8 +9187,27 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.539,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        59048
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
         },
         {
             "parentRegionId": "21",
@@ -7336,6 +9236,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.24200000000000002,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.24200000000000002,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7378,6 +9287,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.389,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7408,6 +9326,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.061000000000000006,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.061000000000000006,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7450,6 +9377,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.9640000000000001,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7480,6 +9416,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 2206.714,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 2206.714,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7528,6 +9473,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 196.712,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        59348
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7558,6 +9514,17 @@
                 },
                 {
                     "year": 2015,
+                    "value": 88.499,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        61212
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 88.499,
                     "sourceId": 35,
                     "footnoteId": [
@@ -7602,6 +9569,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.457,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7632,6 +9608,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 72.3,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 72.3,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7672,6 +9657,17 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.7190000000000001,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        60779
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.7190000000000001,
                     "sourceId": 35,
                     "footnoteId": [
@@ -7722,6 +9718,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 49.035,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        59810
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7752,6 +9759,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 330.967,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 330.967,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7794,6 +9810,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 20.273,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7824,6 +9849,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 637.657,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 637.657,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7866,6 +9900,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1221.037,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7896,6 +9939,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 390.757,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 390.757,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -7938,6 +9990,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 505.944,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7968,6 +10029,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 658.841,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 658.841,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8024,6 +10094,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 266.0,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        56285
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8060,8 +10141,25 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 163.82,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
+            "data": []
         },
         {
             "parentRegionId": "18",
@@ -8090,6 +10188,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 17.363,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 17.363,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8132,8 +10239,25 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 438.574,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
         },
         {
             "parentRegionId": "155",
@@ -8162,6 +10286,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 41.291,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 41.291,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8204,6 +10337,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 185.18,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8234,6 +10376,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 142.6,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 142.6,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8276,6 +10427,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 513.12,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8306,6 +10466,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 56.785,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 56.785,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8348,6 +10517,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.012,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8378,6 +10556,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.747,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.747,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8420,6 +10607,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 5.127,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8450,6 +10646,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 83.6,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 83.6,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8492,6 +10697,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 163.61,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8528,6 +10742,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 783.562,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8558,6 +10781,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 488.1,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 488.1,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8606,6 +10838,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.9482,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        58386
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8642,6 +10885,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.026000000000000002,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8672,6 +10924,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 241.55,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 241.55,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8716,6 +10977,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 603.5,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8724,7 +10994,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "data": [
                 {
                     "year": 2013,
@@ -8746,6 +11016,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 25.713,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 25.713,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8788,6 +11067,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1002.0,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8818,6 +11106,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 242.495,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 242.495,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8866,6 +11163,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.18000000000000002,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        58677
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8896,6 +11204,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.5720000000000001,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.5720000000000001,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -8940,6 +11257,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 947.303,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8970,6 +11296,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 9833.5168,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 9833.5168,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -9012,6 +11347,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.34700000000000003,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9042,6 +11386,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 272.967,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 272.967,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -9084,6 +11437,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 173.626,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9114,6 +11476,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 448.969,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 448.969,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -9156,6 +11527,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 912.05,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9186,6 +11566,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 0.14200000000000002,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 0.14200000000000002,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -9228,6 +11617,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2.8418,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9264,6 +11662,15 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 527.968,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9294,6 +11701,15 @@
                 },
                 {
                     "year": 2015,
+                    "value": 752.612,
+                    "sourceId": 35,
+                    "footnoteId": null,
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
                     "value": 752.612,
                     "sourceId": 35,
                     "footnoteId": null,
@@ -9350,6 +11766,17 @@
                     "units": "km2",
                     "multiplier": 3.0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 42322.0,
+                    "sourceId": 35,
+                    "footnoteId": [
+                        55118
+                    ],
+                    "units": "km2",
+                    "multiplier": 3.0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9386,35 +11813,11 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 513,
-            "refAreaDesc": "Northern America and Europe",
-            "data": []
-        },
-        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
             "refAreaCode": 655,
             "refAreaDesc": "Saint Helena (Ascension)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 747,
-            "refAreaDesc": "Northern Africa and Western Asia",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 753,
-            "refAreaDesc": "Eastern and South-Eastern Asia",
             "data": []
         },
         {
@@ -9477,14 +11880,6 @@
             "parentRegionId": "14",
             "parentRegion_DescEN": "Eastern Africa",
             "refAreaType": "Area",
-            "refAreaCode": 835,
-            "refAreaDesc": "United Republic of Tanzania (mainland)",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
             "refAreaCode": 836,
             "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
             "data": []
@@ -9519,14 +11914,6 @@
             "refAreaType": "Area",
             "refAreaCode": 74,
             "refAreaDesc": "Bouvet Island",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -9594,27 +11981,19 @@
             "data": []
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "data": []
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "data": []
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
             "refAreaCode": 744,
             "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 58,
+            "refAreaDesc": "Belgium-Luxembourg",
             "data": []
         },
         {
@@ -9650,35 +12029,19 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 369,
-            "refAreaDesc": "Iraq (Central Iraq)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 370,
-            "refAreaDesc": "Iraq (Kurdistan Region)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 543,
-            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
-            "data": []
-        },
-        {
             "parentRegionId": "1",
             "parentRegion_DescEN": "World",
             "refAreaType": "Region",
             "refAreaCode": 10,
             "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -9855,14 +12218,6 @@
             "refAreaType": "Area",
             "refAreaCode": 582,
             "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
-            "data": []
-        },
-        {
-            "parentRegionId": "47",
-            "parentRegion_DescEN": "Micronesia [former]",
-            "refAreaType": "Area",
-            "refAreaCode": 396,
-            "refAreaDesc": "Johnston Island [former]",
             "data": []
         }
     ]

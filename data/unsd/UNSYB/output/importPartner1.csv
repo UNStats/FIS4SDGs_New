@@ -34,10 +34,10 @@ refAreaCode,importPartner1_Code,importPartner1_DescEN,importPartner1_DescFR
 140,250,France,France
 144,356,India,Inde
 152,156,China,Chine
-156,410,Republic of Korea,République de Corée
+156,410,Rep. of Korea,République de Corée
 170,840,United States,États-Unis
-174,834,United Rep. Tanzania,Rép.-Unie Tanzanie
-178,156,China,Chine
+174,834,United Rep. of Tanzania,Rép.-Unie Tanzanie
+178,334,Heard Island and McDonald Islands,Île Heard-et-Îles MacDonald
 184,554,New Zealand,Nouvelle-Zélande
 188,840,United States,États-Unis
 191,276,Germany,Allemagne
@@ -50,13 +50,13 @@ refAreaCode,importPartner1_Code,importPartner1_DescEN,importPartner1_DescFR
 218,840,United States,États-Unis
 222,840,United States,États-Unis
 231,156,China,Chine
-233,246,Finland,Finlande
+233,276,Germany,Allemagne
 242,702,Singapore,Singapour
 246,276,Germany,Allemagne
 250,276,Germany,Allemagne
 258,250,France,France
 268,792,Turkey,Turquie
-270,384,Côte d’Ivoire,Côte d’Ivoire
+270,384,Côte d'Ivoire,Côte d'Ivoire
 275,376,Israel,Israël
 276,156,China,Chine
 288,156,China,Chine
@@ -64,19 +64,19 @@ refAreaCode,importPartner1_Code,importPartner1_DescEN,importPartner1_DescFR
 300,276,Germany,Allemagne
 304,208,Denmark,Danemark
 320,840,United States,États-Unis
-324,384,Côte d’Ivoire,Côte d’Ivoire
-328,780,Trinidad and Tobago,Trinité-et-Tobago
+324,156,China,Chine
+328,840,United States,États-Unis
 340,840,United States,États-Unis
 344,156,China,Chine
 348,276,Germany,Allemagne
-352,276,Germany,Allemagne
+352,578,Norway,Norvège
 356,156,China,Chine
 360,156,China,Chine
 364,156,China,Chine
 372,826,United Kingdom,Royaume-Uni
 376,156,China,Chine
 380,276,Germany,Allemagne
-384,566,Nigeria,Nigéria
+384,156,China,Chine
 388,840,United States,États-Unis
 392,156,China,Chine
 398,643,Russian Federation,Fédération de Russie
@@ -85,7 +85,7 @@ refAreaCode,importPartner1_Code,importPartner1_DescEN,importPartner1_DescFR
 410,156,China,Chine
 414,156,China,Chine
 417,156,China,Chine
-422,156,China,Chine
+422,760,Syrian Arab Rep.,Rép. arabe syrienne
 426,710,South Africa,Afrique du Sud
 428,440,Lithuania,Lituanie
 440,643,Russian Federation,Fédération de Russie
@@ -97,7 +97,7 @@ refAreaCode,importPartner1_Code,importPartner1_DescEN,importPartner1_DescFR
 462,784,United Arab Emirates,Émirats arabes unis
 466,686,Senegal,Sénégal
 470,380,Italy,Italie
-478,410,Republic of Korea,République de Corée
+478,410,Rep. of Korea,République de Corée
 480,156,China,Chine
 484,840,United States,États-Unis
 496,156,China,Chine
@@ -118,7 +118,7 @@ refAreaCode,importPartner1_Code,importPartner1_DescEN,importPartner1_DescFR
 562,250,France,France
 566,156,China,Chine
 578,752,Sweden,Suède
-583,410,Republic of Korea,République de Corée
+583,410,Rep. of Korea,République de Corée
 585,840,United States,États-Unis
 586,156,China,Chine
 591,156,China,Chine
@@ -155,7 +155,7 @@ refAreaCode,importPartner1_Code,importPartner1_DescEN,importPartner1_DescFR
 768,156,China,Chine
 776,554,New Zealand,Nouvelle-Zélande
 784,899,Areas nes,Zones nsa
-788,250,France,France
+788,380,Italy,Italie
 792,156,China,Chine
 796,840,United States,États-Unis
 800,156,China,Chine
@@ -169,12 +169,12 @@ refAreaCode,importPartner1_Code,importPartner1_DescEN,importPartner1_DescFR
 858,156,China,Chine
 862,840,United States,États-Unis
 882,554,New Zealand,Nouvelle-Zélande
-887,784,United Arab Emirates,Émirats arabes unis
+887,156,China,Chine
 894,710,South Africa,Afrique du Sud
 24,156,China,Chine
-92,840,United States,États-Unis
+92,899,Areas nes,Zones nsa
 104,156,China,Chine
-148,250,France,France
+148,156,China,Chine
 180,156,China,Chine
 192,156,China,Chine
 226,724,Spain,Espagne
@@ -190,14 +190,14 @@ refAreaCode,importPartner1_Code,importPartner1_DescEN,importPartner1_DescFR
 408,156,China,Chine
 418,764,Thailand,Thaïlande
 430,899,Areas nes,Zones nsa
-434,156,China,Chine
+434,380,Italy,Italie
 580,899,Areas nes,Zones nsa
 584,899,Areas nes,Zones nsa
 624,620,Portugal,Portugal
-654,710,South Africa,Afrique du Sud
+654,826,United Kingdom,Royaume-Uni
 660,840,United States,États-Unis
 666,250,France,France
-690,136,Cayman Islands,Îles Caïmanes
+690,784,United Arab Emirates,Émirats arabes unis
 706,156,China,Chine
 728,800,Uganda,Ouganda
 729,156,China,Chine

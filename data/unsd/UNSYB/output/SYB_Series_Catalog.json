@@ -9,8 +9,8 @@
                 "tableId": 8,
                 "tableName": "Population growth and indicators of fertility and mortality",
                 "tableNote": null,
-                "tableStatusId": 3,
-                "tbBkCode": "X03 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T03 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -77,7 +77,7 @@
                 "tableId": 78,
                 "tableName": "International migrants and refugees",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T04 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -156,7 +156,7 @@
                 "tableId": 83,
                 "tableName": "Population and rates of growth in urban areas and capital cities",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 3,
                 "tbBkCode": "T03 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -223,7 +223,7 @@
                 "tableId": 89,
                 "tableName": "Population, density and surface area",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 2,
                 "tbBkCode": "T02 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -299,7 +299,7 @@
                 "tableId": 1,
                 "tableName": "Enrolment in primary, secondary and tertiary education levels",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T07 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -339,7 +339,7 @@
                 "tableId": 109,
                 "tableName": "Public expenditure on education",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T09 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -409,7 +409,7 @@
                 "tableId": 135,
                 "tableName": "Teaching staff at the primary, secondary and tertiary levels",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T08 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -453,7 +453,7 @@
                 "tableId": 115,
                 "tableName": "Ratio of girls to boys in primary, secondary and tertiary education",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T06 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -477,7 +477,7 @@
                 "tableId": 134,
                 "tableName": "Proportion of seats held by women in national parliament",
                 "tableNote": "Liaise with Zin so the data serves SDGs also",
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T05 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -506,8 +506,8 @@
                 "tableId": 106,
                 "tableName": "Internet Usage",
                 "tableNote": "13 Jun 2018 (Ian)  Regional data from SDG 17.8.1.",
-                "tableStatusId": 2,
-                "tbBkCode": "T29 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T32 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -568,7 +568,7 @@
                 "tableId": 18,
                 "tableName": "Gross Value added by kind of economic activity",
                 "tableNote": null,
-                "tableStatusId": 2,
+                "tableStatusId": 7,
                 "tbBkCode": "T14 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -592,7 +592,7 @@
                 "tableId": 19,
                 "tableName": "Gross domestic product and gross domestic product per capita",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T13 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -654,7 +654,7 @@
                 "tableId": 74,
                 "tableName": "Balance of payments summary",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T15 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -698,7 +698,7 @@
                 "tableId": 75,
                 "tableName": "Exchange rates",
                 "tableNote": "12 Jul 2017 (Ian) - Cayman Is., Cuba, DPR Korea, Ethiopia, Somalia, Turkmenistan and Uzbekistan rates taken from UN Treasury database (end-of-period, 31 Dec)    13 Jun 2018 (Ian) - Currencies with multiple users:    Australian Dollar (AUD)  CFA Franc, BCEAO (XOF)  CFA Franc, BEAC (XAF)  CFP Franc (XPF)  Danish Krone (DKK)  E. Caribbean Dollar (XCD)  Euro (EUR)  Moroccan Dirham (MAD)  Neth. Ant. Guilder (ANG)  New Zealand Dollar (NZD)  Norwegian Krone (NOK)  Pound Sterling (GBP) + Falkland Islands Pound (FKP) + Gibraltar Pound (GIP) + Saint Helena Pound (SHP)  Swiss Franc (CHF)",
-                "tableStatusId": 1,
+                "tableStatusId": 2,
                 "tbBkCode": "T16 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -738,7 +738,7 @@
                 "tableId": 49,
                 "tableName": "Employment by economic activity",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T18 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -768,7 +768,7 @@
                 "tableId": 94,
                 "tableName": "Labour force participation and unemployment",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T17 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -881,7 +881,7 @@
                 "tableId": 98,
                 "tableName": "Consumer Price Index",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T19 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -921,7 +921,7 @@
                 "tableId": 104,
                 "tableName": "Intentional homicides and other crimes",
                 "tableNote": "13 Jun 2018 (Ian)  Regional data from SDG 16.1.1.",
-                "tableStatusId": 2,
+                "tableStatusId": 7,
                 "tbBkCode": "T12 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -1017,8 +1017,8 @@
                 "tableId": 5,
                 "tableName": "Threatened species",
                 "tableNote": null,
-                "tableStatusId": 1,
-                "tbBkCode": "T25 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T26 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1042,8 +1042,8 @@
                 "tableId": 64,
                 "tableName": "Land",
                 "tableNote": "13 Jun 2018 (Ian)  Sites protected for terrestrial biodiversity - Regional and country data from SDG 15.1.2 (use ER_PTD_TERRS - Mid-point measure).",
-                "tableStatusId": 2,
-                "tbBkCode": "T24 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T25 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1141,8 +1141,8 @@
                 "tableId": 84,
                 "tableName": "Water supply and sanitation services",
                 "tableNote": null,
-                "tableStatusId": 3,
-                "tbBkCode": "X26 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T28 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1244,7 +1244,7 @@
                 "tableId": 6,
                 "tableName": "Gross domestic expenditure on research and development (R&D)",
                 "tableNote": "13 Jun 2018 (Ian)  Regional data from SDG 9.5.1.",
-                "tableStatusId": 2,
+                "tableStatusId": 7,
                 "tbBkCode": "T30 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -1332,8 +1332,8 @@
                 "tableId": 66,
                 "tableName": "Population employed in research and development (R&D)",
                 "tableNote": null,
-                "tableStatusId": 5,
-                "tbBkCode": "T26 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T29 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1360,8 +1360,8 @@
                 "tableId": 67,
                 "tableName": "Patents",
                 "tableNote": null,
-                "tableStatusId": 2,
-                "tbBkCode": "T28 ",
+                "tableStatusId": 5,
+                "tbBkCode": "T31 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1411,8 +1411,8 @@
                 "tableId": 14,
                 "tableName": "Major trading partners",
                 "tableNote": null,
-                "tableStatusId": 1,
-                "tbBkCode": "T22 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T23 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1488,8 +1488,8 @@
                 "tableId": 68,
                 "tableName": "Total imports, exports and balance of trade",
                 "tableNote": null,
-                "tableStatusId": 1,
-                "tbBkCode": "T21 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T22 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1737,8 +1737,8 @@
                 "tableId": 116,
                 "tableName": "Tourist/visitor arrivals and tourism expenditure",
                 "tableNote": null,
-                "tableStatusId": 2,
-                "tbBkCode": "T30 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T33 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1777,8 +1777,8 @@
                 "tableId": 77,
                 "tableName": "Net disbursements of official development assistance to recipients",
                 "tableNote": "18 Jul 2018 (Ian)   \"Chinese Taipei\" should be coded to 158.",
-                "tableStatusId": 1,
-                "tbBkCode": "T31 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T34 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1812,8 +1812,8 @@
                 "tableId": 103,
                 "tableName": "Net disbursements of official development assistance from donors",
                 "tableNote": "18 Jul 2018 (Ian)   \"Chinese Taipei\" should be coded to 158.",
-                "tableStatusId": 1,
-                "tbBkCode": "T32 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T35 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1852,8 +1852,8 @@
                 "tableId": 65,
                 "tableName": "Production, trade and supply of energy",
                 "tableNote": "4 Jan 2018 (Ian) Bunkers = marine and aviation",
-                "tableStatusId": 2,
-                "tbBkCode": "T23 ",
+                "tableStatusId": 7,
+                "tbBkCode": "T24 ",
                 "tbBkPrint": "Y",
                 "series": [
                     {
@@ -1925,7 +1925,7 @@
                 "tableId": 117,
                 "tableName": "Expenditure on health",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T11 ",
                 "tbBkPrint": "Y",
                 "series": [
@@ -1958,7 +1958,7 @@
                 "tableId": 151,
                 "tableName": "Health Personnel",
                 "tableNote": null,
-                "tableStatusId": 1,
+                "tableStatusId": 7,
                 "tbBkCode": "T10 ",
                 "tbBkPrint": "Y",
                 "series": [

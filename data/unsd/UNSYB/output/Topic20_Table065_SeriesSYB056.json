@@ -5,8 +5,8 @@
     "tableCode": "tscenergy",
     "tableId": 65,
     "tableName": "Production, trade and supply of energy",
-    "tableStatusId": 2,
-    "tbBkCode": "T23 ",
+    "tableStatusId": 7,
+    "tbBkCode": "T24 ",
     "tbBkPrint": "Y",
     "newSeriesName": "Supply of energy per capita",
     "SELECT": null,
@@ -28,6 +28,12 @@
             "footnoteCode": "estimate",
             "footnoteTextEN": "Estimate.",
             "footnoteTextFR": "Donn\u00e9es estimatives."
+        },
+        {
+            "footnoteId": 458,
+            "footnoteCode": "extransregion",
+            "footnoteTextEN": "Excluding the Transnistria region.",
+            "footnoteTextFR": "Non compris la r\u00e9gion de Transnistrie."
         },
         {
             "footnoteId": 851,
@@ -90,6 +96,12 @@
             "footnoteTextFR": "Non compris les d\u00e9partements d'outre-mer."
         },
         {
+            "footnoteId": 60911,
+            "footnoteCode": "crimeasevas",
+            "footnoteTextEN": "Excludes the temporarily occupied territory of the Autonomous Republic of Crimea and Sevastopol.",
+            "footnoteTextFR": "Excluent le territoire temporairement occup\u00e9 de la R\u00e9publique autonome de Crim\u00e9e et de S\u00e9bastopol."
+        },
+        {
             "footnoteId": 60935,
             "footnoteCode": "exclsmhs",
             "footnoteTextEN": "Data include San Marino and the Holy See.",
@@ -112,18 +124,6 @@
             "footnoteCode": "ukship",
             "footnoteTextEN": "Shipments of coal and oil to Jersey, Guernsey and the isle of Man from the United Kingdom are not classed as exports. Supplies of coal and oil to these islands are, therefore, included as part of UK supply. Exports of natural gas to the Isle of Man included with the exports to Ireland.",
             "footnoteTextFR": "Les livraisons de charbon et de p\u00e9trole du Royaume-Uni \u00e0 Jersey, Guernesey et \u00e0 l'\u00eele de Man ne sont pas consid\u00e9r\u00e9es comme des exportations ; l\u2019approvisionnement de charbon et p\u00e9trole \u00e0 ces \u00eeles fait donc partie de l'approvisionnement du Royaume-Uni. Les exportations de gaz naturel vers l'\u00eele de Man sont inclues dans les exportations vers l'Irlande."
-        },
-        {
-            "footnoteId": 61459,
-            "footnoteCode": "ukrainefn",
-            "footnoteTextEN": "The Government of Ukraine has informed the United Nations that it is not in a position to provide statistical data concerning the Autonomous Republic of Crimea and the city of Sevastopol.",
-            "footnoteTextFR": "Le gouvernement Ukrainien a inform\u00e9 l'ONU qu'il n'est pas en mesure de fournir des donnees statistiques concernant la R\u00e9publique autome de Crim\u00e9e et la ville de S\u00e9bastopol."
-        },
-        {
-            "footnoteId": 61460,
-            "footnoteCode": "extransbender",
-            "footnoteTextEN": "Excluding Transnistria and the municipality of Bender.",
-            "footnoteTextFR": "Non compris la Transnistrie et la commune de Bender."
         },
         {
             "footnoteId": 61461,
@@ -34814,7 +34814,7 @@
                     "value": 70.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34825,7 +34825,7 @@
                     "value": 52.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34836,7 +34836,7 @@
                     "value": 42.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34847,7 +34847,7 @@
                     "value": 43.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34858,7 +34858,7 @@
                     "value": 45.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34869,7 +34869,7 @@
                     "value": 29.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34880,7 +34880,7 @@
                     "value": 26.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34891,7 +34891,7 @@
                     "value": 21.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34902,7 +34902,7 @@
                     "value": 16.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34913,7 +34913,7 @@
                     "value": 17.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34924,7 +34924,7 @@
                     "value": 19.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34935,7 +34935,7 @@
                     "value": 22.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34946,7 +34946,7 @@
                     "value": 22.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34957,7 +34957,7 @@
                     "value": 24.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34968,7 +34968,7 @@
                     "value": 24.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34979,7 +34979,7 @@
                     "value": 23.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -34990,7 +34990,7 @@
                     "value": 24.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -35001,7 +35001,7 @@
                     "value": 17.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -35012,7 +35012,7 @@
                     "value": 20.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -35023,7 +35023,7 @@
                     "value": 21.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -35034,7 +35034,7 @@
                     "value": 22.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -35045,7 +35045,7 @@
                     "value": 25.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -35056,7 +35056,7 @@
                     "value": 25.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -35067,7 +35067,7 @@
                     "value": 25.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -35078,7 +35078,7 @@
                     "value": 26.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61460
+                        458
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -36244,6 +36244,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
         },
         {
             "parentRegionId": "18",
@@ -38033,6 +38041,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
+            "data": []
         },
         {
             "parentRegionId": "54",
@@ -44755,6 +44771,14 @@
             ]
         },
         {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
+        },
+        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
@@ -45887,6 +45911,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
         },
         {
             "parentRegionId": "21",
@@ -50388,6 +50420,14 @@
             ]
         },
         {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
+            "data": []
+        },
+        {
             "parentRegionId": "18",
             "parentRegion_DescEN": "Southern Africa",
             "refAreaType": "Area",
@@ -50906,6 +50946,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
         },
         {
             "parentRegionId": "155",
@@ -54779,7 +54827,7 @@
                     "value": 99.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61459
+                        60911
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -54790,7 +54838,7 @@
                     "value": 84.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61459
+                        60911
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -54801,7 +54849,7 @@
                     "value": 87.0,
                     "sourceId": 29,
                     "footnoteId": [
-                        61459
+                        60911
                     ],
                     "units": "Gigajoules",
                     "multiplier": 0,
@@ -54814,7 +54862,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "data": [
                 {
                     "year": 1992,
@@ -58913,35 +58961,11 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 513,
-            "refAreaDesc": "Northern America and Europe",
-            "data": []
-        },
-        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
             "refAreaCode": 655,
             "refAreaDesc": "Saint Helena (Ascension)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 747,
-            "refAreaDesc": "Northern Africa and Western Asia",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 753,
-            "refAreaDesc": "Eastern and South-Eastern Asia",
             "data": []
         },
         {
@@ -59607,14 +59631,6 @@
             "parentRegionId": "14",
             "parentRegion_DescEN": "Eastern Africa",
             "refAreaType": "Area",
-            "refAreaCode": 835,
-            "refAreaDesc": "United Republic of Tanzania (mainland)",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
             "refAreaCode": 836,
             "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
             "data": []
@@ -59685,14 +59701,6 @@
             "data": []
         },
         {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
-            "data": []
-        },
-        {
             "parentRegionId": "53",
             "parentRegion_DescEN": "Oceania",
             "refAreaType": "Area",
@@ -59757,27 +59765,19 @@
             "data": []
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "data": []
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "data": []
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
             "refAreaCode": 744,
             "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 58,
+            "refAreaDesc": "Belgium-Luxembourg",
             "data": []
         },
         {
@@ -59813,35 +59813,19 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 369,
-            "refAreaDesc": "Iraq (Central Iraq)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 370,
-            "refAreaDesc": "Iraq (Kurdistan Region)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 543,
-            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
-            "data": []
-        },
-        {
             "parentRegionId": "1",
             "parentRegion_DescEN": "World",
             "refAreaType": "Region",
             "refAreaCode": 10,
             "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -60297,14 +60281,6 @@
                     "baseYear": null
                 }
             ]
-        },
-        {
-            "parentRegionId": "47",
-            "parentRegion_DescEN": "Micronesia [former]",
-            "refAreaType": "Area",
-            "refAreaCode": 396,
-            "refAreaDesc": "Johnston Island [former]",
-            "data": []
         }
     ]
 }

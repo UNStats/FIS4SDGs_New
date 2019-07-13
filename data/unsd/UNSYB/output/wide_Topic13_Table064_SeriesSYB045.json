@@ -5172,6 +5172,36 @@
             ]
         },
         {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "countryProfile": "1",
+            "ISO3": "BLM",
+            "UN_Member": "0",
+            "X": "-62.83173536",
+            "Y": "17.89513362",
+            "data": [
+                {
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null,
+                    "multiplierDesc": null,
+                    "footnotesEN": null,
+                    "footnotesFR": null,
+                    "sourceEN": null,
+                    "sourceFR": null,
+                    "value_2005": null,
+                    "value_2010": null,
+                    "value_2015": null,
+                    "value_2016": null,
+                    "value_latest_year": null,
+                    "latest_year": null
+                }
+            ]
+        },
+        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
@@ -5288,6 +5318,36 @@
                     "value_2016": 4.918,
                     "value_latest_year": 4.918,
                     "latest_year": 2016
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "countryProfile": "1",
+            "ISO3": "MAF",
+            "UN_Member": "0",
+            "X": "-63.04505461",
+            "Y": "18.0882685",
+            "data": [
+                {
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null,
+                    "multiplierDesc": null,
+                    "footnotesEN": null,
+                    "footnotesFR": null,
+                    "sourceEN": null,
+                    "sourceFR": null,
+                    "value_2005": null,
+                    "value_2010": null,
+                    "value_2015": null,
+                    "value_2016": null,
+                    "value_latest_year": null,
+                    "latest_year": null
                 }
             ]
         },
@@ -6448,8 +6508,8 @@
                     "multiplier": 0,
                     "baseYear": null,
                     "multiplierDesc": null,
-                    "footnotesEN": null,
-                    "footnotesFR": null,
+                    "footnotesEN": "[2015-2016]: Excludes the temporarily occupied territory of the Autonomous Republic of Crimea and Sevastopol.",
+                    "footnotesFR": "[2015-2016]: Excluent le territoire temporairement occup\u00e9 de la R\u00e9publique autonome de Crim\u00e9e et de S\u00e9bastopol.",
                     "sourceEN": "Food and Agriculture Organization of the United Nations (FAO), Rome, FAOSTAT data last accessed October 2018.",
                     "sourceFR": "Organisation des Nations Unies pour l\u2019alimentation et l\u2019agriculture (FAO), Rome, base de donn\u00e9es FAOSTAT, dernier acc\u00e8s octobre 2018.",
                     "value_2005": 56.0116,
@@ -6466,7 +6526,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "countryProfile": "1",
             "ISO3": "MKD",
             "UN_Member": "1",
@@ -7032,36 +7092,6 @@
             ]
         },
         {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
-            "countryProfile": "1",
-            "ISO3": "IOT",
-            "UN_Member": "0",
-            "X": "72.38715553",
-            "Y": "-7.299281071",
-            "data": [
-                {
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null,
-                    "multiplierDesc": null,
-                    "footnotesEN": null,
-                    "footnotesFR": null,
-                    "sourceEN": null,
-                    "sourceFR": null,
-                    "value_2005": null,
-                    "value_2010": null,
-                    "value_2015": null,
-                    "value_2016": null,
-                    "value_latest_year": null,
-                    "latest_year": null
-                }
-            ]
-        },
-        {
             "parentRegionId": "53",
             "parentRegion_DescEN": "Oceania",
             "refAreaType": "Area",
@@ -7302,66 +7332,6 @@
             ]
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "countryProfile": "1",
-            "ISO3": "BLM",
-            "UN_Member": "0",
-            "X": "-62.83173536",
-            "Y": "17.89513362",
-            "data": [
-                {
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null,
-                    "multiplierDesc": null,
-                    "footnotesEN": null,
-                    "footnotesFR": null,
-                    "sourceEN": null,
-                    "sourceFR": null,
-                    "value_2005": null,
-                    "value_2010": null,
-                    "value_2015": null,
-                    "value_2016": null,
-                    "value_latest_year": null,
-                    "latest_year": null
-                }
-            ]
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "countryProfile": "1",
-            "ISO3": "MAF",
-            "UN_Member": "0",
-            "X": "-63.04505461",
-            "Y": "18.0882685",
-            "data": [
-                {
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null,
-                    "multiplierDesc": null,
-                    "footnotesEN": null,
-                    "footnotesFR": null,
-                    "sourceEN": null,
-                    "sourceFR": null,
-                    "value_2005": null,
-                    "value_2010": null,
-                    "value_2015": null,
-                    "value_2016": null,
-                    "value_latest_year": null,
-                    "latest_year": null
-                }
-            ]
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
@@ -7402,6 +7372,36 @@
             "UN_Member": "0",
             "X": "21.47585697",
             "Y": "-80.40897662",
+            "data": [
+                {
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null,
+                    "multiplierDesc": null,
+                    "footnotesEN": null,
+                    "footnotesFR": null,
+                    "sourceEN": null,
+                    "sourceFR": null,
+                    "value_2005": null,
+                    "value_2010": null,
+                    "value_2015": null,
+                    "value_2016": null,
+                    "value_latest_year": null,
+                    "latest_year": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
+            "countryProfile": "1",
+            "ISO3": "IOT",
+            "UN_Member": "0",
+            "X": "72.38715553",
+            "Y": "-7.299281071",
             "data": [
                 {
                     "units": "Percent",

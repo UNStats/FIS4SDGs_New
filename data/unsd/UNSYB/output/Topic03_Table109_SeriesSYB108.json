@@ -5,7 +5,7 @@
     "tableCode": "expendedu",
     "tableId": 109,
     "tableName": "Public expenditure on education",
-    "tableStatusId": 1,
+    "tableStatusId": 7,
     "tbBkCode": "T09 ",
     "tbBkPrint": "Y",
     "newSeriesName": "Public expenditure in education as percent of total expenditure in public institutions: staff compensation",
@@ -18,8 +18,8 @@
         {
             "sourceCode": "UNESCO_EDU",
             "sourceId": 24,
-            "sourceNameEN": "United Nations Educational, Scientific and Cultural Organization (UNESCO), Montreal, the UNESCO Institute for Statistics (UIS) statistics database, last accessed May 2018.",
-            "sourceNameFR": "Organisation des Nations Unies pour l\u2019\u00e9ducation, la science et la culture (UNESCO), Montr\u00e9al, base de donn\u00e9es statistiques de l\u2019Institut de statistique (ISU) de l\u2019UNESCO, dernier acc\u00e8s mai 2018."
+            "sourceNameEN": "United Nations Educational, Scientific and Cultural Organization (UNESCO), Montreal, the UNESCO Institute for Statistics (UIS) statistics database, last accessed March 2019.",
+            "sourceNameFR": "Organisation des Nations Unies pour l\u2019\u00e9ducation, la science et la culture (UNESCO), Montr\u00e9al, base de donn\u00e9es statistiques de l\u2019Institut de statistique (ISU) de l\u2019UNESCO, dernier acc\u00e8s mars 2019."
         }
     ],
     "footnotes": [
@@ -137,6 +137,15 @@
                 {
                     "year": 2015,
                     "value": 79.4827,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 72.7093,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -272,6 +281,15 @@
                 {
                     "year": 2016,
                     "value": 35.1296,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 35.4391,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -480,6 +498,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 56.089,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -606,6 +633,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 82.4161,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -644,6 +680,15 @@
                 {
                     "year": 2014,
                     "value": 64.6126,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 65.2272,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -801,6 +846,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 68.2811,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -867,6 +921,15 @@
                 {
                     "year": 2012,
                     "value": 95.1827,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 72.9599,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -1043,6 +1106,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 57.0616,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1070,62 +1142,8 @@
             "refAreaDesc": "Belgium",
             "data": [
                 {
-                    "year": 2001,
-                    "value": 80.4961,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2002,
-                    "value": 82.8344,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2003,
-                    "value": 84.1609,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2004,
-                    "value": 85.6957,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
                     "year": 2005,
                     "value": 85.4871,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2006,
-                    "value": 84.4451,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2007,
-                    "value": 84.4185,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -1179,7 +1197,16 @@
                 },
                 {
                     "year": 2014,
-                    "value": 81.4602,
+                    "value": 81.4538,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 81.042,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -1445,6 +1472,15 @@
                 {
                     "year": 2014,
                     "value": 69.3697,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 74.7159,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -1896,6 +1932,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 67.0148,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2265,6 +2310,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 53.3596,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2519,6 +2573,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 70.9423,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2647,6 +2710,15 @@
                 {
                     "year": 2016,
                     "value": 81.2146,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 55.9359,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2985,6 +3057,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 82.9253,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3132,6 +3213,15 @@
                 {
                     "year": 2014,
                     "value": 51.5162,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 35.5388,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3598,6 +3688,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 91.9535,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3655,6 +3754,24 @@
                 {
                     "year": 2013,
                     "value": 44.1793,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 42.3656,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 45.206,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3745,6 +3862,15 @@
                 {
                     "year": 2014,
                     "value": 64.0405,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 64.7553,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3928,6 +4054,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 56.4854,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4067,6 +4202,15 @@
                 {
                     "year": 2014,
                     "value": 74.8206,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 75.0721,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4285,6 +4429,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 83.539,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4370,6 +4523,15 @@
                 {
                     "year": 2014,
                     "value": 72.8818,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 72.9941,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4495,7 +4657,16 @@
             "data": [
                 {
                     "year": 2016,
-                    "value": 69.5334,
+                    "value": 49.1984,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 54.191,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4668,6 +4839,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 71.9788,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4690,6 +4870,33 @@
                 {
                     "year": 2014,
                     "value": 75.0354,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 75.0871,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 75.0871,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 75.0871,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4937,6 +5144,15 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2012,
+                    "value": 65.7019,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2013,
                     "value": 63.681,
                     "sourceId": 24,
@@ -4948,6 +5164,15 @@
                 {
                     "year": 2014,
                     "value": 66.2524,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 67.3523,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5047,6 +5272,24 @@
                 {
                     "year": 2013,
                     "value": 62.6525,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 62.9721,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 64.8359,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5223,6 +5466,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 76.1421,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5375,6 +5627,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 78.0507,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5495,7 +5756,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 76.0797,
+                    "value": 76.3901,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5504,7 +5765,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 74.9111,
+                    "value": 75.2405,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5513,7 +5774,16 @@
                 },
                 {
                     "year": 2014,
-                    "value": 75.0972,
+                    "value": 75.3727,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 75.2984,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5638,6 +5908,15 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2012,
+                    "value": 74.1078,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2013,
                     "value": 72.5201,
                     "sourceId": 24,
@@ -5649,6 +5928,15 @@
                 {
                     "year": 2014,
                     "value": 72.374,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 76.0541,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5845,6 +6133,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 77.575,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5855,105 +6152,6 @@
             "refAreaCode": 392,
             "refAreaDesc": "Japan",
             "data": [
-                {
-                    "year": 2000,
-                    "value": 69.516,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2001,
-                    "value": 69.79,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2002,
-                    "value": 70.482,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2003,
-                    "value": 69.7874,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2004,
-                    "value": 69.2636,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2005,
-                    "value": 70.7582,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2006,
-                    "value": 69.6056,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2007,
-                    "value": 70.3131,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2008,
-                    "value": 70.1108,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 66.445,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 67.1196,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
                 {
                     "year": 2012,
                     "value": 67.9957,
@@ -5975,6 +6173,15 @@
                 {
                     "year": 2014,
                     "value": 64.8157,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 64.4848,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6115,6 +6322,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 61.2131,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6128,6 +6344,15 @@
                 {
                     "year": 2016,
                     "value": 77.9353,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 85.1394,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6278,7 +6503,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2012,
+                    "year": 2011,
                     "value": 58.2946,
                     "sourceId": 24,
                     "footnoteId": null,
@@ -6287,7 +6512,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2013,
+                    "year": 2012,
                     "value": 59.7641,
                     "sourceId": 24,
                     "footnoteId": null,
@@ -6296,7 +6521,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2014,
+                    "year": 2013,
                     "value": 61.3498,
                     "sourceId": 24,
                     "footnoteId": null,
@@ -6305,8 +6530,17 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2015,
+                    "year": 2014,
                     "value": 62.7361,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 64.1503,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6442,6 +6676,15 @@
                 {
                     "year": 2015,
                     "value": 68.0801,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 69.2119,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6635,7 +6878,17 @@
             "refAreaType": "Area",
             "refAreaCode": 426,
             "refAreaDesc": "Lesotho",
-            "data": []
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 92.9006,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
         },
         {
             "parentRegionId": "154",
@@ -6764,6 +7017,15 @@
                 {
                     "year": 2014,
                     "value": 57.9929,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 60.5422,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6948,6 +7210,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 67.515,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6988,6 +7259,15 @@
                 {
                     "year": 2014,
                     "value": 74.309,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 76.0503,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7060,6 +7340,15 @@
                 {
                     "year": 2015,
                     "value": 59.0717,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 60.3181,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7276,6 +7565,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 70.5454,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7411,6 +7709,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 57.8444,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7505,6 +7812,15 @@
                 {
                     "year": 2014,
                     "value": 79.0529,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 72.7464,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7669,6 +7985,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 85.0639,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7822,6 +8147,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 69.2729,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7930,6 +8264,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 62.8274,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7978,7 +8321,17 @@
             "refAreaType": "Area",
             "refAreaCode": 504,
             "refAreaDesc": "Morocco",
-            "data": []
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 99.8099,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
         },
         {
             "parentRegionId": "14",
@@ -8031,8 +8384,25 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 77.5133,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
         },
         {
             "parentRegionId": "18",
@@ -8064,6 +8434,15 @@
                 {
                     "year": 2010,
                     "value": 77.0455,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 89.1012,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -8296,6 +8675,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 67.8461,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8431,6 +8819,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 93.0487,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8456,6 +8853,14 @@
             "refAreaType": "Area",
             "refAreaCode": 540,
             "refAreaDesc": "New Caledonia",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
             "data": []
         },
         {
@@ -8495,6 +8900,15 @@
                 {
                     "year": 2009,
                     "value": 89.5326,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 77.9923,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -8602,6 +9016,24 @@
                 {
                     "year": 2015,
                     "value": 56.2649,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 71.5484,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 71.8117,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -8772,6 +9204,15 @@
                 {
                     "year": 2014,
                     "value": 70.619,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 69.6561,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -8982,6 +9423,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 76.8322,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9139,6 +9589,15 @@
                 {
                     "year": 2016,
                     "value": 51.5598,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 53.5212,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -9363,7 +9822,16 @@
                 },
                 {
                     "year": 2014,
-                    "value": 67.9883,
+                    "value": 68.9474,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 69.0205,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -9508,6 +9976,15 @@
                 {
                     "year": 2014,
                     "value": 84.3455,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 83.229,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -9675,6 +10152,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 52.7133,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9739,8 +10225,26 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2006,
+                    "value": 58.4732,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2007,
                     "value": 40.8768,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 56.7457,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -9791,6 +10295,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 62.4756,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9822,6 +10335,15 @@
                 {
                     "year": 2014,
                     "value": 69.7661,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 70.8698,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -9874,6 +10396,17 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2015,
+                    "value": 47.8599,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2016,
                     "value": 42.1502,
                     "sourceId": 24,
@@ -9885,6 +10418,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
         },
         {
             "parentRegionId": "11",
@@ -9978,6 +10519,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
         },
         {
             "parentRegionId": "21",
@@ -10162,6 +10711,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 67.7856,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10252,6 +10810,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 75.2523,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10292,6 +10859,42 @@
                 {
                     "year": 2011,
                     "value": 71.3045,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2012,
+                    "value": 70.3392,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 37.6119,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 40.8551,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 30.2463,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -10683,6 +11286,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 69.5694,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10740,6 +11352,15 @@
                 {
                     "year": 2016,
                     "value": 67.48,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 67.0157,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -10897,6 +11518,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 76.481,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10967,6 +11597,14 @@
             "refAreaType": "Area",
             "refAreaCode": 740,
             "refAreaDesc": "Suriname",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
             "data": []
         },
         {
@@ -11119,8 +11757,25 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 65.3064,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
         },
         {
             "parentRegionId": "155",
@@ -11258,6 +11913,24 @@
                 {
                     "year": 2014,
                     "value": 74.3971,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 74.3167,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 74.1145,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -11554,6 +12227,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 71.5772,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -11703,7 +12385,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "data": [
                 {
                     "year": 2002,
@@ -11860,6 +12542,15 @@
                 {
                     "year": 2015,
                     "value": 73.8862,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 74.1277,
                     "sourceId": 24,
                     "footnoteId": null,
                     "units": "Percent",
@@ -12059,6 +12750,15 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 73.2852,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -12188,35 +12888,11 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 513,
-            "refAreaDesc": "Northern America and Europe",
-            "data": []
-        },
-        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
             "refAreaCode": 655,
             "refAreaDesc": "Saint Helena (Ascension)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 747,
-            "refAreaDesc": "Northern Africa and Western Asia",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 753,
-            "refAreaDesc": "Eastern and South-Eastern Asia",
             "data": []
         },
         {
@@ -12279,14 +12955,6 @@
             "parentRegionId": "14",
             "parentRegion_DescEN": "Eastern Africa",
             "refAreaType": "Area",
-            "refAreaCode": 835,
-            "refAreaDesc": "United Republic of Tanzania (mainland)",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
             "refAreaCode": 836,
             "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
             "data": []
@@ -12321,14 +12989,6 @@
             "refAreaType": "Area",
             "refAreaCode": 74,
             "refAreaDesc": "Bouvet Island",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -12396,27 +13056,19 @@
             "data": []
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "data": []
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "data": []
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
             "refAreaCode": 744,
             "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 58,
+            "refAreaDesc": "Belgium-Luxembourg",
             "data": []
         },
         {
@@ -12452,35 +13104,19 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 369,
-            "refAreaDesc": "Iraq (Central Iraq)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 370,
-            "refAreaDesc": "Iraq (Kurdistan Region)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 543,
-            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
-            "data": []
-        },
-        {
             "parentRegionId": "1",
             "parentRegion_DescEN": "World",
             "refAreaType": "Region",
             "refAreaCode": 10,
             "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -12657,14 +13293,6 @@
             "refAreaType": "Area",
             "refAreaCode": 582,
             "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
-            "data": []
-        },
-        {
-            "parentRegionId": "47",
-            "parentRegion_DescEN": "Micronesia [former]",
-            "refAreaType": "Area",
-            "refAreaCode": 396,
-            "refAreaDesc": "Johnston Island [former]",
             "data": []
         }
     ]

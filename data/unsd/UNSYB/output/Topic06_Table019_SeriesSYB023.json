@@ -5,7 +5,7 @@
     "tableCode": "gdp",
     "tableId": 19,
     "tableName": "Gross domestic product and gross domestic product per capita",
-    "tableStatusId": 1,
+    "tableStatusId": 7,
     "tbBkCode": "T13 ",
     "tbBkPrint": "Y",
     "newSeriesName": "GDP in constant prices",
@@ -18,8 +18,8 @@
         {
             "sourceCode": "UNSD_AMA",
             "sourceId": 37,
-            "sourceNameEN": "United Nations Statistics Division, New York, National Accounts Statistics: Analysis of Main Aggregates (AMA) database, last accessed February 2018.",
-            "sourceNameFR": "Organisation des Nations Unies, Division de statistique, New York, base de donn\u00e9es des statistiques des comptes nationaux : Analyse des principaux agr\u00e9gats, denier acc\u00e8s f\u00e9vrier 2018."
+            "sourceNameEN": "United Nations Statistics Division, New York, National Accounts Statistics: Analysis of Main Aggregates (AMA) database, last accessed February 2019.",
+            "sourceNameFR": "Organisation des Nations Unies, Division de statistique, New York, base de donn\u00e9es des statistiques des comptes nationaux : Analyse des principaux agr\u00e9gats, denier acc\u00e8s f\u00e9vrier 2019."
         }
     ],
     "footnotes": [
@@ -70,6 +70,12 @@
             "footnoteCode": "crimeasevas",
             "footnoteTextEN": "Excludes the temporarily occupied territory of the Autonomous Republic of Crimea and Sevastopol.",
             "footnoteTextFR": "Excluent le territoire temporairement occup\u00e9 de la R\u00e9publique autonome de Crim\u00e9e et de S\u00e9bastopol."
+        },
+        {
+            "footnoteId": 61456,
+            "footnoteCode": "binathydroelec",
+            "footnoteTextEN": "Does not incorporate export of binational hydroelectric power at market prices.",
+            "footnoteTextFR": ""
         }
     ],
     "refAreas": [
@@ -22601,6 +22607,14 @@
             ]
         },
         {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
+        },
+        {
             "parentRegionId": "18",
             "parentRegion_DescEN": "Southern Africa",
             "refAreaType": "Area",
@@ -23723,6 +23737,14 @@
                     "baseYear": "2010"
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
+            "data": []
         },
         {
             "parentRegionId": "54",
@@ -25560,7 +25582,9 @@
                     "year": 1985,
                     "value": 8524.4271,
                     "sourceId": 37,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        61456
+                    ],
                     "units": "US dollars",
                     "multiplier": 6.0,
                     "baseYear": "2010"
@@ -25569,7 +25593,9 @@
                     "year": 1995,
                     "value": 12183.4836,
                     "sourceId": 37,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        61456
+                    ],
                     "units": "US dollars",
                     "multiplier": 6.0,
                     "baseYear": "2010"
@@ -27187,6 +27213,14 @@
             ]
         },
         {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
+        },
+        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
@@ -27625,6 +27659,14 @@
                     "baseYear": "2010"
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
         },
         {
             "parentRegionId": "21",
@@ -30290,6 +30332,14 @@
             ]
         },
         {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
+            "data": []
+        },
+        {
             "parentRegionId": "18",
             "parentRegion_DescEN": "Southern Africa",
             "refAreaType": "Area",
@@ -30576,6 +30626,14 @@
                     "baseYear": "2010"
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
         },
         {
             "parentRegionId": "155",
@@ -32739,7 +32797,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "data": [
                 {
                     "year": 2005,
@@ -33182,7 +33240,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 23158.0,
+                    "value": 23157.827,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -33193,7 +33251,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 24237.0,
+                    "value": 24237.114,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -33204,7 +33262,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 26289.0,
+                    "value": 26288.6358,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -33215,7 +33273,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 27752.0,
+                    "value": 27752.0178,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -33226,7 +33284,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 29246.0,
+                    "value": 29245.7275,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -33237,7 +33295,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 31105.0,
+                    "value": 31105.43,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -33248,7 +33306,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 33564.0,
+                    "value": 33564.161,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -33259,7 +33317,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 35290.0,
+                    "value": 35289.6991,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -33281,7 +33339,7 @@
                 },
                 {
                     "year": 1985,
-                    "value": 9123.0,
+                    "value": 9122.9722,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -33292,7 +33350,7 @@
                 },
                 {
                     "year": 1995,
-                    "value": 13412.0,
+                    "value": 13411.991,
                     "sourceId": 37,
                     "footnoteId": [
                         1681
@@ -34835,35 +34893,11 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 513,
-            "refAreaDesc": "Northern America and Europe",
-            "data": []
-        },
-        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
             "refAreaCode": 655,
             "refAreaDesc": "Saint Helena (Ascension)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 747,
-            "refAreaDesc": "Northern Africa and Western Asia",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 753,
-            "refAreaDesc": "Eastern and South-Eastern Asia",
             "data": []
         },
         {
@@ -35093,180 +35127,6 @@
             "parentRegionId": "14",
             "parentRegion_DescEN": "Eastern Africa",
             "refAreaType": "Area",
-            "refAreaCode": 835,
-            "refAreaDesc": "United Republic of Tanzania (mainland)",
-            "data": [
-                {
-                    "year": 1985,
-                    "value": 9122.9722,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 1995,
-                    "value": 13411.991,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2005,
-                    "value": 23157.827,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2006,
-                    "value": 24237.114,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2007,
-                    "value": 26288.6358,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2008,
-                    "value": 27752.0178,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2009,
-                    "value": 29245.7275,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2010,
-                    "value": 31105.43,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2011,
-                    "value": 33564.161,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2012,
-                    "value": 35289.6991,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2013,
-                    "value": 37852.8112,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2014,
-                    "value": 40489.3104,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2015,
-                    "value": 43307.1126,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2016,
-                    "value": 46324.7833,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                },
-                {
-                    "year": 2017,
-                    "value": 49615.7707,
-                    "sourceId": 37,
-                    "footnoteId": [
-                        1681
-                    ],
-                    "units": "US dollars",
-                    "multiplier": 6.0,
-                    "baseYear": "2010"
-                }
-            ]
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
             "refAreaCode": 836,
             "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
             "data": [
@@ -35451,14 +35311,6 @@
             "data": []
         },
         {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
-            "data": []
-        },
-        {
             "parentRegionId": "53",
             "parentRegion_DescEN": "Oceania",
             "refAreaType": "Area",
@@ -35523,27 +35375,19 @@
             "data": []
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "data": []
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "data": []
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
             "refAreaCode": 744,
             "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 58,
+            "refAreaDesc": "Belgium-Luxembourg",
             "data": []
         },
         {
@@ -35579,35 +35423,19 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 369,
-            "refAreaDesc": "Iraq (Central Iraq)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 370,
-            "refAreaDesc": "Iraq (Kurdistan Region)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 543,
-            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
-            "data": []
-        },
-        {
             "parentRegionId": "1",
             "parentRegion_DescEN": "World",
             "refAreaType": "Region",
             "refAreaCode": 10,
             "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -35784,14 +35612,6 @@
             "refAreaType": "Area",
             "refAreaCode": 582,
             "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
-            "data": []
-        },
-        {
-            "parentRegionId": "47",
-            "parentRegion_DescEN": "Micronesia [former]",
-            "refAreaType": "Area",
-            "refAreaCode": 396,
-            "refAreaDesc": "Johnston Island [former]",
             "data": []
         }
     ]

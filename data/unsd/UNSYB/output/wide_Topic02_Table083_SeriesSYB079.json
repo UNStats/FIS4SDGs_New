@@ -5000,6 +5000,35 @@
             ]
         },
         {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "countryProfile": "1",
+            "ISO3": "BLM",
+            "UN_Member": "0",
+            "X": "-62.83173536",
+            "Y": "17.89513362",
+            "data": [
+                {
+                    "units": "Percent of total urban population",
+                    "multiplier": 0,
+                    "baseYear": null,
+                    "multiplierDesc": null,
+                    "footnotesEN": null,
+                    "footnotesFR": null,
+                    "sourceEN": null,
+                    "sourceFR": null,
+                    "value_2005": null,
+                    "value_2010": null,
+                    "value_2015": null,
+                    "value_latest_year": null,
+                    "latest_year": null
+                }
+            ]
+        },
+        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
@@ -5097,6 +5126,35 @@
             "UN_Member": "1",
             "X": "-60.96529553",
             "Y": "13.89405601",
+            "data": [
+                {
+                    "units": "Percent of total urban population",
+                    "multiplier": 0,
+                    "baseYear": null,
+                    "multiplierDesc": null,
+                    "footnotesEN": null,
+                    "footnotesFR": null,
+                    "sourceEN": null,
+                    "sourceFR": null,
+                    "value_2005": null,
+                    "value_2010": null,
+                    "value_2015": null,
+                    "value_latest_year": null,
+                    "latest_year": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "countryProfile": "1",
+            "ISO3": "MAF",
+            "UN_Member": "0",
+            "X": "-63.04505461",
+            "Y": "18.0882685",
             "data": [
                 {
                     "units": "Percent of total urban population",
@@ -6251,7 +6309,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "countryProfile": "1",
             "ISO3": "MKD",
             "UN_Member": "1",
@@ -6798,35 +6856,6 @@
             ]
         },
         {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
-            "countryProfile": "1",
-            "ISO3": "IOT",
-            "UN_Member": "0",
-            "X": "72.38715553",
-            "Y": "-7.299281071",
-            "data": [
-                {
-                    "units": "Percent of total urban population",
-                    "multiplier": 0,
-                    "baseYear": null,
-                    "multiplierDesc": null,
-                    "footnotesEN": null,
-                    "footnotesFR": null,
-                    "sourceEN": null,
-                    "sourceFR": null,
-                    "value_2005": null,
-                    "value_2010": null,
-                    "value_2015": null,
-                    "value_latest_year": null,
-                    "latest_year": null
-                }
-            ]
-        },
-        {
             "parentRegionId": "53",
             "parentRegion_DescEN": "Oceania",
             "refAreaType": "Area",
@@ -7059,64 +7088,6 @@
             ]
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "countryProfile": "1",
-            "ISO3": "BLM",
-            "UN_Member": "0",
-            "X": "-62.83173536",
-            "Y": "17.89513362",
-            "data": [
-                {
-                    "units": "Percent of total urban population",
-                    "multiplier": 0,
-                    "baseYear": null,
-                    "multiplierDesc": null,
-                    "footnotesEN": null,
-                    "footnotesFR": null,
-                    "sourceEN": null,
-                    "sourceFR": null,
-                    "value_2005": null,
-                    "value_2010": null,
-                    "value_2015": null,
-                    "value_latest_year": null,
-                    "latest_year": null
-                }
-            ]
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "countryProfile": "1",
-            "ISO3": "MAF",
-            "UN_Member": "0",
-            "X": "-63.04505461",
-            "Y": "18.0882685",
-            "data": [
-                {
-                    "units": "Percent of total urban population",
-                    "multiplier": 0,
-                    "baseYear": null,
-                    "multiplierDesc": null,
-                    "footnotesEN": null,
-                    "footnotesFR": null,
-                    "sourceEN": null,
-                    "sourceFR": null,
-                    "value_2005": null,
-                    "value_2010": null,
-                    "value_2015": null,
-                    "value_latest_year": null,
-                    "latest_year": null
-                }
-            ]
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
@@ -7156,6 +7127,35 @@
             "UN_Member": "0",
             "X": "21.47585697",
             "Y": "-80.40897662",
+            "data": [
+                {
+                    "units": "Percent of total urban population",
+                    "multiplier": 0,
+                    "baseYear": null,
+                    "multiplierDesc": null,
+                    "footnotesEN": null,
+                    "footnotesFR": null,
+                    "sourceEN": null,
+                    "sourceFR": null,
+                    "value_2005": null,
+                    "value_2010": null,
+                    "value_2015": null,
+                    "value_latest_year": null,
+                    "latest_year": null
+                }
+            ]
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
+            "countryProfile": "1",
+            "ISO3": "IOT",
+            "UN_Member": "0",
+            "X": "72.38715553",
+            "Y": "-7.299281071",
             "data": [
                 {
                     "units": "Percent of total urban population",

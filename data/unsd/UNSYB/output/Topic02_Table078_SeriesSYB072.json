@@ -5,7 +5,7 @@
     "tableCode": "intlmigref",
     "tableId": 78,
     "tableName": "International migrants and refugees",
-    "tableStatusId": 1,
+    "tableStatusId": 7,
     "tbBkCode": "T04 ",
     "tbBkPrint": "Y",
     "newSeriesName": "Asylum seekers, including pending cases",
@@ -18,8 +18,8 @@
         {
             "sourceCode": "UNHCR_PSD",
             "sourceId": 90,
-            "sourceNameEN": "United Nations High Commissioner for Refugees (UNHCR), Geneva, UNHCR Population Statistics Database, last accessed February 2018.",
-            "sourceNameFR": "Haut-Commissariat des Nations Unies pour les r\u00e9fugi\u00e9s (HCR), Gen\u00e8ve, base de donn\u00e9es statistique du HCR, dernier acc\u00e8s f\u00e9vrier 2018."
+            "sourceNameEN": "United Nations High Commissioner for Refugees (UNHCR), Geneva, UNHCR Population Statistics Database, last accessed March 2019.",
+            "sourceNameFR": "Haut-Commissariat des Nations Unies pour les r\u00e9fugi\u00e9s (HCR), Gen\u00e8ve, base de donn\u00e9es statistique du HCR, dernier acc\u00e8s mars 2019."
         }
     ],
     "footnotes": [
@@ -115,6 +115,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 3174042.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -137,6 +146,15 @@
                 {
                     "year": 2017,
                     "value": 589255.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 594946.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -195,6 +213,15 @@
                 {
                     "year": 2017,
                     "value": 205.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 365.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -266,6 +293,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 149.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -288,6 +324,15 @@
                 {
                     "year": 2017,
                     "value": 36457.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 49991.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -354,6 +399,15 @@
                 {
                     "year": 2017,
                     "value": 5986.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 7886.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -442,6 +496,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 721060.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -493,6 +556,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 30143.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -506,6 +578,15 @@
                 {
                     "year": 2015,
                     "value": 10.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -585,6 +666,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 172.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -638,6 +728,15 @@
                 {
                     "year": 2017,
                     "value": 4010.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 5044.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -724,6 +823,17 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 49482.0,
+                    "sourceId": 90,
+                    "footnoteId": [
+                        61010
+                    ],
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -792,6 +902,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 46077.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -834,6 +953,15 @@
                 {
                     "year": 2017,
                     "value": 23.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 17.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -897,6 +1025,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 135.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -930,6 +1067,15 @@
                 {
                     "year": 2017,
                     "value": 104.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 135.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -993,6 +1139,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 110.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1006,6 +1161,15 @@
                 {
                     "year": 2017,
                     "value": 5.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -1075,6 +1239,15 @@
                     "footnoteId": [
                         360
                     ],
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 15275.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
@@ -1176,6 +1349,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 232.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1229,6 +1411,15 @@
                 {
                     "year": 2017,
                     "value": 92.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 438.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -1292,6 +1483,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 51.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1345,6 +1545,15 @@
                 {
                     "year": 2017,
                     "value": 53949.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 113152.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -1408,6 +1617,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 3414.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1417,7 +1635,17 @@
             "refAreaType": "Area",
             "refAreaCode": 90,
             "refAreaDesc": "Solomon Islands",
-            "data": []
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 4.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
         },
         {
             "parentRegionId": "29",
@@ -1500,6 +1728,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1234.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1576,6 +1813,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 4646.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1629,6 +1875,15 @@
                 {
                     "year": 2017,
                     "value": 112.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 178.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -1692,6 +1947,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 47.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1750,6 +2014,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 7427.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1796,6 +2069,15 @@
                 {
                     "year": 2017,
                     "value": 33261.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 63830.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -1850,6 +2132,15 @@
                 },
                 {
                     "year": 2017,
+                    "value": 32.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
                     "value": 32.0,
                     "sourceId": 90,
                     "footnoteId": null,
@@ -1914,6 +2205,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 514.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1936,6 +2236,15 @@
                 {
                     "year": 2017,
                     "value": 502166.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 574010.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -2007,6 +2316,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 626.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2073,6 +2391,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1042.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2095,6 +2422,15 @@
                 {
                     "year": 2017,
                     "value": 983967.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 907165.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -2161,6 +2497,15 @@
                 {
                     "year": 2017,
                     "value": 5195.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 12583.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -2248,6 +2593,17 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 685.0,
+                    "sourceId": 90,
+                    "footnoteId": [
+                        56965
+                    ],
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2309,6 +2665,15 @@
                 {
                     "year": 2017,
                     "value": 542.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2101.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -2388,6 +2753,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 7203.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2441,6 +2815,15 @@
                 {
                     "year": 2017,
                     "value": 1218.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2937.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -2512,6 +2895,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 12913.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2565,6 +2957,15 @@
                 {
                     "year": 2017,
                     "value": 605.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 282.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -2628,6 +3029,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 25.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2681,6 +3091,15 @@
                 {
                     "year": 2017,
                     "value": 3812.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 7163.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -2752,6 +3171,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 779.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2805,6 +3233,15 @@
                 {
                     "year": 2017,
                     "value": 188.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 272.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -2868,6 +3305,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 3445.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2925,6 +3371,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 865.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2976,6 +3431,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 14076.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3011,6 +3475,15 @@
                 {
                     "year": 2017,
                     "value": 3.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -3077,6 +3550,15 @@
                 {
                     "year": 2017,
                     "value": 1929.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2360.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -3189,6 +3671,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3252,6 +3743,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 19.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3294,6 +3794,15 @@
                 {
                     "year": 2017,
                     "value": 3520.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 13897.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -3352,6 +3861,15 @@
                 {
                     "year": 2017,
                     "value": 55606.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 67350.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -3431,6 +3949,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 10129.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3484,6 +4011,15 @@
                 {
                     "year": 2017,
                     "value": 105.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 89.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -3547,6 +4083,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 509.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3600,6 +4145,15 @@
                 {
                     "year": 2017,
                     "value": 5.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 301.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -3671,6 +4225,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 394131.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3724,6 +4287,15 @@
                 {
                     "year": 2017,
                     "value": 1376.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1174.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -3803,6 +4375,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 56652.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3835,6 +4416,15 @@
                 {
                     "year": 2017,
                     "value": 1.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -3914,6 +4504,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 47.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3972,6 +4571,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 134.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3985,6 +4593,15 @@
                 {
                     "year": 2015,
                     "value": 1.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 10.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -4032,6 +4649,15 @@
                 {
                     "year": 2017,
                     "value": 22.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 11.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -4087,6 +4713,15 @@
                 {
                     "year": 2017,
                     "value": 12.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 23.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -4199,6 +4834,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 140.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4252,6 +4896,15 @@
                 {
                     "year": 2017,
                     "value": 366.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 318.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -4315,6 +4968,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 11335.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4368,6 +5030,15 @@
                 {
                     "year": 2017,
                     "value": 5274.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2898.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -4431,6 +5102,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 82.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4489,6 +5169,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 13813.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4535,6 +5224,15 @@
                 {
                     "year": 2017,
                     "value": 5123.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 6556.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -4598,6 +5296,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 35917.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4640,6 +5347,15 @@
                 {
                     "year": 2017,
                     "value": 134327.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 131937.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -4703,6 +5419,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 254.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4734,6 +5459,15 @@
                 {
                     "year": 2017,
                     "value": 9.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 22.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -4801,6 +5535,17 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 31736.0,
+                    "sourceId": 90,
+                    "footnoteId": [
+                        51
+                    ],
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4854,6 +5599,15 @@
                 {
                     "year": 2017,
                     "value": 191.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 192.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -4917,6 +5671,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 46986.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4970,6 +5733,15 @@
                 {
                     "year": 2017,
                     "value": 52554.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 58103.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -5041,6 +5813,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 16393.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5094,6 +5875,15 @@
                 {
                     "year": 2017,
                     "value": 810.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 988.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -5157,6 +5947,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 88.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5187,6 +5986,15 @@
                 {
                     "year": 2017,
                     "value": 117507.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 326870.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -5250,6 +6058,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 16071.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5281,6 +6098,15 @@
                 {
                     "year": 2017,
                     "value": 3.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 40.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -5344,6 +6170,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 56.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5397,6 +6232,15 @@
                 {
                     "year": 2017,
                     "value": 22.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 33.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -5460,6 +6304,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 43714.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5513,6 +6366,15 @@
                 {
                     "year": 2017,
                     "value": 113.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 108.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -5576,6 +6438,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 161.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5613,6 +6484,15 @@
                     "footnoteId": [
                         360
                     ],
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1015.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
@@ -5663,6 +6543,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5694,6 +6583,15 @@
                 {
                     "year": 2017,
                     "value": 46.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 84.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -5757,6 +6655,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 23645.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5810,6 +6717,15 @@
                 {
                     "year": 2017,
                     "value": 51764.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 46100.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -5881,6 +6797,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 601.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5934,6 +6859,15 @@
                 {
                     "year": 2017,
                     "value": 1307.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1610.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -6005,6 +6939,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 788.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6057,6 +7000,15 @@
                 {
                     "year": 2017,
                     "value": 6653.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 19760.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -6140,6 +7092,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6198,6 +7159,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 90.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6240,6 +7210,15 @@
                 {
                     "year": 2017,
                     "value": 57.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1316.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -6323,6 +7302,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2135.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6376,6 +7364,15 @@
                 {
                     "year": 2017,
                     "value": 16324.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 21072.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -6439,8 +7436,25 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 422.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
         },
         {
             "parentRegionId": "18",
@@ -6497,6 +7511,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1510.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6519,6 +7542,15 @@
                 {
                     "year": 2017,
                     "value": 302.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 120.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -6582,6 +7614,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 91.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6633,6 +7674,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 7048.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6675,6 +7725,15 @@
                 {
                     "year": 2017,
                     "value": 107.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 735.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -6727,6 +7786,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 292.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6774,6 +7842,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6807,6 +7884,14 @@
             "data": []
         },
         {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
+            "data": []
+        },
+        {
             "parentRegionId": "54",
             "parentRegion_DescEN": "Melanesia",
             "refAreaType": "Area",
@@ -6816,6 +7901,15 @@
                 {
                     "year": 2015,
                     "value": 1.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -6879,6 +7973,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 364.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -6932,6 +8035,15 @@
                 {
                     "year": 2017,
                     "value": 405.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 130.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -6995,6 +8107,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1723.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7053,6 +8174,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 762.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7103,6 +8233,15 @@
                 {
                     "year": 2017,
                     "value": 4861.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2256.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -7227,6 +8366,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 4545.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7280,6 +8428,15 @@
                 {
                     "year": 2017,
                     "value": 5627.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 8223.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -7401,6 +8558,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 123.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7454,6 +8620,15 @@
                 {
                     "year": 2017,
                     "value": 10436.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 122644.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -7517,6 +8692,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 252.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7566,6 +8750,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 3109.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7603,6 +8796,15 @@
                     "footnoteId": [
                         360
                     ],
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 45.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
@@ -7659,6 +8861,15 @@
                 {
                     "year": 2017,
                     "value": 27.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 24.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -7761,6 +8972,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 132.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7827,6 +9047,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 373.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7880,6 +9109,15 @@
                 {
                     "year": 2017,
                     "value": 3420.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1175.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -7943,8 +9181,25 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 300.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
         },
         {
             "parentRegionId": "11",
@@ -8005,8 +9260,25 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
         },
         {
             "parentRegionId": "21",
@@ -8095,6 +9367,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1007.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8148,6 +9429,15 @@
                 {
                     "year": 2017,
                     "value": 3313.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 3434.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -8217,6 +9507,17 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 140.0,
+                    "sourceId": 90,
+                    "footnoteId": [
+                        59276
+                    ],
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8229,6 +9530,15 @@
             "data": [
                 {
                     "year": 2017,
+                    "value": 1.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
                     "value": 1.0,
                     "sourceId": 90,
                     "footnoteId": null,
@@ -8371,6 +9681,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 47.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8437,6 +9756,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 350.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8490,6 +9818,15 @@
                 {
                     "year": 2017,
                     "value": 13558.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 15533.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -8557,6 +9894,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 184203.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8615,6 +9961,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 8391.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8662,6 +10017,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 47395.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8693,6 +10057,15 @@
                 {
                     "year": 2017,
                     "value": 2400.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 2207.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -8756,6 +10129,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 17381.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8802,8 +10184,25 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 70.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
+            "data": []
         },
         {
             "parentRegionId": "18",
@@ -8844,6 +10243,15 @@
                 {
                     "year": 2017,
                     "value": 462.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 635.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -8907,8 +10315,25 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 43494.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
         },
         {
             "parentRegionId": "155",
@@ -8960,6 +10385,15 @@
                 {
                     "year": 2017,
                     "value": 26648.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 19175.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -9023,6 +10457,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 18489.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9076,6 +10519,15 @@
                 {
                     "year": 2017,
                     "value": 474.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 167.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -9139,6 +10591,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 1461.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9192,6 +10653,15 @@
                 {
                     "year": 2017,
                     "value": 726.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 723.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -9272,6 +10742,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 5644.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9325,6 +10804,15 @@
                 {
                     "year": 2017,
                     "value": 872.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 4814.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -9388,6 +10876,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 125.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9441,6 +10938,15 @@
                 {
                     "year": 2017,
                     "value": 266177.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 301940.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -9550,6 +11056,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 22807.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9608,6 +11123,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 6286.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9616,7 +11140,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "data": [
                 {
                     "year": 2015,
@@ -9661,6 +11185,15 @@
                 {
                     "year": 2017,
                     "value": 22.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 40.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -9724,6 +11257,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 60629.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9777,6 +11319,15 @@
                 {
                     "year": 2017,
                     "value": 31353.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 33035.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -9856,6 +11407,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 43186.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9913,6 +11473,15 @@
                     "footnoteId": [
                         61304
                     ],
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 657230.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
@@ -9982,6 +11551,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 44.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10035,6 +11613,15 @@
                 {
                     "year": 2017,
                     "value": 772.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 4026.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -10113,6 +11700,15 @@
                 {
                     "year": 2017,
                     "value": 933.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 644.0,
                     "sourceId": 90,
                     "footnoteId": null,
                     "units": "Number",
@@ -10202,6 +11798,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 8140.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10260,6 +11865,15 @@
                     "units": "Number",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 4551.0,
+                    "sourceId": 90,
+                    "footnoteId": null,
+                    "units": "Number",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10312,35 +11926,11 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 513,
-            "refAreaDesc": "Northern America and Europe",
-            "data": []
-        },
-        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
             "refAreaCode": 655,
             "refAreaDesc": "Saint Helena (Ascension)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 747,
-            "refAreaDesc": "Northern Africa and Western Asia",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 753,
-            "refAreaDesc": "Eastern and South-Eastern Asia",
             "data": []
         },
         {
@@ -10403,14 +11993,6 @@
             "parentRegionId": "14",
             "parentRegion_DescEN": "Eastern Africa",
             "refAreaType": "Area",
-            "refAreaCode": 835,
-            "refAreaDesc": "United Republic of Tanzania (mainland)",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
             "refAreaCode": 836,
             "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
             "data": []
@@ -10445,14 +12027,6 @@
             "refAreaType": "Area",
             "refAreaCode": 74,
             "refAreaDesc": "Bouvet Island",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -10520,27 +12094,19 @@
             "data": []
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "data": []
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "data": []
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
             "refAreaCode": 744,
             "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 58,
+            "refAreaDesc": "Belgium-Luxembourg",
             "data": []
         },
         {
@@ -10576,35 +12142,19 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 369,
-            "refAreaDesc": "Iraq (Central Iraq)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 370,
-            "refAreaDesc": "Iraq (Kurdistan Region)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 543,
-            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
-            "data": []
-        },
-        {
             "parentRegionId": "1",
             "parentRegion_DescEN": "World",
             "refAreaType": "Region",
             "refAreaCode": 10,
             "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -10781,14 +12331,6 @@
             "refAreaType": "Area",
             "refAreaCode": 582,
             "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
-            "data": []
-        },
-        {
-            "parentRegionId": "47",
-            "parentRegion_DescEN": "Micronesia [former]",
-            "refAreaType": "Area",
-            "refAreaCode": 396,
-            "refAreaDesc": "Johnston Island [former]",
             "data": []
         }
     ]

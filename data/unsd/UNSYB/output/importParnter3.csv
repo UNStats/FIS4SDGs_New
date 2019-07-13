@@ -1,21 +1,21 @@
 refAreaCode,importParnter3_Code,importParnter3_DescEN,importParnter3_DescFR
 4,156,China,Chine
-8,792,Turkey,Turquie
+8,276,Germany,Allemagne
 12,380,Italy,Italie
 20,276,Germany,Allemagne
-28,392,Japan,Japon
+28,826,United Kingdom,Royaume-Uni
 31,156,China,Chine
 32,840,United States,États-Unis
 36,392,Japan,Japon
 40,156,China,Chine
-44,212,Dominica,Dominique
+44,170,Colombia,Colombie
 48,840,United States,États-Unis
 50,702,Singapore,Singapour
-51,792,Turkey,Turquie
+51,364,Iran (Islamic Rep.),Iran (Rép. islamique)
 52,156,China,Chine
 56,250,France,France
 60,826,United Kingdom,Royaume-Uni
-64,410,Republic of Korea,République de Corée
+64,764,Thailand,Thaïlande
 68,32,Argentina,Argentine
 70,688,Serbia,Serbie
 72,516,Namibia,Namibie
@@ -27,74 +27,74 @@ refAreaCode,importParnter3_Code,importParnter3_DescEN,importParnter3_DescFR
 108,682,Saudi Arabia,Arabie saoudite
 112,276,Germany,Allemagne
 116,704,Viet Nam,Viet Nam
-120,566,Nigeria,Nigéria
+120,764,Thailand,Thaïlande
 124,484,Mexico,Mexique
 132,380,Italy,Italie
-136,208,Denmark,Danemark
-140,840,United States,États-Unis
+136,276,Germany,Allemagne
+140,56,Belgium,Belgique
 152,76,Brazil,Brésil
 156,490,Asia nes,Asie nsa
 170,484,Mexico,Mexique
 174,250,France,France
-178,578,Norway,Norvège
+178,250,France,France
 184,380,Italy,Italie
 188,484,Mexico,Mexique
 191,705,Slovenia,Slovénie
 196,156,China,Chine
 203,616,Poland,Pologne
-204,250,France,France
+204,156,China,Chine
 208,528,Netherlands,Pays-Bas
 212,484,Mexico,Mexique
 214,484,Mexico,Mexique
 218,170,Colombia,Colombie
 222,320,Guatemala,Guatemala
 231,356,India,Inde
-233,156,China,Chine
+233,246,Finland,Finlande
 242,36,Australia,Australie
 246,752,Sweden,Suède
 250,380,Italy,Italie
 258,840,United States,États-Unis
 268,156,China,Chine
-270,724,Spain,Espagne
+270,156,China,Chine
 275,156,China,Chine
 276,250,France,France
-288,840,United States,États-Unis
+288,56,Belgium,Belgique
 296,156,China,Chine
 300,643,Russian Federation,Fédération de Russie
 304,156,China,Chine
-320,156,China,Chine
-324,724,Spain,Espagne
+320,484,Mexico,Mexique
+324,356,India,Inde
 328,156,China,Chine
 340,320,Guatemala,Guatemala
 344,702,Singapore,Singapour
 348,616,Poland,Pologne
-352,156,China,Chine
+352,276,Germany,Allemagne
 356,784,United Arab Emirates,Émirats arabes unis
 360,392,Japan,Japon
-364,410,Republic of Korea,République de Corée
+364,410,Rep. of Korea,République de Corée
 372,250,France,France
-376,899,Areas nes,Zones nsa
+376,792,Turkey,Turquie
 380,156,China,Chine
-384,156,China,Chine
+384,566,Nigeria,Nigéria
 388,156,China,Chine
 392,36,Australia,Australie
 398,276,Germany,Allemagne
 400,840,United States,États-Unis
-404,392,Japan,Japon
+404,784,United Arab Emirates,Émirats arabes unis
 410,840,United States,États-Unis
 414,784,United Arab Emirates,Émirats arabes unis
 417,398,Kazakhstan,Kazakhstan
-422,840,United States,États-Unis
-426,156,China,Chine
+422,156,China,Chine
+426,490,Asia nes,Asie nsa
 428,616,Poland,Pologne
 440,616,Poland,Pologne
 442,250,France,France
 446,344,"China, Hong Kong SAR","Chine, RAS Hong Kong"
 450,356,India,Inde
-454,784,United Arab Emirates,Émirats arabes unis
+454,356,India,Inde
 458,840,United States,États-Unis
-462,156,China,Chine
-466,384,Côte d’Ivoire,Côte d’Ivoire
+462,356,India,Inde
+466,384,Côte d'Ivoire,Côte d’Ivoire
 470,124,Canada,Canada
 478,578,Norway,Norvège
 480,710,South Africa,Afrique du Sud
@@ -102,32 +102,32 @@ refAreaCode,importParnter3_Code,importParnter3_DescEN,importParnter3_DescFR
 496,392,Japan,Japon
 498,804,Ukraine,Ukraine
 499,276,Germany,Allemagne
-500,826,United Kingdom,Royaume-Uni
+500,392,Japan,Japon
 504,156,China,Chine
-508,156,China,Chine
+508,784,United Arab Emirates,Émirats arabes unis
 512,156,China,Chine
-516,894,Zambia,Zambie
-524,899,Areas nes,Zones nsa
+516,72,Botswana,Botswana
+524,899,"Areas, nes",Zones nsa
 528,156,China,Chine
-533,899,Areas nes,Zones nsa
+533,528,Netherlands,Pays-Bas
 540,702,Singapore,Singapour
-548,554,New Zealand,Nouvelle-Zélande
+548,392,Japan,Japon
 554,840,United States,États-Unis
 558,484,Mexico,Mexique
 562,840,United States,États-Unis
 566,528,Netherlands,Pays-Bas
 578,156,China,Chine
-583,490,Asia nes,Asie nsa
+583,156,China,Chine
 585,392,Japan,Japon
-586,840,United States,États-Unis
+586,682,Saudi Arabia,Arabie saoudite
 591,840,United States,États-Unis
 598,702,Singapore,Singapour
 600,32,Argentina,Argentine
 604,76,Brazil,Brésil
-608,410,Republic of Korea,République de Corée
+608,392,Japan,Japon
 616,643,Russian Federation,Fédération de Russie
 620,250,France,France
-626,704,Viet Nam,Viet Nam
+626,702,Singapore,Singapour
 634,276,Germany,Allemagne
 642,348,Hungary,Hongrie
 643,840,United States,États-Unis
@@ -139,7 +139,7 @@ refAreaCode,importParnter3_Code,importParnter3_DescEN,importParnter3_DescFR
 682,276,Germany,Allemagne
 686,566,Nigeria,Nigéria
 688,156,China,Chine
-694,356,India,Inde
+694,792,Turkey,Turquie
 702,840,United States,États-Unis
 703,568,Europe nes,Europe nsa
 704,392,Japan,Japon
@@ -152,12 +152,12 @@ refAreaCode,importParnter3_Code,importParnter3_DescEN,importParnter3_DescFR
 756,380,Italy,Italie
 764,840,United States,États-Unis
 768,392,Japan,Japon
-776,528,Netherlands,Pays-Bas
+776,156,China,Chine
 784,840,United States,États-Unis
 788,156,China,Chine
 792,643,Russian Federation,Fédération de Russie
-796,392,Japan,Japon
-800,404,Kenya,Kenya
+796,214,Dominican Rep.,Rép. dominicaine
+800,784,United Arab Emirates,Émirats arabes unis
 804,276,Germany,Allemagne
 807,300,Greece,Grèce
 818,380,Italy,Italie
@@ -168,9 +168,9 @@ refAreaCode,importParnter3_Code,importParnter3_DescEN,importParnter3_DescFR
 858,32,Argentina,Argentine
 862,484,Mexico,Mexique
 882,840,United States,États-Unis
-887,682,Saudi Arabia,Arabie saoudite
+887,512,Oman,Oman
 894,156,China,Chine
-24,410,Republic of Korea,République de Corée
+24,840,United States,États-Unis
 92,756,Switzerland,Suisse
 104,764,Thailand,Thaïlande
 144,784,United Arab Emirates,Émirats arabes unis
@@ -178,37 +178,37 @@ refAreaCode,importParnter3_Code,importParnter3_DescEN,importParnter3_DescFR
 180,894,Zambia,Zambie
 192,484,Mexico,Mexique
 226,840,United States,États-Unis
-232,784,United Arab Emirates,Émirats arabes unis
+232,380,Italy,Italie
 234,276,Germany,Allemagne
-238,300,Greece,Grèce
-262,784,United Arab Emirates,Émirats arabes unis
-266,56,Belgium,Belgique
-292,724,Spain,Espagne
-308,826,United Kingdom,Royaume-Uni
+238,528,Netherlands,Pays-Bas
+262,682,Saudi Arabia,Arabie saoudite
+266,422,Lebanon,Liban
+292,826,United Kingdom,Royaume-Uni
+308,156,China,Chine
 332,156,China,Chine
 368,156,China,Chine
-408,764,Thailand,Thaïlande
+408,356,India,Inde
 418,704,Viet Nam,Viet Nam
 430,356,India,Inde
 434,792,Turkey,Turquie
-580,410,Republic of Korea,République de Corée
+580,410,Rep. of Korea,République de Corée
 584,156,China,Chine
-624,686,Senegal,Sénégal
+624,156,China,Chine
 654,300,Greece,Grèce
 660,616,Poland,Pologne
 666,528,Netherlands,Pays-Bas
 690,250,France,France
-706,356,India,Inde
-728,840,United States,États-Unis
-729,356,India,Inde
-748,156,China,Chine
-760,643,Russian Federation,Fédération de Russie
+706,512,Oman,Oman
+728,156,China,Chine
+729,682,Saudi Arabia,Arabie saoudite
+748,356,India,Inde
+760,818,Egypt,Égypte
 762,398,Kazakhstan,Kazakhstan
 772,882,Samoa,Samoa
 780,156,China,Chine
-795,156,China,Chine
-798,242,Fiji,Fidji
+795,276,Germany,Allemagne
+798,156,China,Chine
 860,398,Kazakhstan,Kazakhstan
-876,242,Fiji,Fidji
+876,899,Areas nes,Zones nsa
 158,840,United States,États-Unis
 556,484,Mexico,Mexique

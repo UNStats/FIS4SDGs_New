@@ -5,7 +5,7 @@
     "tableCode": "expendedu",
     "tableId": 109,
     "tableName": "Public expenditure on education",
-    "tableStatusId": 1,
+    "tableStatusId": 7,
     "tbBkCode": "T09 ",
     "tbBkPrint": "Y",
     "newSeriesName": "Public expenditure in education as percent of GDP",
@@ -18,8 +18,8 @@
         {
             "sourceCode": "UNESCO_EDU",
             "sourceId": 24,
-            "sourceNameEN": "United Nations Educational, Scientific and Cultural Organization (UNESCO), Montreal, the UNESCO Institute for Statistics (UIS) statistics database, last accessed May 2018.",
-            "sourceNameFR": "Organisation des Nations Unies pour l\u2019\u00e9ducation, la science et la culture (UNESCO), Montr\u00e9al, base de donn\u00e9es statistiques de l\u2019Institut de statistique (ISU) de l\u2019UNESCO, dernier acc\u00e8s mai 2018."
+            "sourceNameEN": "United Nations Educational, Scientific and Cultural Organization (UNESCO), Montreal, the UNESCO Institute for Statistics (UIS) statistics database, last accessed March 2019.",
+            "sourceNameFR": "Organisation des Nations Unies pour l\u2019\u00e9ducation, la science et la culture (UNESCO), Montr\u00e9al, base de donn\u00e9es statistiques de l\u2019Institut de statistique (ISU) de l\u2019UNESCO, dernier acc\u00e8s mars 2019."
         }
     ],
     "footnotes": [
@@ -28,6 +28,12 @@
             "footnoteCode": "estimate",
             "footnoteTextEN": "Estimate.",
             "footnoteTextFR": "Donn\u00e9es estimatives."
+        },
+        {
+            "footnoteId": 60911,
+            "footnoteCode": "crimeasevas",
+            "footnoteTextEN": "Excludes the temporarily occupied territory of the Autonomous Republic of Crimea and Sevastopol.",
+            "footnoteTextFR": "Excluent le territoire temporairement occup\u00e9 de la R\u00e9publique autonome de Crim\u00e9e et de S\u00e9bastopol."
         }
     ],
     "refAreas": [
@@ -89,7 +95,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 3.4717000000000002,
+                    "value": 3.4344,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -100,7 +106,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 3.7776,
+                    "value": 3.6739,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -114,6 +120,32 @@
                     "value": 3.242,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.2053,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.9268,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -238,7 +270,18 @@
                 },
                 {
                     "year": 2015,
-                    "value": 3.4536,
+                    "value": 3.438,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 3.9546,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -315,7 +358,19 @@
             "refAreaType": "Area",
             "refAreaCode": 16,
             "refAreaDesc": "American Samoa",
-            "data": []
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 14.6293,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
         },
         {
             "parentRegionId": "202",
@@ -474,7 +529,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 3.2781000000000002,
+                    "value": 3.2567,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.1955999999999998,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -535,7 +601,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 3.4764,
+                    "value": 3.4741,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -775,6 +841,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 2.9034,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -952,7 +1029,18 @@
                 },
                 {
                     "year": 2015,
-                    "value": 5.8753,
+                    "value": 5.7761,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 5.5722000000000005,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -988,7 +1076,7 @@
             "data": [
                 {
                     "year": 2000,
-                    "value": 4.8888,
+                    "value": 4.8937,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -999,7 +1087,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 4.9078,
+                    "value": 4.9157,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1010,7 +1098,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 4.7406,
+                    "value": 4.7536000000000005,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1021,7 +1109,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 4.6573,
+                    "value": 4.6671,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1032,7 +1120,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 4.6319,
+                    "value": 4.644,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1043,7 +1131,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 5.0893,
+                    "value": 5.0933,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1054,7 +1142,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 5.5659,
+                    "value": 5.5592,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1065,7 +1153,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 5.0968,
+                    "value": 5.0831,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1076,7 +1164,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 4.8942,
+                    "value": 4.8777,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1087,7 +1175,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 5.2598,
+                    "value": 5.238,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1098,7 +1186,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 5.1927,
+                    "value": 5.1737,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.3218,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1288,6 +1387,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.453,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1300,7 +1410,7 @@
             "data": [
                 {
                     "year": 2000,
-                    "value": 2.85,
+                    "value": 2.2328,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -1398,8 +1508,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2016,
-                    "value": 2.6645,
+                    "year": 2017,
+                    "value": 2.3355,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1553,11 +1663,9 @@
                 },
                 {
                     "year": 2016,
-                    "value": 2.5003,
+                    "value": 1.5354999999999999,
                     "sourceId": 24,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -1751,7 +1859,7 @@
                 },
                 {
                     "year": 2016,
-                    "value": 2.7513,
+                    "value": 2.7580999999999998,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -1922,6 +2030,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.6565,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -1949,140 +2068,19 @@
             "refAreaDesc": "Belgium",
             "data": [
                 {
-                    "year": 2001,
-                    "value": 5.8433,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2002,
-                    "value": 5.9474,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2003,
-                    "value": 5.8848,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2004,
-                    "value": 5.807,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2005,
-                    "value": 5.769,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2006,
-                    "value": 5.8404,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2007,
-                    "value": 5.849,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2008,
-                    "value": 6.2914,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2009,
-                    "value": 6.4154,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 6.408,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 6.3787,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2013,
-                    "value": 6.6397,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
                     "year": 2014,
-                    "value": 6.5969,
+                    "value": 6.639,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.5524000000000004,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -2336,6 +2334,32 @@
                     "value": 7.3897,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 6.8056,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 7.0505,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -2695,6 +2719,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.2411,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -2784,7 +2819,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 6.2183,
+                    "value": 6.2181,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -2795,7 +2830,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 6.4741,
+                    "value": 6.4787,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -2806,7 +2841,18 @@
                 },
                 {
                     "year": 2015,
-                    "value": 6.7125,
+                    "value": 6.7225,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 7.0605,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -2817,7 +2863,7 @@
                 },
                 {
                     "year": 2017,
-                    "value": 7.4092,
+                    "value": 7.0874,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -2870,7 +2916,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 10.0011,
+                    "value": 9.8606,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -2888,6 +2934,39 @@
             "refAreaCode": 92,
             "refAreaDesc": "British Virgin Islands",
             "data": [
+                {
+                    "year": 2001,
+                    "value": 3.3848000000000003,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5497,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 4.1722,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
                 {
                     "year": 2007,
                     "value": 3.6728,
@@ -3018,7 +3097,7 @@
             "data": [
                 {
                     "year": 2001,
-                    "value": 3.3958,
+                    "value": 3.4102,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3029,7 +3108,7 @@
                 },
                 {
                     "year": 2002,
-                    "value": 3.3949,
+                    "value": 3.4124,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3040,7 +3119,7 @@
                 },
                 {
                     "year": 2003,
-                    "value": 4.0118,
+                    "value": 4.0294,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3051,7 +3130,7 @@
                 },
                 {
                     "year": 2004,
-                    "value": 2.3256,
+                    "value": 2.3378,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3062,7 +3141,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 4.1154,
+                    "value": 4.1411,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3073,7 +3152,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 3.912,
+                    "value": 3.932,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3084,7 +3163,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 3.653,
+                    "value": 3.6821,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3319,6 +3398,58 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 5.9339,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.4488,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.6181,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.3441,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -3463,7 +3594,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 4.9795,
+                    "value": 4.9466,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.82,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3483,7 +3625,7 @@
             "data": [
                 {
                     "year": 2000,
-                    "value": 1.6668,
+                    "value": 1.6560000000000001,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3571,7 +3713,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 1.5627,
+                    "value": 1.5609000000000002,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3582,7 +3724,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 2.0211,
+                    "value": 2.0505,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3593,7 +3735,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 1.9008,
+                    "value": 1.9094000000000002,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3748,6 +3890,58 @@
                     "value": 2.768,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 2.6871,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 2.7681,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 2.6875999999999998,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0779,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -3983,7 +4177,7 @@
                 },
                 {
                     "year": 2015,
-                    "value": 5.3401,
+                    "value": 5.2669,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -3994,7 +4188,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 5.4377,
+                    "value": 5.3665,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 5.2247,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4011,7 +4216,30 @@
             "refAreaType": "Area",
             "refAreaCode": 136,
             "refAreaDesc": "Cayman Islands",
-            "data": []
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 1.7863,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 1.9852,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
         },
         {
             "parentRegionId": "17",
@@ -4066,7 +4294,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 1.6364,
+                    "value": 1.6522000000000001,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4088,7 +4316,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 1.3129,
+                    "value": 1.3133,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4132,7 +4360,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 1.2191,
+                    "value": 1.2286,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4234,7 +4462,7 @@
                 },
                 {
                     "year": 2015,
-                    "value": 2.2285,
+                    "value": 2.2288,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4245,7 +4473,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 3.495,
+                    "value": 3.4751,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2.8074,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4529,7 +4768,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 4.7228,
+                    "value": 4.7302,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4540,7 +4779,18 @@
                 },
                 {
                     "year": 2015,
-                    "value": 4.9035,
+                    "value": 4.8737,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 5.3506,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4770,7 +5020,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 4.483,
+                    "value": 4.5209,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.3997,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4938,6 +5199,32 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0172,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5615,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -4950,7 +5237,7 @@
             "data": [
                 {
                     "year": 2010,
-                    "value": 1.6024,
+                    "value": 1.525,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4961,7 +5248,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 2.2448,
+                    "value": 2.0622,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -4971,10 +5258,49 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2014,
+                    "value": 1.9514,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2015,
-                    "value": 2.291,
+                    "value": 2.1704,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 2.1187,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 1.4695,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -4990,6 +5316,17 @@
             "refAreaCode": 184,
             "refAreaDesc": "Cook Islands",
             "data": [
+                {
+                    "year": 2000,
+                    "value": 2.0706,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
                 {
                     "year": 2011,
                     "value": 3.088,
@@ -5212,7 +5549,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 6.8589,
+                    "value": 6.8695,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -5223,7 +5560,7 @@
                 },
                 {
                     "year": 2015,
-                    "value": 7.0743,
+                    "value": 7.0826,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -5234,7 +5571,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 7.0634,
+                    "value": 7.1187,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 7.4323,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -5320,7 +5668,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 4.2522,
+                    "value": 4.2405,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -5331,7 +5679,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 4.158,
+                    "value": 4.1487,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -5342,7 +5690,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 4.5876,
+                    "value": 4.5626,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -5637,7 +5985,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 6.125,
+                    "value": 6.3762,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.3767,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -5827,6 +6186,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.7889,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -5971,7 +6341,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 4.5476,
+                    "value": 4.5473,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -5993,9 +6363,22 @@
                 },
                 {
                     "year": 2015,
-                    "value": 4.3565000000000005,
+                    "value": 4.3564,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 3.9947,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -6207,7 +6590,7 @@
             "data": [
                 {
                     "year": 2000,
-                    "value": 1.9126,
+                    "value": 1.8883,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -6220,7 +6603,7 @@
                 },
                 {
                     "year": 2001,
-                    "value": 2.0237,
+                    "value": 1.9678,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6231,7 +6614,7 @@
                 },
                 {
                     "year": 2002,
-                    "value": 1.971,
+                    "value": 1.9140000000000001,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6242,7 +6625,7 @@
                 },
                 {
                     "year": 2003,
-                    "value": 1.8764,
+                    "value": 1.8447,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -6372,7 +6755,7 @@
             "data": [
                 {
                     "year": 2000,
-                    "value": 2.5471,
+                    "value": 2.8387000000000002,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -6385,7 +6768,7 @@
                 },
                 {
                     "year": 2002,
-                    "value": 2.8705,
+                    "value": 3.2428,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6396,7 +6779,7 @@
                 },
                 {
                     "year": 2003,
-                    "value": 2.7591,
+                    "value": 3.1347,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6407,7 +6790,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 2.7325,
+                    "value": 3.1779,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -6420,7 +6803,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 3.0127,
+                    "value": 3.493,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6431,7 +6814,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 3.0545,
+                    "value": 3.6099,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -6444,7 +6827,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 3.7417,
+                    "value": 4.4581,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6455,7 +6838,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 3.9695,
+                    "value": 4.6595,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6466,7 +6849,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 3.4867,
+                    "value": 4.0481,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6477,7 +6860,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 3.4175,
+                    "value": 3.8985000000000003,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6488,7 +6871,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 3.334,
+                    "value": 3.7124,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6499,7 +6882,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 3.4331,
+                    "value": 3.8038,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6510,7 +6893,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 3.4486,
+                    "value": 3.8255,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6521,7 +6904,7 @@
                 },
                 {
                     "year": 2015,
-                    "value": 3.5176,
+                    "value": 3.9558,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6532,7 +6915,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 3.4532,
+                    "value": 3.8699,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.7513,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6673,6 +7067,28 @@
                 {
                     "year": 2013,
                     "value": 4.4986,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 4.602,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.7379,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -6891,6 +7307,17 @@
                 {
                     "year": 2014,
                     "value": 5.4794,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.2159,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7218,6 +7645,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 7.0918,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7229,41 +7667,8 @@
             "refAreaDesc": "France",
             "data": [
                 {
-                    "year": 2000,
-                    "value": 5.5167,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2001,
-                    "value": 5.417,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2002,
-                    "value": 5.4092,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
                     "year": 2003,
-                    "value": 5.723,
+                    "value": 5.7467,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7274,7 +7679,7 @@
                 },
                 {
                     "year": 2004,
-                    "value": 5.6370000000000005,
+                    "value": 5.6593,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7285,7 +7690,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 5.4998000000000005,
+                    "value": 5.5187,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7296,7 +7701,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 5.4421,
+                    "value": 5.4572,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7307,7 +7712,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 5.4452,
+                    "value": 5.4573,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7318,7 +7723,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 5.444,
+                    "value": 5.4535,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7329,7 +7734,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 5.7385,
+                    "value": 5.7462,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7340,7 +7745,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 5.6834,
+                    "value": 5.6925,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7351,7 +7756,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 5.5158000000000005,
+                    "value": 5.5183,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7362,7 +7767,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 5.4613,
+                    "value": 5.4564,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7373,7 +7778,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 5.5053,
+                    "value": 5.5003,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7384,7 +7789,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 5.5176,
+                    "value": 5.5121,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.4642,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -7747,6 +8163,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.8299000000000003,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7910,6 +8337,30 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 3.2918,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0851,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -7977,7 +8428,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 5.7299,
+                    "value": 5.7177,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 5.2523,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -8093,6 +8555,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.8134,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8138,7 +8611,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 5.2599,
+                    "value": 5.2598,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -8229,6 +8702,45 @@
                     "value": 6.1598,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.9417,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 5.7663,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5098,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -8514,7 +9026,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 2.8287,
+                    "value": 2.8327999999999998,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2.7954,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -8600,7 +9123,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 1.5812,
+                    "value": 1.5811000000000002,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -8622,7 +9145,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 2.5482,
+                    "value": 2.5512,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -8644,7 +9167,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 1.896,
+                    "value": 1.8336999999999999,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -8666,7 +9189,40 @@
                 },
                 {
                     "year": 2014,
-                    "value": 2.4193,
+                    "value": 2.4228,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 2.5171,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 2.518,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2.212,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -8821,6 +9377,50 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 5.849,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.2661999999999995,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 6.061,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 6.2507,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -8830,7 +9430,30 @@
             "refAreaType": "Area",
             "refAreaCode": 332,
             "refAreaDesc": "Haiti",
-            "data": []
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 3.1572,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 2.4496,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
         },
         {
             "parentRegionId": "39",
@@ -8850,6 +9473,50 @@
                 {
                     "year": 2013,
                     "value": 5.8749,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 7.0901,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 6.413,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 6.3018,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 5.9561,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9034,7 +9701,7 @@
                 },
                 {
                     "year": 2016,
-                    "value": 3.2923999999999998,
+                    "value": 3.2927,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9045,7 +9712,7 @@
                 },
                 {
                     "year": 2017,
-                    "value": 3.316,
+                    "value": 3.3097,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9196,6 +9863,17 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2012,
+                    "value": 4.1735,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2013,
                     "value": 4.2037,
                     "sourceId": 24,
@@ -9216,6 +9894,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5794,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -9228,7 +9917,7 @@
             "data": [
                 {
                     "year": 2000,
-                    "value": 6.4887,
+                    "value": 6.5024,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9239,7 +9928,7 @@
                 },
                 {
                     "year": 2001,
-                    "value": 6.779,
+                    "value": 6.7871,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9250,7 +9939,7 @@
                 },
                 {
                     "year": 2002,
-                    "value": 7.3931000000000004,
+                    "value": 7.3867,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9261,7 +9950,7 @@
                 },
                 {
                     "year": 2003,
-                    "value": 7.3254,
+                    "value": 7.3174,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9272,7 +9961,7 @@
                 },
                 {
                     "year": 2004,
-                    "value": 7.2249,
+                    "value": 7.2147,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9283,7 +9972,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 7.4096,
+                    "value": 7.4094,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9294,7 +9983,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 7.3734,
+                    "value": 7.3711,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9305,7 +9994,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 7.0609,
+                    "value": 7.0527,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9316,7 +10005,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 7.2092,
+                    "value": 7.2019,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9327,7 +10016,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 7.339,
+                    "value": 7.3067,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9338,7 +10027,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 7.2043,
+                    "value": 7.1741,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9349,7 +10038,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 7.0431,
+                    "value": 7.0153,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9360,7 +10049,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 7.8664000000000005,
+                    "value": 7.8260000000000005,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9371,7 +10060,29 @@
                 },
                 {
                     "year": 2013,
-                    "value": 7.7595,
+                    "value": 7.725,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 7.8903,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 7.7111,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9510,7 +10221,7 @@
             "data": [
                 {
                     "year": 2001,
-                    "value": 2.3105,
+                    "value": 2.46,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -9523,7 +10234,7 @@
                 },
                 {
                     "year": 2002,
-                    "value": 2.4849,
+                    "value": 2.6457,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -9536,7 +10247,7 @@
                 },
                 {
                     "year": 2003,
-                    "value": 3.0224,
+                    "value": 3.218,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -9549,7 +10260,7 @@
                 },
                 {
                     "year": 2004,
-                    "value": 2.5814,
+                    "value": 2.7485,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -9562,7 +10273,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 2.6982,
+                    "value": 2.8728,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -9575,7 +10286,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 2.8592,
+                    "value": 3.0443,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9586,7 +10297,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 2.7255000000000003,
+                    "value": 2.9019,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9597,7 +10308,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 3.3108,
+                    "value": 3.5251,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9663,7 +10374,7 @@
                 },
                 {
                     "year": 2015,
-                    "value": 3.5819,
+                    "value": 3.5836,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -9867,6 +10578,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.7904,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10049,6 +10771,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.7697000000000003,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10193,7 +10926,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 5.6692,
+                    "value": 5.6973,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -10204,7 +10937,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 5.8431,
+                    "value": 5.8878,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -10215,7 +10948,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 5.7391000000000005,
+                    "value": 5.8141,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.8814,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -10366,6 +11110,17 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2012,
+                    "value": 4.0839,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2013,
                     "value": 4.1647,
                     "sourceId": 24,
@@ -10379,6 +11134,17 @@
                 {
                     "year": 2014,
                     "value": 4.0753,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0804,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -10573,6 +11339,32 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.9484,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.3642,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -10585,7 +11377,7 @@
             "data": [
                 {
                     "year": 2000,
-                    "value": 5.0151,
+                    "value": 4.9835,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -10596,7 +11388,7 @@
                 },
                 {
                     "year": 2001,
-                    "value": 5.4148,
+                    "value": 5.381,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -10607,7 +11399,7 @@
                 },
                 {
                     "year": 2002,
-                    "value": 5.4285,
+                    "value": 5.3752,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -10761,7 +11553,7 @@
                 },
                 {
                     "year": 2017,
-                    "value": 5.357,
+                    "value": 5.2677,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -10779,127 +11571,6 @@
             "refAreaCode": 392,
             "refAreaDesc": "Japan",
             "data": [
-                {
-                    "year": 2000,
-                    "value": 3.5162,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2001,
-                    "value": 3.4571,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2002,
-                    "value": 3.4654,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2003,
-                    "value": 3.5237,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2004,
-                    "value": 3.4831,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2005,
-                    "value": 3.3686,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2006,
-                    "value": 3.3291,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2007,
-                    "value": 3.3309,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2008,
-                    "value": 3.3192,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 3.6395,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 3.6426,
-                    "sourceId": 24,
-                    "footnoteId": null,
-                    "educationLevCode": "_T",
-                    "educationLevDesc": "Total or no breakdown by education level",
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
                 {
                     "year": 2012,
                     "value": 3.6923,
@@ -10925,6 +11596,17 @@
                 {
                     "year": 2014,
                     "value": 3.5906000000000002,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 3.4675000000000002,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -11051,6 +11733,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2.8785,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -11064,6 +11757,17 @@
                 {
                     "year": 2016,
                     "value": 3.8962,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5996,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -11173,7 +11877,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 5.3354,
+                    "value": 5.3353,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -11184,7 +11888,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 5.509,
+                    "value": 5.5088,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -11195,7 +11899,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 5.4114,
+                    "value": 5.4198,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -11217,9 +11921,35 @@
                 },
                 {
                     "year": 2015,
-                    "value": 5.2716,
+                    "value": 5.2713,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 5.3627,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 5.239,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -11343,8 +12073,19 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2011,
+                    "value": 4.8641000000000005,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2012,
-                    "value": 4.6182,
+                    "value": 5.0964,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -11355,7 +12096,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 4.9307,
+                    "value": 5.2476,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -11366,7 +12107,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 5.0567,
+                    "value": 5.2661,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -11377,7 +12118,7 @@
                 },
                 {
                     "year": 2015,
-                    "value": 5.0654,
+                    "value": 5.2527,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -11638,6 +12379,30 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 6.5862,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 7.2077,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -11760,7 +12525,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 1.8089,
+                    "value": 1.7080000000000002,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -12047,6 +12812,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 6.3609,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -12191,7 +12967,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 6.9717,
+                    "value": 6.9854,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -12202,7 +12978,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 5.2688,
+                    "value": 5.2829,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.3372,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -12236,6 +13023,71 @@
                     "value": 2.7576,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 2.7197,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5911,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.1108,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0089,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.8263,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -12457,7 +13309,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 4.7669,
+                    "value": 4.7668,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -12468,7 +13320,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 4.6073,
+                    "value": 4.6128,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -12479,7 +13331,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 4.4855,
+                    "value": 4.4882,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.2181,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -12522,6 +13385,17 @@
                 {
                     "year": 2014,
                     "value": 3.9944,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.9155,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -12706,7 +13580,18 @@
                 },
                 {
                     "year": 2015,
-                    "value": 2.9782,
+                    "value": 2.9817,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0831,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -12866,6 +13751,19 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 2.7938,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -12969,6 +13867,19 @@
                     "value": 4.7486,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0313,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -13159,6 +14070,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.7439,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -13329,7 +14251,7 @@
                 },
                 {
                     "year": 2016,
-                    "value": 4.2501,
+                    "value": 4.252,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -13500,6 +14422,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0907,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -13578,7 +14511,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 7.7939,
+                    "value": 7.7916,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -13589,7 +14522,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 6.5237,
+                    "value": 6.5196000000000005,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -13600,7 +14533,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 7.8792,
+                    "value": 7.8798,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -13611,7 +14544,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 7.2496,
+                    "value": 7.2391,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.2675,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -13960,7 +14904,7 @@
                 },
                 {
                     "year": 2017,
-                    "value": 5.082,
+                    "value": 5.0231,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -13980,7 +14924,7 @@
             "data": [
                 {
                     "year": 2000,
-                    "value": 4.1341,
+                    "value": 3.9924,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -13991,7 +14935,7 @@
                 },
                 {
                     "year": 2001,
-                    "value": 4.4283,
+                    "value": 4.241,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14002,7 +14946,7 @@
                 },
                 {
                     "year": 2002,
-                    "value": 4.6385000000000005,
+                    "value": 4.455,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14013,7 +14957,7 @@
                 },
                 {
                     "year": 2003,
-                    "value": 5.1867,
+                    "value": 5.0725999999999996,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14024,7 +14968,7 @@
                 },
                 {
                     "year": 2004,
-                    "value": 4.8002,
+                    "value": 4.7267,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14035,7 +14979,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 4.908,
+                    "value": 4.8457,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14046,7 +14990,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 4.7491,
+                    "value": 4.6999,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14057,7 +15001,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 4.732,
+                    "value": 4.6905,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14068,7 +15012,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 4.8582,
+                    "value": 4.8201,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14079,7 +15023,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 5.2175,
+                    "value": 5.1879,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14090,7 +15034,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 5.192,
+                    "value": 5.1592,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14101,7 +15045,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 5.1462,
+                    "value": 5.1057,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14112,7 +15056,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 5.1654,
+                    "value": 5.1031,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14123,7 +15067,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 4.7424,
+                    "value": 4.6961,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14134,7 +15078,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 5.3259,
+                    "value": 5.2613,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.2395,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14391,6 +15346,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0664,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -14557,7 +15523,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 6.7069,
+                    "value": 6.6613,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 6.6838,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14583,6 +15560,50 @@
             "refAreaCode": 500,
             "refAreaDesc": "Montserrat",
             "data": [
+                {
+                    "year": 2000,
+                    "value": 3.7747,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2001,
+                    "value": 4.7891,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2004,
+                    "value": 3.8438,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2006,
+                    "value": 4.7766,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
                 {
                     "year": 2007,
                     "value": 5.3281,
@@ -14821,7 +15842,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 6.1585,
+                    "value": 6.1096,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 6.6739,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -14831,6 +15863,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
         },
         {
             "parentRegionId": "18",
@@ -14912,6 +15952,17 @@
                 {
                     "year": 2010,
                     "value": 8.3496,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 3.1032,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15116,6 +16167,32 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.441,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 5.0956,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -15283,6 +16360,17 @@
                 {
                     "year": 2014,
                     "value": 5.5293,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.3994,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15473,6 +16561,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 6.1432,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -15498,6 +16597,14 @@
             "refAreaType": "Area",
             "refAreaCode": 540,
             "refAreaDesc": "New Caledonia",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
             "data": []
         },
         {
@@ -15594,6 +16701,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.6954,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -15606,7 +16724,7 @@
             "data": [
                 {
                     "year": 2001,
-                    "value": 6.5605,
+                    "value": 6.5606,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15650,7 +16768,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 6.2789,
+                    "value": 6.279,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15672,7 +16790,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 5.916,
+                    "value": 5.9159,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15705,7 +16823,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 7.0025,
+                    "value": 7.0024,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15716,7 +16834,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 6.9367,
+                    "value": 6.9366,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15749,7 +16867,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 6.3553,
+                    "value": 6.3465,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15760,7 +16878,18 @@
                 },
                 {
                     "year": 2015,
-                    "value": 6.3445,
+                    "value": 6.3363,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 6.3037,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15816,6 +16945,50 @@
                 {
                     "year": 2010,
                     "value": 4.4842,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0833,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.1255,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.1126,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.3488,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -15978,7 +17151,29 @@
                 },
                 {
                     "year": 2015,
-                    "value": 6.0173,
+                    "value": 5.9894,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0416,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5427,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -16176,6 +17371,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 7.5525,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -16260,7 +17466,7 @@
             "data": [
                 {
                     "year": 2000,
-                    "value": 7.9347,
+                    "value": 8.1026,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -16273,7 +17479,7 @@
                 },
                 {
                     "year": 2001,
-                    "value": 7.6462,
+                    "value": 7.7799,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -16284,7 +17490,7 @@
                 },
                 {
                     "year": 2002,
-                    "value": 7.5951,
+                    "value": 7.5789,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -16460,7 +17666,7 @@
                 },
                 {
                     "year": 2017,
-                    "value": 2.7579000000000002,
+                    "value": 2.7605,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -16539,7 +17745,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 3.5928,
+                    "value": 3.5023,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -16550,7 +17756,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 3.1877,
+                    "value": 3.159,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -16667,6 +17873,17 @@
                 {
                     "year": 2012,
                     "value": 4.963,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5204,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -16840,7 +18057,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 3.6912000000000003,
+                    "value": 3.6906,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -16851,7 +18068,7 @@
                 },
                 {
                     "year": 2015,
-                    "value": 3.9818,
+                    "value": 3.9668,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -16862,7 +18079,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 3.807,
+                    "value": 3.8183,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.924,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17155,7 +18383,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 4.9124,
+                    "value": 4.9111,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.8145,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17337,6 +18576,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.8829,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -17402,7 +18652,7 @@
             "data": [
                 {
                     "year": 2008,
-                    "value": 8.5251,
+                    "value": 1.2804,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17413,7 +18663,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 11.9335,
+                    "value": 2.9314,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17424,7 +18674,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 10.9515,
+                    "value": 2.4496,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17435,7 +18685,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 10.0874,
+                    "value": 1.8703,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17446,7 +18696,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 6.9914000000000005,
+                    "value": 1.246,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17457,7 +18707,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 5.609,
+                    "value": 1.3998,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17468,7 +18718,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 7.4984,
+                    "value": 2.6888,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17488,7 +18738,7 @@
             "data": [
                 {
                     "year": 2013,
-                    "value": 6.5121,
+                    "value": 6.4811,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17499,7 +18749,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 6.0323,
+                    "value": 6.0727,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17659,6 +18909,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2.8523,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -17744,8 +19005,30 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2006,
+                    "value": 4.2539,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2007,
-                    "value": 4.2233,
+                    "value": 4.1177,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2008,
+                    "value": 4.1108,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17756,7 +19039,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 4.1618,
+                    "value": 4.0367,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17767,7 +19050,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 3.4585,
+                    "value": 3.4863,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17778,7 +19061,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 3.0278,
+                    "value": 3.0441,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17801,6 +19084,17 @@
                 {
                     "year": 2014,
                     "value": 3.1285,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.1065,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17916,6 +19210,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.8203,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -17961,7 +19266,7 @@
                 },
                 {
                     "year": 2008,
-                    "value": 3.7322,
+                    "value": 3.7326,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17972,7 +19277,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 4.8853,
+                    "value": 4.8858,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17983,7 +19288,7 @@
                 },
                 {
                     "year": 2011,
-                    "value": 4.6497,
+                    "value": 4.6505,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -17994,7 +19299,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 4.6888000000000005,
+                    "value": 4.6377,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18005,7 +19310,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 4.9619,
+                    "value": 4.9489,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18015,8 +19320,47 @@
                     "baseYear": null
                 },
                 {
+                    "year": 2014,
+                    "value": 4.3055,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.7515,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
                     "year": 2016,
-                    "value": 3.5469,
+                    "value": 3.5398,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 3.2057,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -18028,6 +19372,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
         },
         {
             "parentRegionId": "11",
@@ -18152,6 +19504,65 @@
             "refAreaCode": 660,
             "refAreaDesc": "Anguilla",
             "data": [
+                {
+                    "year": 2000,
+                    "value": 3.8360000000000003,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2001,
+                    "value": 5.402,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2002,
+                    "value": 5.4228,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 5.1237,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 2.9545,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
                 {
                     "year": 2008,
                     "value": 2.8426,
@@ -18335,6 +19746,14 @@
             ]
         },
         {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
+        },
+        {
             "parentRegionId": "21",
             "parentRegion_DescEN": "Northern America",
             "refAreaType": "Area",
@@ -18430,7 +19849,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 5.7797,
+                    "value": 5.7999,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 5.7505,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18481,7 +19911,7 @@
             "data": [
                 {
                     "year": 2002,
-                    "value": 2.8773,
+                    "value": 2.9014,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18492,7 +19922,7 @@
                 },
                 {
                     "year": 2003,
-                    "value": 3.4404,
+                    "value": 3.4692,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18503,7 +19933,7 @@
                 },
                 {
                     "year": 2004,
-                    "value": 3.5178000000000003,
+                    "value": 3.5473,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18514,7 +19944,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 5.2512,
+                    "value": 5.2951,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18525,7 +19955,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 4.5359,
+                    "value": 4.5739,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18536,7 +19966,7 @@
                 },
                 {
                     "year": 2007,
-                    "value": 6.4299,
+                    "value": 6.4838000000000005,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18602,7 +20032,40 @@
                 },
                 {
                     "year": 2014,
-                    "value": 3.7493,
+                    "value": 3.7488,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 3.8981,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 5.0753,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.8571,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -18883,6 +20346,30 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 6.6256,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 6.1956,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -18980,6 +20467,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 3.8618,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -19033,6 +20531,50 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2012,
+                    "value": 2.6139,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2013,
+                    "value": 3.6081,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0837,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 4.4183,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -19058,7 +20600,7 @@
                 },
                 {
                     "year": 2001,
-                    "value": 3.4677,
+                    "value": 3.4327,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -19071,7 +20613,7 @@
                 },
                 {
                     "year": 2002,
-                    "value": 3.5863,
+                    "value": 3.5453,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -19084,7 +20626,7 @@
                 },
                 {
                     "year": 2003,
-                    "value": 3.2948,
+                    "value": 3.2606,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -19097,7 +20639,7 @@
                 },
                 {
                     "year": 2004,
-                    "value": 3.1448,
+                    "value": 3.1071,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -19110,7 +20652,7 @@
                 },
                 {
                     "year": 2005,
-                    "value": 2.8359,
+                    "value": 2.797,
                     "sourceId": 24,
                     "footnoteId": [
                         51
@@ -19145,7 +20687,7 @@
                 },
                 {
                     "year": 2009,
-                    "value": 2.7379,
+                    "value": 2.7781000000000002,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -19156,7 +20698,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 2.5505,
+                    "value": 2.5886,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -19211,7 +20753,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 2.9124,
+                    "value": 3.0602,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 4.6367,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -19363,7 +20916,7 @@
                 },
                 {
                     "year": 2012,
-                    "value": 3.1127,
+                    "value": 3.1085,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -19374,7 +20927,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 2.9128,
+                    "value": 2.8977,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -19805,6 +21358,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.9116,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -19979,7 +21543,18 @@
                 },
                 {
                     "year": 2014,
-                    "value": 6.0469,
+                    "value": 6.0466,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.9562,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -19990,7 +21565,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 5.943,
+                    "value": 5.9406,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 6.1254,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -20225,6 +21811,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.277,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -20237,7 +21834,7 @@
             "data": [
                 {
                     "year": 2011,
-                    "value": 0.8052,
+                    "value": 0.8310000000000001,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -20248,7 +21845,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 1.1789,
+                    "value": 1.0849,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -20259,7 +21856,7 @@
                 },
                 {
                     "year": 2014,
-                    "value": 1.713,
+                    "value": 1.52,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -20270,7 +21867,7 @@
                 },
                 {
                     "year": 2015,
-                    "value": 1.5406,
+                    "value": 1.3552,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -20281,7 +21878,18 @@
                 },
                 {
                     "year": 2016,
-                    "value": 1.8109000000000002,
+                    "value": 1.4969000000000001,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 0.9812000000000001,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -20392,6 +22000,14 @@
             "refAreaType": "Area",
             "refAreaCode": 740,
             "refAreaDesc": "Suriname",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
             "data": []
         },
         {
@@ -20706,8 +22322,27 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 7.5513,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
         },
         {
             "parentRegionId": "155",
@@ -20873,6 +22508,28 @@
                 {
                     "year": 2014,
                     "value": 5.0512,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 5.1047,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 5.1243,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -21295,7 +22952,7 @@
                 },
                 {
                     "year": 2013,
-                    "value": 4.1221,
+                    "value": 4.124,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -21480,7 +23137,7 @@
                 },
                 {
                     "year": 2015,
-                    "value": 5.223,
+                    "value": 5.2228,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -21491,7 +23148,7 @@
                 },
                 {
                     "year": 2016,
-                    "value": 5.0501,
+                    "value": 5.0633,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -21896,6 +23553,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 4.2919,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -21926,6 +23594,61 @@
             "refAreaCode": 796,
             "refAreaDesc": "Turks and Caicos Islands",
             "data": [
+                {
+                    "year": 2000,
+                    "value": 4.7188,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2001,
+                    "value": 4.843,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2002,
+                    "value": 5.0691,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2003,
+                    "value": 4.7288,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2005,
+                    "value": 2.541,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
                 {
                     "year": 2015,
                     "value": 3.2653,
@@ -22027,6 +23750,45 @@
                     "value": 2.2507,
                     "sourceId": 24,
                     "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 2.7738,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 2.5588,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 2.641,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
                     "educationLevCode": "_T",
                     "educationLevDesc": "Total or no breakdown by education level",
                     "units": "Percent",
@@ -22195,6 +23957,19 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 5.0144,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        60911
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -22203,7 +23978,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "data": [
                 {
                     "year": 2002,
@@ -22464,6 +24239,17 @@
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 5.5418,
+                    "sourceId": 24,
+                    "footnoteId": null,
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
                 }
             ]
         },
@@ -22672,7 +24458,7 @@
                 },
                 {
                     "year": 2006,
-                    "value": 4.457,
+                    "value": 4.4788,
                     "sourceId": 24,
                     "footnoteId": null,
                     "educationLevCode": "_T",
@@ -22863,7 +24649,73 @@
             "refAreaType": "Area",
             "refAreaCode": 860,
             "refAreaDesc": "Uzbekistan",
-            "data": []
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 7.2835,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2014,
+                    "value": 7.3187,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2015,
+                    "value": 7.0788,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2016,
+                    "value": 6.911,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2017,
+                    "value": 6.4134,
+                    "sourceId": 24,
+                    "footnoteId": [
+                        51
+                    ],
+                    "educationLevCode": "_T",
+                    "educationLevDesc": "Total or no breakdown by education level",
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
         },
         {
             "parentRegionId": "5",
@@ -23138,35 +24990,11 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 513,
-            "refAreaDesc": "Northern America and Europe",
-            "data": []
-        },
-        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
             "refAreaCode": 655,
             "refAreaDesc": "Saint Helena (Ascension)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 747,
-            "refAreaDesc": "Northern Africa and Western Asia",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 753,
-            "refAreaDesc": "Eastern and South-Eastern Asia",
             "data": []
         },
         {
@@ -23229,14 +25057,6 @@
             "parentRegionId": "14",
             "parentRegion_DescEN": "Eastern Africa",
             "refAreaType": "Area",
-            "refAreaCode": 835,
-            "refAreaDesc": "United Republic of Tanzania (mainland)",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
             "refAreaCode": 836,
             "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
             "data": []
@@ -23271,14 +25091,6 @@
             "refAreaType": "Area",
             "refAreaCode": 74,
             "refAreaDesc": "Bouvet Island",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -23346,27 +25158,19 @@
             "data": []
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "data": []
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "data": []
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
             "refAreaCode": 744,
             "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 58,
+            "refAreaDesc": "Belgium-Luxembourg",
             "data": []
         },
         {
@@ -23402,35 +25206,19 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 369,
-            "refAreaDesc": "Iraq (Central Iraq)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 370,
-            "refAreaDesc": "Iraq (Kurdistan Region)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 543,
-            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
-            "data": []
-        },
-        {
             "parentRegionId": "1",
             "parentRegion_DescEN": "World",
             "refAreaType": "Region",
             "refAreaCode": 10,
             "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -23607,14 +25395,6 @@
             "refAreaType": "Area",
             "refAreaCode": 582,
             "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
-            "data": []
-        },
-        {
-            "parentRegionId": "47",
-            "parentRegion_DescEN": "Micronesia [former]",
-            "refAreaType": "Area",
-            "refAreaCode": 396,
-            "refAreaDesc": "Johnston Island [former]",
             "data": []
         }
     ]

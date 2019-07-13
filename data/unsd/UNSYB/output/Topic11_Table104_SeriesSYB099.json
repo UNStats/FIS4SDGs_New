@@ -5,7 +5,7 @@
     "tableCode": "crime",
     "tableId": 104,
     "tableName": "Intentional homicides and other crimes",
-    "tableStatusId": 2,
+    "tableStatusId": 7,
     "tbBkCode": "T12 ",
     "tbBkPrint": "Y",
     "newSeriesName": "Intentional homicide rate",
@@ -18,8 +18,8 @@
         {
             "sourceCode": "UNODC",
             "sourceId": 92,
-            "sourceNameEN": "United Nations Office on Drugs and Crime (UNODC), Vienna, UNODC Statistics database, last accessed December 2018.",
-            "sourceNameFR": "Office des Nations Unies contre la drogue et le crime (ONUDC), Vienne, base de donn\u00e9es statistiques de l\u2019ONUDC, dernier acc\u00e8s decembre 2018."
+            "sourceNameEN": "United Nations Office on Drugs and Crime (UNODC), Vienna, UNODC Statistics database, last accessed March 2019.",
+            "sourceNameFR": "Office des Nations Unies contre la drogue et le crime (ONUDC), Vienne, base de donn\u00e9es statistiques de l\u2019ONUDC, dernier acc\u00e8s mars 2019."
         }
     ],
     "footnotes": [
@@ -34,6 +34,12 @@
             "footnoteCode": "break",
             "footnoteTextEN": "Break in the time series.",
             "footnoteTextFR": "Discontinuit\u00e9 dans la s\u00e9rie."
+        },
+        {
+            "footnoteId": 56965,
+            "footnoteCode": "chinastat3",
+            "footnoteTextEN": "For statistical purposes, the data for China do not include those for the Hong Kong Special Administrative Region (Hong Kong SAR), Macao Special Administrative Region (Macao SAR) and Taiwan Province of China.",
+            "footnoteTextFR": "Pour la pr\u00e9sentation des statistiques, les donn\u00e9es pour la Chine ne comprennent pas la r\u00e9gion administrative sp\u00e9ciale de Hong Kong (RAS de Hong Kong), la r\u00e9gion administrative sp\u00e9ciale de Macao (RAS de Macao) et la province chinoise de Ta\u00efwan."
         },
         {
             "footnoteId": 60568,
@@ -316,7 +322,20 @@
             "refAreaType": "Region",
             "refAreaCode": 9,
             "refAreaDesc": "Oceania",
-            "data": []
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 8.84,
+                    "sourceId": 92,
+                    "footnoteId": [
+                        60568,
+                        61207
+                    ],
+                    "units": "Incidents per 100,000 population",
+                    "multiplier": 0,
+                    "baseYear": null
+                }
+            ]
         },
         {
             "parentRegionId": "202",
@@ -673,69 +692,6 @@
                 {
                     "year": 2011,
                     "value": 1.194,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2007,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2009,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2012,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2013,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2014,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2015,
-                    "value": 0.0,
                     "sourceId": 92,
                     "footnoteId": null,
                     "units": "Incidents per 100,000 population",
@@ -5045,9 +5001,7 @@
                     "year": 2005,
                     "value": 10.7192,
                     "sourceId": 92,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5056,9 +5010,7 @@
                     "year": 2010,
                     "value": 9.6837,
                     "sourceId": 92,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5067,9 +5019,7 @@
                     "year": 2015,
                     "value": 9.0403,
                     "sourceId": 92,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5078,9 +5028,7 @@
                     "year": 2000,
                     "value": 11.3778,
                     "sourceId": 92,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5256,7 +5204,9 @@
                     "year": 2003,
                     "value": 1.8673000000000002,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5265,7 +5215,9 @@
                     "year": 2004,
                     "value": 1.8806,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5274,7 +5226,9 @@
                     "year": 2005,
                     "value": 1.5716,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5283,7 +5237,9 @@
                     "year": 2006,
                     "value": 1.3522,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5292,7 +5248,9 @@
                     "year": 2007,
                     "value": 1.2058,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5301,7 +5259,9 @@
                     "year": 2008,
                     "value": 1.1017,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5310,7 +5270,9 @@
                     "year": 2009,
                     "value": 1.0848,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5319,7 +5281,9 @@
                     "year": 2010,
                     "value": 0.9862000000000001,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5328,7 +5292,9 @@
                     "year": 2011,
                     "value": 0.8786,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5337,7 +5303,9 @@
                     "year": 2012,
                     "value": 0.8207,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5346,7 +5314,9 @@
                     "year": 2013,
                     "value": 0.7695000000000001,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5355,7 +5325,9 @@
                     "year": 2014,
                     "value": 0.7253000000000001,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5364,7 +5336,9 @@
                     "year": 2000,
                     "value": 2.093,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5373,7 +5347,9 @@
                     "year": 2001,
                     "value": 2.0093,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5382,7 +5358,9 @@
                     "year": 2002,
                     "value": 2.0233,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5391,7 +5369,9 @@
                     "year": 2015,
                     "value": 0.6585000000000001,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -5400,7 +5380,9 @@
                     "year": 2016,
                     "value": 0.6156,
                     "sourceId": 92,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        56965
+                    ],
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
@@ -16217,6 +16199,14 @@
             ]
         },
         {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
+        },
+        {
             "parentRegionId": "18",
             "parentRegion_DescEN": "Southern Africa",
             "refAreaType": "Area",
@@ -16908,6 +16898,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
+            "data": []
         },
         {
             "parentRegionId": "54",
@@ -19607,6 +19605,14 @@
             ]
         },
         {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
+        },
+        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
@@ -19936,42 +19942,6 @@
                     "units": "Incidents per 100,000 population",
                     "multiplier": 0,
                     "baseYear": null
-                },
-                {
-                    "year": 2001,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2005,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 0.0,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
                 }
             ]
         },
@@ -20118,6 +20088,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
         },
         {
             "parentRegionId": "21",
@@ -22196,6 +22174,14 @@
             ]
         },
         {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
+            "data": []
+        },
+        {
             "parentRegionId": "18",
             "parentRegion_DescEN": "Southern Africa",
             "refAreaType": "Area",
@@ -22455,6 +22441,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
         },
         {
             "parentRegionId": "155",
@@ -24160,7 +24154,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "data": [
                 {
                     "year": 2003,
@@ -25868,35 +25862,11 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 513,
-            "refAreaDesc": "Northern America and Europe",
-            "data": []
-        },
-        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
             "refAreaCode": 655,
             "refAreaDesc": "Saint Helena (Ascension)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 747,
-            "refAreaDesc": "Northern Africa and Western Asia",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 753,
-            "refAreaDesc": "Eastern and South-Eastern Asia",
             "data": []
         },
         {
@@ -26041,14 +26011,6 @@
             "parentRegionId": "14",
             "parentRegion_DescEN": "Eastern Africa",
             "refAreaType": "Area",
-            "refAreaCode": 835,
-            "refAreaDesc": "United Republic of Tanzania (mainland)",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
             "refAreaCode": 836,
             "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
             "data": []
@@ -26083,14 +26045,6 @@
             "refAreaType": "Area",
             "refAreaCode": 74,
             "refAreaDesc": "Bouvet Island",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -26158,27 +26112,19 @@
             "data": []
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "data": []
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "data": []
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
             "refAreaCode": 744,
             "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 58,
+            "refAreaDesc": "Belgium-Luxembourg",
             "data": []
         },
         {
@@ -26214,167 +26160,19 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 369,
-            "refAreaDesc": "Iraq (Central Iraq)",
-            "data": [
-                {
-                    "year": 2008,
-                    "value": 17.9216,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2009,
-                    "value": 9.6282,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 9.7095,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 9.276,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2012,
-                    "value": 9.24,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2013,
-                    "value": 11.1108,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2014,
-                    "value": 10.0812,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                }
-            ]
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 370,
-            "refAreaDesc": "Iraq (Kurdistan Region)",
-            "data": [
-                {
-                    "year": 2008,
-                    "value": 3.3319,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2009,
-                    "value": 2.1615,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 3.0168,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2011,
-                    "value": 2.4563,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2012,
-                    "value": 2.1089,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2013,
-                    "value": 2.1961,
-                    "sourceId": 92,
-                    "footnoteId": null,
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                }
-            ]
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 543,
-            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
-            "data": [
-                {
-                    "year": 2015,
-                    "value": 8.84,
-                    "sourceId": 92,
-                    "footnoteId": [
-                        60568,
-                        61207
-                    ],
-                    "units": "Incidents per 100,000 population",
-                    "multiplier": 0,
-                    "baseYear": null
-                }
-            ]
-        },
-        {
             "parentRegionId": "1",
             "parentRegion_DescEN": "World",
             "refAreaType": "Region",
             "refAreaCode": 10,
             "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -26551,14 +26349,6 @@
             "refAreaType": "Area",
             "refAreaCode": 582,
             "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
-            "data": []
-        },
-        {
-            "parentRegionId": "47",
-            "parentRegion_DescEN": "Micronesia [former]",
-            "refAreaType": "Area",
-            "refAreaCode": 396,
-            "refAreaDesc": "Johnston Island [former]",
             "data": []
         }
     ]

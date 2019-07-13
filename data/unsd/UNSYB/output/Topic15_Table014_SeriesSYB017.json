@@ -5,8 +5,8 @@
     "tableCode": "majtradepa",
     "tableId": 14,
     "tableName": "Major trading partners",
-    "tableStatusId": 1,
-    "tbBkCode": "T22 ",
+    "tableStatusId": 7,
+    "tbBkCode": "T23 ",
     "tbBkPrint": "Y",
     "newSeriesName": "Share of imports from first major trading partner",
     "SELECT": null,
@@ -18,8 +18,8 @@
         {
             "sourceCode": "UNSD_COMTRADE",
             "sourceId": 95,
-            "sourceNameEN": "United Nations Statistics Division, New York, Commodity Trade Statistics Database (UN COMTRADE), last accessed June 2018.\r\n",
-            "sourceNameFR": "Organisation des Nations Unies, Division de statistique, New York, Comtrade base de donn\u00e9es de l'ONU, dernier acc\u00e8s juin 2018."
+            "sourceNameEN": "United Nations Statistics Division, New York, Commodity Trade Statistics Database (UN COMTRADE), last accessed May 2019.\r\n",
+            "sourceNameFR": "Organisation des Nations Unies, Division de statistique, New York, Comtrade base de donn\u00e9es de l'ONU, dernier acc\u00e8s mai 2019."
         }
     ],
     "footnotes": [
@@ -28,6 +28,12 @@
             "footnoteCode": "estimate",
             "footnoteTextEN": "Estimate.",
             "footnoteTextFR": "Donn\u00e9es estimatives."
+        },
+        {
+            "footnoteId": 60911,
+            "footnoteCode": "crimeasevas",
+            "footnoteTextEN": "Excludes the temporarily occupied territory of the Autonomous Republic of Crimea and Sevastopol.",
+            "footnoteTextFR": "Excluent le territoire temporairement occup\u00e9 de la R\u00e9publique autonome de Crim\u00e9e et de S\u00e9bastopol."
         }
     ],
     "refAreas": [
@@ -64,7 +70,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 19.362,
                     "sourceId": 95,
                     "footnoteId": [
@@ -110,10 +116,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 25.9538,
+                    "year": 2018,
+                    "value": 28.6278,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -162,10 +170,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 18.0615,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -248,8 +258,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 67.2763,
+                    "year": 2018,
+                    "value": 68.6321,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -296,8 +306,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 16.859,
+                    "year": 2018,
+                    "value": 20.7375,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -334,10 +344,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 44.301,
+                    "year": 2018,
+                    "value": 43.2253,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -386,10 +398,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 16.7846,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -424,10 +438,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 26.7122,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -459,7 +475,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 13.8485,
+                    "value": 13.8484,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -478,10 +494,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 21.8747,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -514,7 +532,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 38.7429,
+                    "value": 38.743,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -524,8 +542,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 36.8422,
+                    "year": 2018,
+                    "value": 36.5383,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -566,8 +584,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 81.8597,
+                    "year": 2018,
+                    "value": 33.1308,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -604,7 +622,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 21.3935,
                     "sourceId": 95,
                     "footnoteId": [
@@ -644,8 +662,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.5348,
+                    "year": 2018,
+                    "value": 30.9398,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -682,8 +700,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 28.7232,
+                    "year": 2018,
+                    "value": 26.2168,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -718,8 +736,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 39.5446,
+                    "year": 2018,
+                    "value": 39.5713,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -770,10 +788,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 17.2005,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -814,8 +834,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 66.4724,
+                    "year": 2018,
+                    "value": 69.3804,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -866,8 +886,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 80.1878,
+                    "year": 2018,
+                    "value": 77.0747,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -904,8 +924,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.7938,
+                    "year": 2018,
+                    "value": 20.7232,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -940,10 +960,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 11.5981,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -976,10 +998,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 64.3275,
+                    "year": 2018,
+                    "value": 64.3036,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1004,7 +1028,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 14.0814,
+                    "value": 14.0813,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -1012,10 +1036,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 18.1238,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1048,10 +1074,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 35.644,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1084,10 +1112,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 19.9218,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1102,30 +1132,8 @@
             "refAreaDesc": "British Virgin Islands",
             "data": [
                 {
-                    "year": 2005,
-                    "value": 8.8578,
-                    "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 9.9156,
-                    "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2017,
-                    "value": 39.4934,
+                    "year": 2018,
+                    "value": 48.4468,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -1164,10 +1172,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 20.809,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1200,10 +1210,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 12.2439,
+                    "year": 2018,
+                    "value": 12.2285,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1238,10 +1250,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 31.7645,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1274,10 +1288,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 14.248,
+                    "year": 2018,
+                    "value": 13.9914,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1310,12 +1326,10 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 54.2306,
+                    "year": 2018,
+                    "value": 58.6231,
                     "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1348,7 +1362,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 36.7872,
                     "sourceId": 95,
                     "footnoteId": [
@@ -1386,10 +1400,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.3675,
+                    "year": 2018,
+                    "value": 17.2225,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1405,7 +1421,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 56.4921,
+                    "value": 56.4919,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -1414,7 +1430,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 50.3806,
+                    "value": 50.3808,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -1422,10 +1438,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 51.3631,
+                    "year": 2018,
+                    "value": 51.3332,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1452,16 +1470,20 @@
                     "year": 2010,
                     "value": 45.4963,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 42.9325,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1490,16 +1512,20 @@
                     "year": 2010,
                     "value": 11.709,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 85.3669,
+                    "year": 2018,
+                    "value": 20.5463,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1534,10 +1560,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.1357,
+                    "year": 2018,
+                    "value": 26.1334,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1586,10 +1614,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 21.0829,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1613,7 +1643,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 23.5237,
+                    "value": 3.7457000000000003,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -1624,18 +1654,22 @@
                 },
                 {
                     "year": 2010,
-                    "value": 12.2154,
+                    "value": 22.5426,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.6126,
+                    "year": 2018,
+                    "value": 20.7491,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1678,14 +1712,16 @@
                     "year": 2010,
                     "value": 16.7542,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 23.8309,
+                    "year": 2018,
+                    "value": 23.5948,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -1736,10 +1772,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 10.0115,
+                    "year": 2018,
+                    "value": 9.6298,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1774,7 +1812,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 19.0599,
                     "sourceId": 95,
                     "footnoteId": [
@@ -1812,10 +1850,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 26.665,
+                    "year": 2018,
+                    "value": 26.2673,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1848,10 +1888,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 38.4308,
+                    "year": 2018,
+                    "value": 27.3262,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1874,30 +1916,12 @@
             "refAreaDesc": "Congo",
             "data": [
                 {
-                    "year": 2005,
-                    "value": 9.2125,
+                    "year": 2018,
+                    "value": 10.1771,
                     "sourceId": 95,
                     "footnoteId": [
                         51
                     ],
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2010,
-                    "value": 3.484,
-                    "sourceId": 95,
-                    "footnoteId": null,
-                    "units": "Percent",
-                    "multiplier": 0,
-                    "baseYear": null
-                },
-                {
-                    "year": 2017,
-                    "value": 25.9434,
-                    "sourceId": 95,
-                    "footnoteId": null,
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1924,18 +1948,22 @@
                 },
                 {
                     "year": 2010,
-                    "value": 10.7937,
+                    "value": 10.7936,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 19.712,
+                    "year": 2018,
+                    "value": 18.1487,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -1970,10 +1998,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 54.1994,
+                    "year": 2018,
+                    "value": 52.1765,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -2006,10 +2036,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 37.2755,
+                    "year": 2018,
+                    "value": 38.3655,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -2042,10 +2074,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 15.7935,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -2072,14 +2106,16 @@
                     "year": 2010,
                     "value": 18.5793,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 26.2231,
+                    "year": 2018,
+                    "value": 21.3268,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2116,10 +2152,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 18.638,
+                    "year": 2018,
+                    "value": 18.8838,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -2160,8 +2198,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 25.769,
+                    "year": 2018,
+                    "value": 24.7162,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2190,14 +2228,16 @@
                     "year": 2010,
                     "value": 0.8609,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 14.8934,
+                    "year": 2018,
+                    "value": 19.0037,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2234,8 +2274,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.384,
+                    "year": 2018,
+                    "value": 22.4918,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2270,8 +2310,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 57.021,
+                    "year": 2018,
+                    "value": 48.1088,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2308,10 +2348,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 44.4325,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -2346,8 +2388,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 19.9556,
+                    "year": 2018,
+                    "value": 21.7667,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2374,7 +2416,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 37.0149,
+                    "value": 33.002,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2382,10 +2424,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 31.8251,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -2422,8 +2466,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 19.5857,
+                    "year": 2018,
+                    "value": 20.9501,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2460,7 +2504,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 31.8815,
                     "sourceId": 95,
                     "footnoteId": [
@@ -2492,7 +2536,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 10.8848,
+                    "value": 10.8847,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2502,8 +2546,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 26.7402,
+                    "year": 2018,
+                    "value": 28.8818,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2523,7 +2567,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 11.7207,
+                    "value": 12.7835,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2532,7 +2576,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 11.5254,
+                    "value": 10.5962,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2540,8 +2584,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 10.6775,
+                    "year": 2018,
+                    "value": 9.966,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2578,8 +2622,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 59.9185,
+                    "year": 2018,
+                    "value": 56.5552,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2620,8 +2664,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 47.9039,
+                    "year": 2018,
+                    "value": 54.1689,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2658,8 +2702,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 19.1252,
+                    "year": 2018,
+                    "value": 20.8446,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2698,8 +2742,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 15.2123,
+                    "year": 2018,
+                    "value": 15.1944,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2734,8 +2778,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 16.8668,
+                    "year": 2018,
+                    "value": 15.8338,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2780,8 +2824,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 25.5618,
+                    "year": 2018,
+                    "value": 44.5071,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2822,8 +2866,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 50.5798,
+                    "year": 2018,
+                    "value": 49.2283,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2862,8 +2906,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 26.3815,
+                    "year": 2018,
+                    "value": 20.698900000000002,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2900,8 +2944,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 17.2189,
+                    "year": 2018,
+                    "value": 16.1151,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -2936,8 +2980,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 16.817,
+                    "year": 2018,
+                    "value": 29.2311,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -2974,7 +3018,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 58.2275,
                     "sourceId": 95,
                     "footnoteId": [
@@ -3004,7 +3048,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 9.5027,
+                    "value": 9.5028,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3012,10 +3056,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 9.8139,
+                    "year": 2018,
+                    "value": 9.9745,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -3048,12 +3094,10 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 17.2924,
+                    "year": 2018,
+                    "value": 19.1289,
                     "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -3079,8 +3123,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 38.4426,
+                    "year": 2018,
+                    "value": 59.8365,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3117,7 +3161,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 21.8243,
                     "sourceId": 95,
                     "footnoteId": [
@@ -3155,8 +3199,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 10.2097,
+                    "year": 2018,
+                    "value": 10.0765,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3193,7 +3237,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 72.1725,
                     "sourceId": 95,
                     "footnoteId": [
@@ -3233,8 +3277,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 36.0983,
+                    "year": 2018,
+                    "value": 42.0216,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3287,8 +3331,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 38.5059,
+                    "year": 2018,
+                    "value": 39.927,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3308,7 +3352,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 14.3533,
+                    "value": 3.9388,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3317,7 +3361,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 1.6938,
+                    "value": 6.7211,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3327,8 +3371,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 22.345,
+                    "year": 2018,
+                    "value": 30.7027,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3348,7 +3392,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 33.3108,
+                    "value": 31.1298,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3357,7 +3401,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 21.9802,
+                    "value": 27.6677,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3365,8 +3409,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 27.4913,
+                    "year": 2018,
+                    "value": 57.0179,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3405,8 +3449,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 34.1151,
+                    "year": 2018,
+                    "value": 34.7676,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3451,10 +3495,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 34.6852,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -3470,7 +3516,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 44.9647,
+                    "value": 44.9646,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3479,7 +3525,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 44.6542,
+                    "value": 44.6541,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3487,8 +3533,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 44.5574,
+                    "year": 2018,
+                    "value": 44.7896,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3523,10 +3569,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 26.5388,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -3542,7 +3590,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 13.8427,
+                    "value": 6.9791,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3551,7 +3599,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 7.5096,
+                    "value": 9.056,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3559,8 +3607,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 10.5925,
+                    "year": 2018,
+                    "value": 11.4815,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3597,10 +3645,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 16.563,
+                    "year": 2018,
+                    "value": 16.1969,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -3633,8 +3683,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.9335,
+                    "year": 2018,
+                    "value": 24.131,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3671,8 +3721,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 31.7787,
+                    "year": 2018,
+                    "value": 25.4109,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3711,8 +3761,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 68.2334,
+                    "year": 2018,
+                    "value": 68.4116,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3751,8 +3801,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 22.0568,
+                    "year": 2018,
+                    "value": 21.9281,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3791,8 +3841,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 13.1395,
+                    "year": 2018,
+                    "value": 13.666,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3827,10 +3877,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 16.3341,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -3846,7 +3898,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 24.5329,
+                    "value": 3.0546,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3855,7 +3907,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 26.3009,
+                    "value": 6.9535,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3865,8 +3917,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 15.1503,
+                    "year": 2018,
+                    "value": 13.4709,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -3903,10 +3955,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 43.6874,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -3922,7 +3976,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 21.0283,
+                    "value": 21.0282,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -3939,10 +3993,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 24.4952,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -3975,10 +4031,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 39.0954,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -4011,10 +4069,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 13.5461,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -4047,8 +4107,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 35.6931,
+                    "year": 2018,
+                    "value": 22.639,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4079,7 +4139,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 62.8177,
+                    "value": 62.8179,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4089,8 +4149,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 91.4296,
+                    "year": 2018,
+                    "value": 92.6577,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4127,10 +4187,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 20.4526,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -4165,10 +4227,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 16.3729,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -4201,8 +4265,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 33.3871,
+                    "year": 2018,
+                    "value": 40.2159,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4239,7 +4303,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 61.8803,
                     "sourceId": 95,
                     "footnoteId": [
@@ -4268,7 +4332,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 7.8742,
+                    "value": 2.0925,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4279,7 +4343,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 9.1179,
+                    "value": 1.8892,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4287,8 +4351,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 11.1962,
+                    "year": 2018,
+                    "value": 29.571,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4327,8 +4391,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 86.6923,
+                    "year": 2018,
+                    "value": 70.738,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4365,8 +4429,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 18.5653,
+                    "year": 2018,
+                    "value": 17.4848,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4383,8 +4447,8 @@
             "refAreaDesc": "Liberia",
             "data": [
                 {
-                    "year": 2017,
-                    "value": 60.1266,
+                    "year": 2018,
+                    "value": 82.2435,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4404,7 +4468,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 3.2807,
+                    "value": 18.3099,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4415,7 +4479,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 9.7577,
+                    "value": 9.4144,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4423,8 +4487,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 13.3604,
+                    "year": 2018,
+                    "value": 12.7409,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4469,8 +4533,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 12.9791,
+                    "year": 2018,
+                    "value": 14.749600000000001,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4507,10 +4571,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 24.272100000000002,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -4543,7 +4609,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 31.4195,
                     "sourceId": 95,
                     "footnoteId": [
@@ -4583,8 +4649,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.3157,
+                    "year": 2018,
+                    "value": 20.7561,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4621,8 +4687,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 18.0539,
+                    "year": 2018,
+                    "value": 17.7522,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4659,10 +4725,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 19.623,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -4695,8 +4763,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 15.6756,
+                    "year": 2018,
+                    "value": 18.5611,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4733,8 +4801,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 19.414,
+                    "year": 2018,
+                    "value": 20.5181,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4771,7 +4839,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 19.1908,
                     "sourceId": 95,
                     "footnoteId": [
@@ -4819,10 +4887,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 18.0802,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -4855,10 +4925,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 16.3963,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -4883,7 +4955,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 48.245,
+                    "value": 48.2452,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4891,8 +4963,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 46.3859,
+                    "year": 2018,
+                    "value": 46.5856,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -4937,8 +5009,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 31.1483,
+                    "year": 2018,
+                    "value": 32.5676,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -4975,10 +5047,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 14.3753,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5002,10 +5076,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 21.5195,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5040,8 +5116,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 47.5557,
+                    "year": 2018,
+                    "value": 52.9902,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5078,8 +5154,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 15.7174,
+                    "year": 2018,
+                    "value": 16.8753,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5118,12 +5194,10 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 29.9774,
+                    "year": 2018,
+                    "value": 26.1234,
                     "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5156,8 +5230,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 45.0579,
+                    "year": 2018,
+                    "value": 38.8983,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5167,6 +5241,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 513,
+            "refAreaDesc": "Northern America and Europe",
+            "data": []
         },
         {
             "parentRegionId": "18",
@@ -5196,8 +5278,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 57.1797,
+                    "year": 2018,
+                    "value": 55.1203,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5244,10 +5326,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 64.9512,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5272,7 +5356,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 20.3414,
+                    "value": 20.3427,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5280,8 +5364,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 18.233,
+                    "year": 2018,
+                    "value": 18.465,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5328,8 +5412,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 55.074,
+                    "year": 2018,
+                    "value": 52.2586,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5382,8 +5466,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 25.6899,
+                    "year": 2018,
+                    "value": 40.718,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5393,6 +5477,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 543,
+            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
+            "data": []
         },
         {
             "parentRegionId": "54",
@@ -5422,8 +5514,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 17.997,
+                    "year": 2018,
+                    "value": 19.5793,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5460,8 +5552,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 19.309,
+                    "year": 2018,
+                    "value": 19.7627,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5496,10 +5588,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 23.4691,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5532,7 +5626,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 28.3441,
                     "sourceId": 95,
                     "footnoteId": [
@@ -5572,10 +5666,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 18.7007,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5616,10 +5712,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 11.4812,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5654,8 +5752,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 66.1347,
+                    "year": 2018,
+                    "value": 71.2277,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5692,8 +5790,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 26.1866,
+                    "year": 2018,
+                    "value": 25.3202,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5712,10 +5810,12 @@
             "refAreaDesc": "Marshall Islands",
             "data": [
                 {
-                    "year": 2017,
-                    "value": 87.4405,
+                    "year": 2018,
+                    "value": 95.2218,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5733,7 +5833,9 @@
                     "year": 2005,
                     "value": 31.492,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5748,10 +5850,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 35.8416,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5769,9 +5873,7 @@
                     "year": 2005,
                     "value": 9.3614,
                     "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5786,8 +5888,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 26.7817,
+                    "year": 2018,
+                    "value": 24.1755,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5824,7 +5926,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 31.3296,
                     "sourceId": 95,
                     "footnoteId": [
@@ -5866,8 +5968,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 30.7493,
+                    "year": 2018,
+                    "value": 29.809,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -5904,8 +6006,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 30.9184,
+                    "year": 2018,
+                    "value": 28.23,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5940,10 +6042,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 22.2846,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -5976,8 +6080,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 18.1352,
+                    "year": 2018,
+                    "value": 19.6277,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -5995,7 +6099,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 24.6737,
+                    "value": 24.6738,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6004,7 +6108,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 21.6992,
+                    "value": 21.6993,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6012,10 +6116,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 22.6942,
+                    "year": 2018,
+                    "value": 22.6943,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -6048,8 +6154,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 31.985500000000002,
+                    "year": 2018,
+                    "value": 31.4588,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6086,8 +6192,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 26.6412,
+                    "year": 2018,
+                    "value": 30.2289,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6126,8 +6232,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 36.9181,
+                    "year": 2018,
+                    "value": 31.8843,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6172,7 +6278,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 14.3683,
                     "sourceId": 95,
                     "footnoteId": [
@@ -6218,10 +6324,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 20.0744,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -6246,7 +6354,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 17.02,
+                    "value": 17.0201,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6254,10 +6362,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.1976,
+                    "year": 2018,
+                    "value": 21.1966,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -6290,7 +6400,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 21.2438,
                     "sourceId": 95,
                     "footnoteId": [
@@ -6303,6 +6413,14 @@
             ]
         },
         {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 652,
+            "refAreaDesc": "Saint Barth\u00e9lemy",
+            "data": []
+        },
+        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
@@ -6311,7 +6429,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 13.9486,
+                    "value": 49.3913,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6322,7 +6440,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 14.1345,
+                    "value": 45.8638,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6332,8 +6450,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 42.534,
+                    "year": 2018,
+                    "value": 44.6445,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6370,10 +6488,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 67.0489,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -6410,8 +6530,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 69.17,
+                    "year": 2018,
+                    "value": 61.6906,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6448,8 +6568,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 46.9212,
+                    "year": 2018,
+                    "value": 43.8257,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6459,6 +6579,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": "29",
+            "parentRegion_DescEN": "Caribbean",
+            "refAreaType": "Area",
+            "refAreaCode": 663,
+            "refAreaDesc": "Saint Martin (French part)",
+            "data": []
         },
         {
             "parentRegionId": "21",
@@ -6490,8 +6618,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 58.6662,
+                    "year": 2018,
+                    "value": 57.4346,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6528,8 +6656,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 38.167,
+                    "year": 2018,
+                    "value": 37.870400000000004,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6576,10 +6704,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 54.4637,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -6612,8 +6742,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 14.5157,
+                    "year": 2018,
+                    "value": 14.1939,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6650,10 +6780,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 14.7121,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -6677,8 +6809,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 12.6712,
+                    "year": 2018,
+                    "value": 13.4239,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6695,8 +6827,8 @@
             "refAreaDesc": "Seychelles",
             "data": [
                 {
-                    "year": 2010,
-                    "value": 0.0,
+                    "year": 2005,
+                    "value": 3.7695,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6704,8 +6836,17 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 30.8062,
+                    "year": 2010,
+                    "value": 47.9623,
+                    "sourceId": 95,
+                    "footnoteId": null,
+                    "units": "Percent",
+                    "multiplier": 0,
+                    "baseYear": null
+                },
+                {
+                    "year": 2018,
+                    "value": 25.5543,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6736,7 +6877,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 12.1588,
+                    "value": 12.1587,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6746,8 +6887,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 12.565,
+                    "year": 2018,
+                    "value": 16.7812,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6784,10 +6925,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 13.836500000000001,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -6820,10 +6963,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 16.6922,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -6856,8 +7001,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 28.5965,
+                    "year": 2018,
+                    "value": 27.4523,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6886,7 +7031,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 16.1758,
+                    "value": 16.1759,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -6894,10 +7039,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 17.0873,
+                    "year": 2018,
+                    "value": 17.0807,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -6934,8 +7081,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 18.924,
+                    "year": 2018,
+                    "value": 18.4502,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -6972,10 +7119,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 18.3353,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -7008,12 +7157,10 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 41.2951,
+                    "year": 2018,
+                    "value": 39.28,
                     "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -7046,10 +7193,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 12.5086,
+                    "year": 2018,
+                    "value": 12.5087,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -7064,8 +7213,8 @@
             "refAreaDesc": "South Sudan",
             "data": [
                 {
-                    "year": 2017,
-                    "value": 69.0345,
+                    "year": 2018,
+                    "value": 46.789,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7084,8 +7233,8 @@
             "refAreaDesc": "Sudan",
             "data": [
                 {
-                    "year": 2017,
-                    "value": 22.7613,
+                    "year": 2018,
+                    "value": 21.9956,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7130,15 +7279,25 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 31.7803,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 747,
+            "refAreaDesc": "Northern Africa and Western Asia",
+            "data": []
         },
         {
             "parentRegionId": "18",
@@ -7158,7 +7317,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 81.1729,
+                    "value": 81.1738,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7168,8 +7327,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 78.6802,
+                    "year": 2018,
+                    "value": 77.6294,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7189,7 +7348,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 18.1408,
+                    "value": 18.1407,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7206,8 +7365,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 18.7239,
+                    "year": 2018,
+                    "value": 17.919,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7215,6 +7374,14 @@
                     "baseYear": null
                 }
             ]
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Region",
+            "refAreaCode": 753,
+            "refAreaDesc": "Eastern and South-Eastern Asia",
+            "data": []
         },
         {
             "parentRegionId": "155",
@@ -7225,7 +7392,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 31.567,
+                    "value": 31.5671,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7234,7 +7401,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 31.9295,
+                    "value": 31.9296,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7242,8 +7409,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 20.6811,
+                    "year": 2018,
+                    "value": 20.7377,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7278,8 +7445,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 28.0179,
+                    "year": 2018,
+                    "value": 25.2593,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7320,8 +7487,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 51.1017,
+                    "year": 2018,
+                    "value": 38.9758,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7358,7 +7525,7 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 21.5879,
                     "sourceId": 95,
                     "footnoteId": [
@@ -7396,10 +7563,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 19.6333,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -7425,8 +7594,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 69.5368,
+                    "year": 2018,
+                    "value": 80.9954,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7463,8 +7632,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 31.6611,
+                    "year": 2018,
+                    "value": 26.8515,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7501,8 +7670,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 31.9515,
+                    "year": 2018,
+                    "value": 31.6721,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7539,8 +7708,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 30.1891,
+                    "year": 2018,
+                    "value": 30.189,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7560,29 +7729,25 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 23.4715,
+                    "value": 20.9299,
                     "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 },
                 {
                     "year": 2010,
-                    "value": 18.9196,
+                    "value": 17.5881,
                     "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 15.4444,
+                    "year": 2018,
+                    "value": 15.5787,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7613,7 +7778,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 9.2597,
+                    "value": 9.2596,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7621,10 +7786,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 9.9964,
+                    "year": 2018,
+                    "value": 9.996,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -7661,8 +7828,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 26.6306,
+                    "year": 2018,
+                    "value": 25.9765,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7701,8 +7868,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 89.9006,
+                    "year": 2018,
+                    "value": 88.0806,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7741,8 +7908,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 27.6671,
+                    "year": 2018,
+                    "value": 22.7669,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7779,8 +7946,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 18.3504,
+                    "year": 2018,
+                    "value": 17.6192,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -7817,10 +7984,13 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 14.5564,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51,
+                        60911
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -7832,7 +8002,7 @@
             "parentRegion_DescEN": "Southern Europe",
             "refAreaType": "Area",
             "refAreaCode": 807,
-            "refAreaDesc": "The former Yugoslav Republic of Macedonia",
+            "refAreaDesc": "North Macedonia",
             "data": [
                 {
                     "year": 2005,
@@ -7853,8 +8023,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 11.7922,
+                    "year": 2018,
+                    "value": 11.604,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7889,10 +8059,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 12.2181,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -7925,8 +8097,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 13.9342,
+                    "year": 2018,
+                    "value": 13.674900000000001,
                     "sourceId": 95,
                     "footnoteId": null,
                     "units": "Percent",
@@ -7977,8 +8149,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 20.8033,
+                    "year": 2018,
+                    "value": 19.3718,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -8015,10 +8187,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 21.8465,
+                    "year": 2018,
+                    "value": 21.8503,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -8059,8 +8233,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 14.4517,
+                    "year": 2018,
+                    "value": 13.9553,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -8097,10 +8271,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 20.0265,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -8137,8 +8313,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 23.6994,
+                    "year": 2018,
+                    "value": 24.4593,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -8175,8 +8351,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 33.2673,
+                    "year": 2018,
+                    "value": 41.6776,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -8215,8 +8391,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 26.4185,
+                    "year": 2018,
+                    "value": 37.4328,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -8253,10 +8429,12 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
+                    "year": 2018,
                     "value": 26.4114,
                     "sourceId": 95,
-                    "footnoteId": null,
+                    "footnoteId": [
+                        51
+                    ],
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -8272,7 +8450,7 @@
             "data": [
                 {
                     "year": 2005,
-                    "value": 8.1656,
+                    "value": 6.4349,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -8283,7 +8461,7 @@
                 },
                 {
                     "year": 2010,
-                    "value": 11.6859,
+                    "value": 7.9061,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -8293,8 +8471,8 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 11.4745,
+                    "year": 2018,
+                    "value": 22.2449,
                     "sourceId": 95,
                     "footnoteId": [
                         51
@@ -8331,12 +8509,10 @@
                     "baseYear": null
                 },
                 {
-                    "year": 2017,
-                    "value": 30.9241,
+                    "year": 2018,
+                    "value": 28.8191,
                     "sourceId": 95,
-                    "footnoteId": [
-                        51
-                    ],
+                    "footnoteId": null,
                     "units": "Percent",
                     "multiplier": 0,
                     "baseYear": null
@@ -8392,35 +8568,11 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 513,
-            "refAreaDesc": "Northern America and Europe",
-            "data": []
-        },
-        {
             "parentRegionId": "11",
             "parentRegion_DescEN": "Western Africa",
             "refAreaType": "Area",
             "refAreaCode": 655,
             "refAreaDesc": "Saint Helena (Ascension)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 747,
-            "refAreaDesc": "Northern Africa and Western Asia",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 753,
-            "refAreaDesc": "Eastern and South-Eastern Asia",
             "data": []
         },
         {
@@ -8483,14 +8635,6 @@
             "parentRegionId": "14",
             "parentRegion_DescEN": "Eastern Africa",
             "refAreaType": "Area",
-            "refAreaCode": 835,
-            "refAreaDesc": "United Republic of Tanzania (mainland)",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
             "refAreaCode": 836,
             "refAreaDesc": "United Republic of Tanzania (Zanzibar)",
             "data": []
@@ -8525,14 +8669,6 @@
             "refAreaType": "Area",
             "refAreaCode": 74,
             "refAreaDesc": "Bouvet Island",
-            "data": []
-        },
-        {
-            "parentRegionId": "14",
-            "parentRegion_DescEN": "Eastern Africa",
-            "refAreaType": "Area",
-            "refAreaCode": 86,
-            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -8600,27 +8736,19 @@
             "data": []
         },
         {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 652,
-            "refAreaDesc": "Saint Barth\u00e9lemy",
-            "data": []
-        },
-        {
-            "parentRegionId": "29",
-            "parentRegion_DescEN": "Caribbean",
-            "refAreaType": "Area",
-            "refAreaCode": 663,
-            "refAreaDesc": "Saint Martin (French part)",
-            "data": []
-        },
-        {
             "parentRegionId": "154",
             "parentRegion_DescEN": "Northern Europe",
             "refAreaType": "Area",
             "refAreaCode": 744,
             "refAreaDesc": "Svalbard and Jan Mayen Islands",
+            "data": []
+        },
+        {
+            "parentRegionId": null,
+            "parentRegion_DescEN": null,
+            "refAreaType": "Area",
+            "refAreaCode": 58,
+            "refAreaDesc": "Belgium-Luxembourg",
             "data": []
         },
         {
@@ -8656,35 +8784,19 @@
             "data": []
         },
         {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 369,
-            "refAreaDesc": "Iraq (Central Iraq)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": null,
-            "refAreaCode": 370,
-            "refAreaDesc": "Iraq (Kurdistan Region)",
-            "data": []
-        },
-        {
-            "parentRegionId": null,
-            "parentRegion_DescEN": null,
-            "refAreaType": "Region",
-            "refAreaCode": 543,
-            "refAreaDesc": "Oceania (exc. Australia and New Zealand)",
-            "data": []
-        },
-        {
             "parentRegionId": "1",
             "parentRegion_DescEN": "World",
             "refAreaType": "Region",
             "refAreaCode": 10,
             "refAreaDesc": "Antarctica",
+            "data": []
+        },
+        {
+            "parentRegionId": "14",
+            "parentRegion_DescEN": "Eastern Africa",
+            "refAreaType": "Area",
+            "refAreaCode": 86,
+            "refAreaDesc": "British Indian Ocean Territory",
             "data": []
         },
         {
@@ -8861,14 +8973,6 @@
             "refAreaType": "Area",
             "refAreaCode": 582,
             "refAreaDesc": "Pacific Islands (Trust Territory) [former]",
-            "data": []
-        },
-        {
-            "parentRegionId": "47",
-            "parentRegion_DescEN": "Micronesia [former]",
-            "refAreaType": "Area",
-            "refAreaCode": 396,
-            "refAreaDesc": "Johnston Island [former]",
             "data": []
         }
     ]
