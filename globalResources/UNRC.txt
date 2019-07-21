@@ -1,0 +1,131 @@
+refAreaCode	refAreaDesc
+4	Afghanistan
+8	Albania
+12	Algeria
+24	Angola
+32	Argentina
+51	Armenia
+31	Azerbaijan
+48	Bahrain
+50	Bangladesh
+52	Barbados
+112	Belarus
+84	Belize
+204	Benin
+64	Bhutan
+68	Bolivia  Plurinational State of 
+70	Bosnia and Herzegovina
+72	Botswana
+76	Brazil
+854	Burkina Faso
+108	Burundi
+132	Cabo Verde
+116	Cambodia
+120	Cameroon
+140	Central African Republic
+148	Chad
+152	Chile
+156	China
+170	Colombia
+174	Comoros
+178	Congo
+188	Costa Rica
+384	Côte d'Ivoire
+192	Cuba
+408	Democratic People's Republic of Korea
+180	Democratic Republic of the Congo
+262	Djibouti
+214	Dominican Republic
+218	Ecuador
+818	Egypt
+222	El Salvador
+226	Equatorial Guinea
+232	Eritrea
+748	Eswatini
+231	Ethiopia
+242	Fiji
+266	Gabon
+270	Gambia
+268	Georgia
+288	Ghana
+320	Guatemala
+324	Guinea
+624	Guinea Bissau
+328	Guyana
+332	Haiti
+340	Honduras
+356	India
+360	Indonesia
+364	Iran (Islamic Republic of)
+368	Iraq
+388	Jamaica
+400	Jordan
+398	Kazakhstan
+404	Kenya
+414	Kuwait
+417	Kyrgyzstan
+418	Lao People's Democratic Republic
+422	Lebanon
+426	Lesotho
+430	Liberia
+434	Libya
+450	Madagascar
+454	Malawi
+458	Malaysia
+462	Maldives
+466	Mali
+478	Mauritania
+480	Mauritius
+484	Mexico
+496	Mongolia
+499	Montenegro
+504	Morocco
+508	Mozambique
+104	Myanmar
+516	Namibia
+524	Nepal
+558	Nicaragua
+562	Niger
+566	Nigeria
+807	North Macedonia
+586	Pakistan
+591	Panama
+598	Papua New Guinea
+600	Paraguay
+604	Peru
+608	Philippines
+498	Republic of Moldova
+646	Rwanda
+882	Samoa
+678	Sao Tome And Principe
+682	Saudi Arabia
+686	Senegal
+688	Serbia
+694	Sierra Leone
+706	Somalia
+710	South Africa
+728	South Sudan
+144	Sri Lanka
+275	State of Palestine
+729	Sudan
+740	Suriname
+760	Syrian Arab Republic
+762	Tajikistan
+764	Thailand
+626	Timor Leste
+768	Togo
+780	Trinidad and Tobago
+788	Tunisia
+792	Turkey
+795	Turkmenistan
+800	Uganda
+804	Ukraine
+784	United Arab Emirates
+834	United Republic of Tanzania
+858	Uruguay
+860	Uzbekistan
+862	Venezuela  Bolivarian Republic of 
+704	Viet Nam
+887	Yemen
+894	Zambia
+716	Zimbabwe
