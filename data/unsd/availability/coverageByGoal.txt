@@ -1,0 +1,18 @@
+Goal	recentCoverage	oldCoverage	noCoverage
+Goal 1	4	2	8
+Goal 10	5		6
+Goal 11	4		11
+Goal 12	3		10
+Goal 13	1		7
+Goal 14	3		7
+Goal 15	10		4
+Goal 16	7	1	15
+Goal 17	13	1	11
+Goal 2	9	2	2
+Goal 3	21	3	3
+Goal 4	5		6
+Goal 5	2	1	11
+Goal 6	8		3
+Goal 7	5		1
+Goal 8	7		10
+Goal 9	9	1	2
