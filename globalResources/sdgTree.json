@@ -32,12 +32,12 @@
                             {
                                 "code": "SI_POV_DAY1",
                                 "description": "Proportion of population below international poverty line (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_POV_EMP1",
                                 "description": "Employed population below international poverty line, by sex and age (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -67,7 +67,7 @@
                             {
                                 "code": "SI_POV_NAHC",
                                 "description": "Proportion of population living below the national poverty line (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -109,77 +109,77 @@
                             {
                                 "code": "SI_COV_MATNL",
                                 "description": "[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_POOR",
                                 "description": "[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_SOCAST",
                                 "description": "[World Bank] Proportion of population covered by social assistance programs (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_SOCASTPQ",
                                 "description": "[World Bank] Poorest quintile covered by social assistance programs (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_SOCINS",
                                 "description": "[World Bank] Proportion of population covered by social insurance programs (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_CHLD",
                                 "description": "[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_SOCINSPQ",
                                 "description": "[World Bank] Poorest quintile covered by social insurance programs (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_UEMP",
                                 "description": "[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_VULN",
                                 "description": "[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_WKINJRY",
                                 "description": "[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_BENFTS",
                                 "description": "[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_DISAB",
                                 "description": "[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_LMKT",
                                 "description": "[World Bank] Proportion of population covered by labour market programs (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_LMKTPQ",
                                 "description": "[World Bank] Poorest quintile covered by labour market programs (%) ",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_COV_PENSN",
                                 "description": "[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -209,12 +209,12 @@
                             {
                                 "code": "SP_ACS_BSRVH2O",
                                 "description": "Proportion of population using basic drinking water services, by location (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SP_ACS_BSRVSAN",
                                 "description": "Proportion of population using basic sanitation services, by location (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -256,67 +256,52 @@
                             {
                                 "code": "VC_DSR_MISS",
                                 "description": "Number of missing persons due to disaster (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_AFFCT",
                                 "description": "Number of people affected by disaster (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_MORT",
                                 "description": "Number of deaths due to disaster (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_MTMP",
                                 "description": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_MTMN",
                                 "description": "Number of deaths and missing persons attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_MMHN",
-                                "description": "Number of deaths and missing persons attributed to disasters, by hazard type (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_DAFF",
                                 "description": "Number of directly affected persons attributed to disasters per 100,000 population (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_IJILN",
                                 "description": "Number of injured or ill people attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_PDAN",
                                 "description": "Number of people whose damaged dwellings were attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_DDHN",
-                                "description": "Number damaged dwellings attributed to disasters, by hazard type (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_PDYN",
                                 "description": "Number of people whose destroyed dwellings were attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_PDLN",
                                 "description": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_DYHN",
-                                "description": "Number destroyed dwellings attributed to disasters, by hazard type (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -334,48 +319,38 @@
                         "series": [
                             {
                                 "code": "VC_DSR_GDPLS",
-                                "description": "Direct economic loss attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "description": "Direct economic loss attributed to disasters (current United States dollars)",
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_LSGP",
                                 "description": "Direct economic loss attributed to disasters relative to GDP (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_AGLN",
-                                "description": "Direct agriculture loss attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_AGLH",
-                                "description": "Direct agriculture loss attributed to disasters, by hazard type (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "description": "Direct agriculture loss attributed to disasters (current United States dollars)",
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_HOLN",
-                                "description": "Direct economic loss in the housing sector attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_HOLH",
-                                "description": "Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "description": "Direct economic loss in the housing sector attributed to disasters (current United States dollars)",
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_CILN",
-                                "description": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "description": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)",
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_CHLN",
                                 "description": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_DDPA",
                                 "description": "Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -394,7 +369,7 @@
                             {
                                 "code": "SG_DSR_LGRGSR",
                                 "description": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -413,17 +388,17 @@
                             {
                                 "code": "SG_DSR_SILS",
                                 "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_DSR_SILN",
                                 "description": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_GOV_LOGV",
                                 "description": "Number of local governments (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -465,7 +440,7 @@
                             {
                                 "code": "SD_XPD_ESED",
                                 "description": "Proportion of total government spending on essential services, education (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -541,12 +516,12 @@
                             {
                                 "code": "SN_ITK_DEFC",
                                 "description": "Prevalence of undernourishment (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SN_ITK_DEFCN",
                                 "description": "Number of undernourish people (millions)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -565,12 +540,12 @@
                             {
                                 "code": "AG_PRD_FIESSI",
                                 "description": "Prevalence of severe food insecurity in the adult population (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_PRD_FIESSIN",
                                 "description": "Total population in severe food insecurity (thousands of people)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -600,12 +575,12 @@
                             {
                                 "code": "SH_STA_STUNT",
                                 "description": "Proportion of children moderately or severely stunted (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_STA_STUNTN",
                                 "description": "Children moderately or severely stunted (millions)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -624,22 +599,22 @@
                             {
                                 "code": "SH_STA_WASTE",
                                 "description": "Proportion of children moderately or severely wasted (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_STA_WASTEN",
                                 "description": "Children moderately or severely wasted (millions)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_STA_OVRWGT",
                                 "description": "Proportion of children moderately or severely overweight (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_STA_OVRWGTN",
                                 "description": "Children moderately or severely overweight (millions)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -669,7 +644,7 @@
                             {
                                 "code": "PD_AGR_SSFP",
                                 "description": "Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -688,7 +663,7 @@
                             {
                                 "code": "SI_AGR_SSFP",
                                 "description": "Average income of small-scale food producers, PPP (constant 2011 international $)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -741,12 +716,12 @@
                             {
                                 "code": "ER_GRF_ANIMRCNT",
                                 "description": "Proportion of local breeds for which sufficient genetic resources are stored for reconstitution (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_GRF_PLNTSTOR",
                                 "description": "Plant breeds for which sufficient genetic resources are stored (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -765,7 +740,7 @@
                             {
                                 "code": "ER_RSK_LBREDS",
                                 "description": "Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -795,17 +770,17 @@
                             {
                                 "code": "AG_PRD_ORTIND",
                                 "description": "Agriculture orientation index for government expenditures",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_PRD_AGVAS",
                                 "description": "Agriculture value added share of GDP (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_XPD_AGSGB",
                                 "description": "Agriculture share of Government Expenditure (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -824,7 +799,7 @@
                             {
                                 "code": "DC_TOF_AGRL",
                                 "description": "Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -854,7 +829,7 @@
                             {
                                 "code": "AG_PRD_XSUBDY",
                                 "description": "Agricultural export subsidies (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -884,12 +859,12 @@
                             {
                                 "code": "AG_FPA_COMM",
                                 "description": "Indicator of Food Price Anomalies (IFPA), by type of product",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_FPA_CFPI",
                                 "description": "Consumer Food Price Index",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -930,7 +905,7 @@
                             {
                                 "code": "SH_STA_MMR",
                                 "description": "Maternal mortality ratio",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -949,7 +924,7 @@
                             {
                                 "code": "SH_STA_BRTC",
                                 "description": "Proportion of births attended by skilled health personnel (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -979,22 +954,22 @@
                             {
                                 "code": "SH_DYN_IMRTN",
                                 "description": "Infant deaths (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_DYN_MORT",
                                 "description": "Under-five mortality rate, by sex (deaths per 1,000 live births)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_DYN_IMRT",
                                 "description": "Infant mortality rate (deaths per 1,000 live births)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_DYN_MORTN",
                                 "description": "Under-five deaths (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1013,12 +988,12 @@
                             {
                                 "code": "SH_DYN_NMRTN",
                                 "description": "Neonatal deaths (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_DYN_NMRT",
                                 "description": "Neonatal mortality rate (deaths per 1,000 live births)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1048,7 +1023,7 @@
                             {
                                 "code": "SH_HIV_INCD",
                                 "description": "Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1067,7 +1042,7 @@
                             {
                                 "code": "SH_TBS_INCID",
                                 "description": "Tuberculosis incidence (per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1086,7 +1061,7 @@
                             {
                                 "code": "SH_STA_MALR",
                                 "description": "Malaria incidence per 1,000 population at risk (per 1,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1105,7 +1080,7 @@
                             {
                                 "code": "SH_HAP_HBSAG",
                                 "description": "Prevalence of hepatitis B surface antigen (HBsAg) (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1124,7 +1099,7 @@
                             {
                                 "code": "SH_TRP_INTVN",
                                 "description": "Number of people requiring interventions against neglected tropical diseases (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1154,12 +1129,12 @@
                             {
                                 "code": "SH_DTH_NCOM",
                                 "description": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_DTH_RNCOM",
                                 "description": "Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1178,12 +1153,12 @@
                             {
                                 "code": "SH_STA_SCIDE",
                                 "description": "Suicide mortality rate, by sex (deaths per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_STA_SCIDEN",
                                 "description": "Number of deaths attributed to suicide, by sex (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1225,7 +1200,7 @@
                             {
                                 "code": "SH_ALC_CONSPT",
                                 "description": "Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1255,7 +1230,7 @@
                             {
                                 "code": "SH_STA_TRAF",
                                 "description": "Death rate due to road traffic injuries (per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1285,7 +1260,7 @@
                             {
                                 "code": "SH_FPL_MTMM",
                                 "description": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (% of women aged 15-49 years)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1304,7 +1279,7 @@
                             {
                                 "code": "SP_DYN_ADKL",
                                 "description": "Adolescent birth rate (per 1,000 women aged 15-19 years)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1334,7 +1309,7 @@
                             {
                                 "code": "SH_ACS_UNHC",
                                 "description": "Universal health coverage (UHC) service coverage index",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1353,12 +1328,12 @@
                             {
                                 "code": "SH_XPD_EARN25",
                                 "description": "Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_XPD_EARN10",
                                 "description": "Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1388,32 +1363,32 @@
                             {
                                 "code": "SH_HAP_ASMORT",
                                 "description": "Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_STA_AIRP",
                                 "description": "Crude death rate attributed to household and ambient air pollution (deaths per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_STA_ASAIRP",
                                 "description": "Age-standardized mortality rate attributed to household and ambient air pollution (deaths per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_AAP_MORT",
                                 "description": "Crude death rate attributed to ambient air pollution (deaths per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_AAP_ASMORT",
                                 "description": "Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_HAP_MORT",
                                 "description": "Crude death rate attributed to household air pollution (deaths per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1432,7 +1407,7 @@
                             {
                                 "code": "SH_STA_WASH",
                                 "description": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1451,7 +1426,7 @@
                             {
                                 "code": "SH_STA_POISN",
                                 "description": "Mortality rate attributed to unintentional poisonings, by sex (deaths per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1481,7 +1456,7 @@
                             {
                                 "code": "SH_PRV_SMOK",
                                 "description": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1511,17 +1486,17 @@
                             {
                                 "code": "SH_ACS_DTP3",
                                 "description": "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_ACS_MCV2",
                                 "description": "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_ACS_PCV3",
                                 "description": "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1540,12 +1515,12 @@
                             {
                                 "code": "DC_TOF_HLTHNT",
                                 "description": "Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_TOF_HLTHL",
                                 "description": "Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1587,7 +1562,7 @@
                             {
                                 "code": "SH_MED_HEAWOR",
                                 "description": "Health worker density, by type of occupation (per 10,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1617,7 +1592,7 @@
                             {
                                 "code": "SH_IHR_CAPS",
                                 "description": "International Health Regulations (IHR) capacity, by type of IHR capacity (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1658,12 +1633,12 @@
                             {
                                 "code": "SE_MAT_PROF",
                                 "description": "Minimum proficiency in mathematics, by education level and sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_REA_PROF",
                                 "description": "Minimum proficiency in reading, by education level and sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1693,7 +1668,7 @@
                             {
                                 "code": "SE_DEV_ONTRK",
                                 "description": "Proportion of children aged 36\u221259 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -1712,7 +1687,7 @@
                             {
                                 "code": "SE_PRE_PARTN",
                                 "description": "Participation rate in organized learning (one year before the official primary entry age), by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1742,7 +1717,7 @@
                             {
                                 "code": "SE_ADT_EDUCTRN",
                                 "description": "Participation rate in formal and non-formal education and training, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1772,7 +1747,7 @@
                             {
                                 "code": "SE_ADT_ACTS",
                                 "description": "Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1802,87 +1777,87 @@
                             {
                                 "code": "SE_PRE_GPIPARTN",
                                 "description": "Gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_GPI_FUNPROF",
                                 "description": "Gender parity index achieving at least a fixed level of proficiency in functional literacy skills (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_GPI_MATACH",
                                 "description": "Gender parity index for achievement in mathematics, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_GPI_REAACH",
                                 "description": "Gender parity index for achievement in reading, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_GPI_TRATEA",
                                 "description": "Gender parity index of trained teachers, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_SEP_FUNPROF",
                                 "description": "Low to high socio-economic parity status index achieving at least a fixed level of proficiency in functional numeracy skills  (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_SEP_MATACH",
                                 "description": "Low to high socio-economic parity status index for achievement in mathematics, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_SEP_REAACH",
                                 "description": "Low to high socio-economic parity status index for achievement in reading, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_URP_MATACH",
                                 "description": "Rural to urban parity index for achievement in mathematics, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_URP_REAACH",
                                 "description": "Rural to urban parity index for achievement in reading, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_GPI_PART",
                                 "description": "Gender parity index for participation rate in formal and non-formal education and training (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_GPI_ICTS",
                                 "description": "Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_NAP_ACHIRE",
                                 "description": "Native parity index for achievement in reading, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_NAP_ACHIMA",
                                 "description": "Native parity index for achievement in mathematics, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_LGP_ACHIRE",
                                 "description": "Language test parity index for achievement in reading, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_LGP_ACHIMA",
                                 "description": "Language test parity index for achievement in mathematics, by education level (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_IMP_FPOF",
                                 "description": "Immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1912,7 +1887,7 @@
                             {
                                 "code": "SE_ADT_FUNS",
                                 "description": "Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -1965,37 +1940,37 @@
                             {
                                 "code": "SE_ACC_COMP",
                                 "description": "Schools with access to\u00a0computers for pedagogical purposes, by education level (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_ACC_DWAT",
                                 "description": "Schools with access to basic drinking water, by education level (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_ACC_ELEC",
                                 "description": "Schools with access to\u00a0electricity, by education level (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_ACC_HNWA",
                                 "description": "Schools with basic handwashing facilities, by education level (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_ACC_INTN",
                                 "description": "Schools with access to the internet for pedagogical purposes, by education level (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_ACC_SANI",
                                 "description": "Schools with access to\u00a0access to single-sex basic sanitation, by education level (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SE_INF_DSBL",
                                 "description": "Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2025,7 +2000,7 @@
                             {
                                 "code": "DC_TOF_SCHIPSL",
                                 "description": "Total official flows for scholarships, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2055,7 +2030,7 @@
                             {
                                 "code": "SE_TRA_GRDL",
                                 "description": "Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country, by sex and education level (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2096,22 +2071,22 @@
                             {
                                 "code": "SG_LGL_GENEQLFP",
                                 "description": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_LGL_GENEQVAW",
                                 "description": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) --  Area 2: violence against women",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_LGL_GENEQEMP",
                                 "description": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_LGL_GENEQMAR",
                                 "description": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2141,7 +2116,7 @@
                             {
                                 "code": "VC_VAW_MARR",
                                 "description": "Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -2183,12 +2158,12 @@
                             {
                                 "code": "SP_DYN_MRBF18",
                                 "description": "Proportion of women aged 20-24 years who were married or in a union before age 18 (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SP_DYN_MRBF15",
                                 "description": "Proportion of women aged 20-24 years who were married or in a union before age 15 (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -2207,7 +2182,7 @@
                             {
                                 "code": "SH_STA_FGMS",
                                 "description": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2237,17 +2212,17 @@
                             {
                                 "code": "SL_DOM_TSPDCW",
                                 "description": "Proportion of time spent on unpaid care work, by sex, age and location (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SL_DOM_TSPDDC",
                                 "description": "Proportion of time spent on unpaid domestic chores, by sex, age and location (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SL_DOM_TSPD",
                                 "description": "Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2277,22 +2252,22 @@
                             {
                                 "code": "SG_GEN_PARLN",
                                 "description": "Number of seats held by women in national parliaments (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_GEN_PARLNT",
                                 "description": "Number of seats in national parliaments (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_GEN_PARL",
                                 "description": "Proportion of seats held by women in national parliaments (% of total number of seats)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_GEN_LOCGELS",
                                 "description": "Proportion of elected seats held by women in deliberative bodies of local government (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -2311,12 +2286,12 @@
                             {
                                 "code": "IC_GEN_MGTL",
                                 "description": "Proportion of women in managerial positions (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "IC_GEN_MGTN",
                                 "description": "Proportion of women in senior and middle management positions (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2346,22 +2321,22 @@
                             {
                                 "code": "SH_FPL_INFM",
                                 "description": "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_FPL_INFMSR",
                                 "description": "Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_FPL_INFMCU",
                                 "description": "Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_FPL_INFMRH",
                                 "description": "Proportion of women who make their own informed decisions regarding reproductive health care (% of women aged 15-49 years)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -2438,7 +2413,7 @@
                             {
                                 "code": "IT_MOB_OWN",
                                 "description": "Proportion of individuals who own a mobile telephone, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2468,7 +2443,7 @@
                             {
                                 "code": "SG_GEN_EQPWN",
                                 "description": "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2509,7 +2484,7 @@
                             {
                                 "code": "SH_H2O_SAFE",
                                 "description": "Proportion of population using safely managed drinking water services, by urban/rural (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2539,17 +2514,17 @@
                             {
                                 "code": "SH_SAN_HNDWSH",
                                 "description": "Proportion of population with basic handwashing facilities on premises, by urban/rural (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_SAN_SAFE",
                                 "description": "Proportion of population using safely managed sanitation services, by urban/rural (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SH_SAN_DEFECT",
                                 "description": "Proportion of population practicing open defecation, by urban/rural (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2579,7 +2554,7 @@
                             {
                                 "code": "EN_WWT_WWDS",
                                 "description": "Proportion of safely treated domestic wastewater flows (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -2598,22 +2573,22 @@
                             {
                                 "code": "EN_H2O_OPAMBQ",
                                 "description": "Proportion of open water bodies with good ambient water quality (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_H2O_RVAMBQ",
                                 "description": "Proportion of river water bodies with good ambient water quality (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_H2O_GRAMBQ",
                                 "description": "Proportion of groundwater bodies with good ambient water quality (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_H2O_WBAMBQ",
                                 "description": "Proportion of bodies of water with good ambient water quality (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2643,7 +2618,7 @@
                             {
                                 "code": "ER_H2O_WUEYST",
                                 "description": "Water Use Efficiency (United States dollars per cubic meter)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -2662,7 +2637,7 @@
                             {
                                 "code": "ER_H2O_STRESS",
                                 "description": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2692,12 +2667,12 @@
                             {
                                 "code": "ER_H2O_IWRMD",
                                 "description": "Degree of integrated water resources management implementation (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_H2O_IWRMP",
                                 "description": "Proportion of countries by IWRM implementation category (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -2716,17 +2691,17 @@
                             {
                                 "code": "EG_TBA_H2CO",
                                 "description": "Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EG_TBA_H2COAQ",
                                 "description": "Proportion of transboundary aquifers with an operational arrangement for water cooperation (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EG_TBA_H2CORL",
                                 "description": "Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2756,82 +2731,82 @@
                             {
                                 "code": "EN_WBE_PMPR",
                                 "description": "Water body extent (permanent) (% of total land area)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_PMNR",
                                 "description": "Water body extent (permanent) (square kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_PMPP",
                                 "description": "Water body extent (permanent and maybe permanent) (% of total land area)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_PMPN",
                                 "description": "Water body extent (permanent and maybe permanent) (square kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDETOT",
                                 "description": "Nationally derived total extent (square kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDOPW",
                                 "description": "Nationally derived extent of open water bodies (square kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDQLGRW",
                                 "description": "Nationally derived quality of groundwater (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDQLOPW",
                                 "description": "Nationally derived quality of open water bodies(%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDQLRVR",
                                 "description": "Nationally derived quality of river(%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDQLTOT",
                                 "description": "Nationally derived proportion of water bodies with good quality (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDQTGRW",
                                 "description": "Nationally derived quantity of groundwater (millions of cubic metres per annum)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDQTOPW",
                                 "description": "Nationally derived quantity of open water bodies (million of cubic metres per annum)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDQTRVR",
                                 "description": "Nationally derived quantity of rivers (million of cubic metres per annum)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDQTTOT",
                                 "description": "Nationally derived total quantity (millions of cubic metres per annum)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDRV",
                                 "description": "Nationally derived extend of rivers (square kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_WBE_NDWTL",
                                 "description": "Nationally derived extent of wetlands (square kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2861,7 +2836,7 @@
                             {
                                 "code": "DC_TOF_WASHL",
                                 "description": "Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2891,42 +2866,42 @@
                             {
                                 "code": "ER_WAT_PROCED",
                                 "description": "Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water resources planning and management (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_H2O_PARTIC",
                                 "description": "Proportion of countries with high level of users/communities participating in planning programs in rural drinking-water supply (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_H2O_PROCED",
                                 "description": "Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_WAT_PARTIC",
                                 "description": "Proportion of countries with high level of users/communities participating in planning programs in water resources planning and management (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_H2O_RURP",
                                 "description": "Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_H2O_PRDU",
                                 "description": "Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_WAT_PART",
                                 "description": "Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_WAT_PRDU",
                                 "description": "Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -2967,7 +2942,7 @@
                             {
                                 "code": "EG_ELC_ACCS",
                                 "description": "Proportion of population with access to electricity, by urban/rural (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -2986,7 +2961,7 @@
                             {
                                 "code": "EG_EGY_CLEAN",
                                 "description": "Proportion of population with primary reliance on clean fuels and technology (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3016,7 +2991,7 @@
                             {
                                 "code": "EG_FEC_RNEW",
                                 "description": "Renewable energy share in the total final energy consumption (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3046,7 +3021,7 @@
                             {
                                 "code": "EG_EGY_PRIM",
                                 "description": "Energy intensity level of primary energy (megajoules per constant 2011 purchasing power parity GDP)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3076,7 +3051,7 @@
                             {
                                 "code": "EG_IFF_RANDN",
                                 "description": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2016 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3140,7 +3115,7 @@
                             {
                                 "code": "NY_GDP_PCAP",
                                 "description": "Annual growth rate of real GDP per capita (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3170,7 +3145,7 @@
                             {
                                 "code": "SL_EMP_PCAP",
                                 "description": "Annual growth rate of real GDP per employed person (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3200,7 +3175,7 @@
                             {
                                 "code": "SL_ISV_IFRM",
                                 "description": "Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3230,17 +3205,17 @@
                             {
                                 "code": "EN_MAT_FTPRPG",
                                 "description": "Material footprint per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollar)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_MAT_FTPRPC",
                                 "description": "Material footprint per capita, by type of raw material (tonnes)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_MAT_FTPRTN",
                                 "description": "Material footprint, by type of raw material (tonnes)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -3259,17 +3234,17 @@
                             {
                                 "code": "EN_MAT_DOMCMPT",
                                 "description": "Domestic material consumption, by type of raw material (tonnes)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_MAT_DOMCMPG",
                                 "description": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_MAT_DOMCMPC",
                                 "description": "Domestic material consumption per capita, by type of raw material (tonnes)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3299,7 +3274,7 @@
                             {
                                 "code": "SL_EMP_AEARN",
                                 "description": "Average hourly earnings of managers (ISCO-08) (local currency)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -3318,12 +3293,12 @@
                             {
                                 "code": "SL_TLF_UEM",
                                 "description": "Unemployment rate, by sex and age (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SL_TLF_UEMDIS",
                                 "description": "Unemployment rate, by sex and disability (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3353,7 +3328,7 @@
                             {
                                 "code": "SL_TLF_NEET",
                                 "description": "Proportion of youth not in education, employment or training, by sex and age (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3383,12 +3358,12 @@
                             {
                                 "code": "SL_TLF_CHLDEC",
                                 "description": "Proportion of children engaged in economic activity and household chores, by sex and age (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SL_TLF_CHLDEA",
                                 "description": "Proportion of children engaged in economic activity, by sex and age  (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3418,12 +3393,12 @@
                             {
                                 "code": "SL_EMP_FTLINJUR",
                                 "description": "Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SL_EMP_INJUR",
                                 "description": "Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -3500,12 +3475,12 @@
                             {
                                 "code": "FB_ATM_TOTL",
                                 "description": "Number of automated teller machines (ATMs) per 100,000 adults",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "FB_CBK_BRCH",
                                 "description": "Number of commercial bank branches per 100,000 adults",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -3524,7 +3499,7 @@
                             {
                                 "code": "FB_BNK_ACCSS",
                                 "description": "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3554,22 +3529,22 @@
                             {
                                 "code": "DC_TOF_TRDCMDL",
                                 "description": "Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_TOF_TRDDBMDL",
                                 "description": "Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_TOF_TRDDBML",
                                 "description": "Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_TOF_TRDCML",
                                 "description": "Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3645,12 +3620,12 @@
                             {
                                 "code": "IS_RDP_FRGVOL",
                                 "description": "Freight volume, by mode of transport (tonne kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "IS_RDP_PFVOL",
                                 "description": "Passenger volume (passenger kilometres), by mode of transport",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3680,12 +3655,12 @@
                             {
                                 "code": "NV_IND_MANFPC",
                                 "description": "Manufacturing value added per capita (constant 2010 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "NV_IND_MANF",
                                 "description": "Manufacturing value added as a proportion of GDP (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -3704,7 +3679,7 @@
                             {
                                 "code": "SL_TLF_MANF",
                                 "description": "Manufacturing employment as a proportion of total employment (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3734,7 +3709,7 @@
                             {
                                 "code": "NV_IND_SSIS",
                                 "description": "Proportion of small-scale industries in total industry value added (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -3753,7 +3728,7 @@
                             {
                                 "code": "FC_ACC_SSID",
                                 "description": "Proportion of small-scale industries with a loan or line of credit (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3783,17 +3758,17 @@
                             {
                                 "code": "EN_ATM_CO2",
                                 "description": "Carbon dioxide emissions from fuel combustion (millions of tonnes)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_ATM_CO2MVA",
                                 "description": "Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2010 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_ATM_CO2GDP",
                                 "description": "Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2010 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3823,7 +3798,7 @@
                             {
                                 "code": "GB_XPD_RSDV",
                                 "description": "Research and development expenditure as a proportion of GDP (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -3842,7 +3817,7 @@
                             {
                                 "code": "GB_POP_SCIERD",
                                 "description": "Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3872,7 +3847,7 @@
                             {
                                 "code": "DC_TOF_INFRAL",
                                 "description": "Total official flows for infrastructure, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3902,7 +3877,7 @@
                             {
                                 "code": "NV_IND_TECH",
                                 "description": "Proportion of medium and high-tech industry value added in total value added (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3932,7 +3907,7 @@
                             {
                                 "code": "IT_MOB_NTWK",
                                 "description": "Proportion of population covered by a mobile network, by technology (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -3973,12 +3948,12 @@
                             {
                                 "code": "SI_HEI_TOTL",
                                 "description": "Growth rates of household expenditure or income per capita (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SI_HEI_BTN40",
                                 "description": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4054,7 +4029,7 @@
                             {
                                 "code": "SL_EMP_GTOTL",
                                 "description": "Labour share of GDP, comprising wages and social protection transfers (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4084,37 +4059,37 @@
                             {
                                 "code": "FI_FSI_FSANL",
                                 "description": "Non-performing loans to total gross loans (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "FI_FSI_FSERA",
                                 "description": "Return on assets (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "FI_FSI_FSKA",
                                 "description": "Regulatory capital to assets (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "FI_FSI_FSKNL",
                                 "description": "Non-performing loans net of provisions to capital (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "FI_FSI_FSKRTC",
                                 "description": "Regulatory Tier 1 capital to risk-weighted assets (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "FI_FSI_FSLS",
                                 "description": "Liquid assets to short term liabilities (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "FI_FSI_FSSNO",
                                 "description": "Net open position in foreign exchange to capital (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4144,12 +4119,12 @@
                             {
                                 "code": "SG_INT_MBRDEV",
                                 "description": "Proportion of members of developing countries in international organizations, by organization (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_INT_VRTDEV",
                                 "description": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4186,7 +4161,19 @@
                         "labelES": "Indicador 10.7.2",
                         "descES": " N\u00famero de pa\u00edses que han aplicado pol\u00edticas migratorias bien gestionadas que facilitan la migraci\u00f3n y la movilidad ordenadas, seguras, regulares y responsables de las personas",
                         "labelFR": "Indicateur 10.7.2",
-                        "descFR": " Nombre de pays dot\u00e9s de politiques migratoires qui facilitent la migration et la mobilit\u00e9 de fa\u00e7on ordonn\u00e9e, s\u00fbre, r\u00e9guli\u00e8re et responsible"
+                        "descFR": " Nombre de pays dot\u00e9s de politiques migratoires qui facilitent la migration et la mobilit\u00e9 de fa\u00e7on ordonn\u00e9e, s\u00fbre, r\u00e9guli\u00e8re et responsible",
+                        "series": [
+                            {
+                                "code": "SG_CPA_MIGR",
+                                "description": "Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets) ",
+                                "release": "2019.Q3.G.01"
+                            },
+                            {
+                                "code": "SG_CPA_MIGRP",
+                                "description": "Proportion of countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (%)",
+                                "release": "2019.Q3.G.01"
+                            }
+                        ]
                     }
                 ]
             },
@@ -4214,7 +4201,7 @@
                             {
                                 "code": "TM_TRF_ZERO",
                                 "description": "Proportion of tariff lines applied to imports with zero-tariff (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4244,17 +4231,17 @@
                             {
                                 "code": "DC_TRF_TOTDL",
                                 "description": "Total assistance for development, by donor countries (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_TRF_TOTL",
                                 "description": "Total assistance for development, by recipient countries (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_TRF_TFDV",
                                 "description": "Total resource flows for development, by recipient and donor countries (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4284,7 +4271,7 @@
                             {
                                 "code": "SI_RMT_COST",
                                 "description": "Remittance costs as a proportion of the amount remitted (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4325,7 +4312,7 @@
                             {
                                 "code": "EN_LND_SLUM",
                                 "description": "Proportion of urban population living in slums (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4436,67 +4423,52 @@
                             {
                                 "code": "VC_DSR_MISS",
                                 "description": "Number of missing persons due to disaster (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_AFFCT",
                                 "description": "Number of people affected by disaster (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_MORT",
                                 "description": "Number of deaths due to disaster (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_MTMP",
                                 "description": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_MTMN",
                                 "description": "Number of deaths and missing persons attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_MMHN",
-                                "description": "Number of deaths and missing persons attributed to disasters, by hazard type (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_DAFF",
                                 "description": "Number of directly affected persons attributed to disasters per 100,000 population (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_IJILN",
                                 "description": "Number of injured or ill people attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_PDAN",
                                 "description": "Number of people whose damaged dwellings were attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_DDHN",
-                                "description": "Number damaged dwellings attributed to disasters, by hazard type (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_PDYN",
                                 "description": "Number of people whose destroyed dwellings were attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_PDLN",
                                 "description": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_DYHN",
-                                "description": "Number destroyed dwellings attributed to disasters, by hazard type (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -4514,88 +4486,78 @@
                         "series": [
                             {
                                 "code": "VC_DSR_GDPLS",
-                                "description": "Direct economic loss attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "description": "Direct economic loss attributed to disasters (current United States dollars)",
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_LSGP",
                                 "description": "Direct economic loss attributed to disasters relative to GDP (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_AGLN",
-                                "description": "Direct agriculture loss attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_AGLH",
-                                "description": "Direct agriculture loss attributed to disasters, by hazard type (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "description": "Direct agriculture loss attributed to disasters (current United States dollars)",
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_HOLN",
-                                "description": "Direct economic loss in the housing sector attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_HOLH",
-                                "description": "Direct economic loss in the housing sector attributed to disasters, by hazard type (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "description": "Direct economic loss in the housing sector attributed to disasters (current United States dollars)",
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_CILN",
-                                "description": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "description": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)",
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_CHLN",
                                 "description": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_CDAN",
                                 "description": "Number of damaged critical infrastructure attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_HFDN",
                                 "description": "Number of destroyed or damaged health facilities attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_EFDN",
                                 "description": "Number of destroyed or damaged educational facilities attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_CDYN",
                                 "description": "Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_BSDN",
                                 "description": "Number of disruptions to basic services attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_ESDN",
                                 "description": "Number of disruptions to educational services attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_HSDN",
                                 "description": "Number of disruptions to health services attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_OBDN",
                                 "description": "Number of disruptions to other basic services attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_DDPA",
                                 "description": "Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4625,7 +4587,7 @@
                             {
                                 "code": "EN_REF_WASCOL",
                                 "description": "Municipal Solid Waste collection coverage, by cities (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -4644,7 +4606,7 @@
                             {
                                 "code": "EN_ATM_PM25",
                                 "description": "Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4732,7 +4694,7 @@
                             {
                                 "code": "SG_DSR_LGRGSR",
                                 "description": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -4751,17 +4713,17 @@
                             {
                                 "code": "SG_DSR_SILS",
                                 "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_DSR_SILN",
                                 "description": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_GOV_LOGV",
                                 "description": "Number of local governments (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4825,22 +4787,22 @@
                             {
                                 "code": "SG_SCP_CNTRY",
                                 "description": "Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_SCP_CORMEC",
                                 "description": "Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_SCP_MACPOL",
                                 "description": "Countries with macro policy for sustainable consumption and production (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_SCP_POLINS",
                                 "description": "Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4870,17 +4832,17 @@
                             {
                                 "code": "EN_MAT_FTPRPG",
                                 "description": "Material footprint per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollar)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_MAT_FTPRPC",
                                 "description": "Material footprint per capita, by type of raw material (tonnes)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_MAT_FTPRTN",
                                 "description": "Material footprint, by type of raw material (tonnes)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -4899,17 +4861,17 @@
                             {
                                 "code": "EN_MAT_DOMCMPT",
                                 "description": "Domestic material consumption, by type of raw material (tonnes)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_MAT_DOMCMPG",
                                 "description": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "EN_MAT_DOMCMPC",
                                 "description": "Domestic material consumption per capita, by type of raw material (tonnes)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -4962,22 +4924,22 @@
                             {
                                 "code": "SG_HAZ_CMRMNTRL",
                                 "description": "Compliance with the Montreal Protocol on hazardous waste and other chemicals",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_HAZ_CMRROTDAM",
                                 "description": "Compliance with the Rotterdam Convention on hazardous waste and other chemicals",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_HAZ_CMRBASEL",
                                 "description": "Compliance with the Basel Convention on hazardous waste and other chemicals",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_HAZ_CMRSTHOLM",
                                 "description": "Compliance with the Stockholm Convention on hazardous waste and other chemicals",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -5157,17 +5119,17 @@
                             {
                                 "code": "ER_FFS_PRTSST",
                                 "description": "Fossil-fuel pre-tax subsidies (consumption and production) (billions of current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_FFS_PRTSPC",
                                 "description": "Fossil-fuel pre-tax subsidies (consumption and production) per capita (current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_FFS_PRTSPR",
                                 "description": "Fossil-fuel pre-tax subsidies (consumption and production) as a proportion of total GDP (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5208,67 +5170,52 @@
                             {
                                 "code": "VC_DSR_MISS",
                                 "description": "Number of missing persons due to disaster (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_AFFCT",
                                 "description": "Number of people affected by disaster (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_MORT",
                                 "description": "Number of deaths due to disaster (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_MTMP",
                                 "description": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_MTMN",
                                 "description": "Number of deaths and missing persons attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_MMHN",
-                                "description": "Number of deaths and missing persons attributed to disasters, by hazard type (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_DAFF",
                                 "description": "Number of directly affected persons attributed to disasters per 100,000 population (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_IJILN",
                                 "description": "Number of injured or ill people attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_PDAN",
                                 "description": "Number of people whose damaged dwellings were attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_DDHN",
-                                "description": "Number damaged dwellings attributed to disasters, by hazard type (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_PDYN",
                                 "description": "Number of people whose destroyed dwellings were attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_DSR_PDLN",
                                 "description": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)",
-                                "release": "2019.Q2.G.01"
-                            },
-                            {
-                                "code": "VC_DSR_DYHN",
-                                "description": "Number destroyed dwellings attributed to disasters, by hazard type (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -5287,7 +5234,7 @@
                             {
                                 "code": "SG_DSR_LGRGSR",
                                 "description": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -5306,17 +5253,17 @@
                             {
                                 "code": "SG_DSR_SILS",
                                 "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_DSR_SILN",
                                 "description": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_GOV_LOGV",
                                 "description": "Number of local governments (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5530,7 +5477,7 @@
                             {
                                 "code": "ER_H2O_FWTL",
                                 "description": "Proportion of fish stocks within biologically sustainable levels (not overexploited) (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5560,17 +5507,17 @@
                             {
                                 "code": "ER_MRN_MARINT",
                                 "description": "Protected marine area (Exclusive Economic Zones) (square kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_MRN_MARIN",
                                 "description": "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_MRN_MPA",
                                 "description": "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5600,7 +5547,7 @@
                             {
                                 "code": "ER_REG_UNFCIM",
                                 "description": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5653,7 +5600,7 @@
                             {
                                 "code": "ER_RDE_OSEX",
                                 "description": "National ocean science expenditure as a share of total research and development funding (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5683,7 +5630,7 @@
                             {
                                 "code": "ER_REG_SSFRAR",
                                 "description": "Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5747,17 +5694,17 @@
                             {
                                 "code": "AG_LND_TOTL",
                                 "description": "Land area (thousands of hectares)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_LND_FRSTN",
                                 "description": "Forest area (thousands of hectares)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_LND_FRST",
                                 "description": "Forest area as a proportion of total land area (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -5776,12 +5723,12 @@
                             {
                                 "code": "ER_PTD_FRWRT",
                                 "description": "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_PTD_TERRS",
                                 "description": "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5811,27 +5758,27 @@
                             {
                                 "code": "AG_LND_FRSTBIOPHA",
                                 "description": "Above-ground biomass in forest per hectare (tonnes per hectare)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_LND_FRSTCERT",
                                 "description": "Forest area certified under an independently verified certification scheme (thousands of hectares)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_LND_FRSTCHG",
                                 "description": "Forest area net change rate (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_LND_FRSTMGT",
                                 "description": "Proportion of forest area with a long-term management plan (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "AG_LND_FRSTPRCT",
                                 "description": "Proportion of forest area within legally established protected areas (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5861,7 +5808,7 @@
                             {
                                 "code": "AG_LND_DGRD",
                                 "description": "Proportion of land that is degraded over total land area (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5891,7 +5838,7 @@
                             {
                                 "code": "ER_PTD_MOTN",
                                 "description": "Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -5910,17 +5857,17 @@
                             {
                                 "code": "ER_MTN_GRNCVI",
                                 "description": "Mountain Green Cover Index",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_MTN_TOTL",
                                 "description": "Mountain area (square kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_MTN_GRNCOV",
                                 "description": "Mountain green cover area (square kilometres)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5950,7 +5897,7 @@
                             {
                                 "code": "ER_RSK_LSTI",
                                 "description": "Red List Index",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -5980,27 +5927,27 @@
                             {
                                 "code": "ER_CBD_SMTA",
                                 "description": "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_CBD_NAGOYA",
                                 "description": "Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_CBD_ABSCLRHS",
                                 "description": "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_CBD_ORSPGRFA",
                                 "description": "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "ER_CBD_PTYPGRFA",
                                 "description": "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6099,12 +6046,12 @@
                             {
                                 "code": "DC_ODA_BDVDL",
                                 "description": "Total official development assistance for biodiversity, by donor countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_BDVL",
                                 "description": "Total official development assistance for biodiversity, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6134,12 +6081,12 @@
                             {
                                 "code": "DC_ODA_BDVDL",
                                 "description": "Total official development assistance for biodiversity, by donor countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_BDVL",
                                 "description": "Total official development assistance for biodiversity, by recipient countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6203,12 +6150,12 @@
                             {
                                 "code": "VC_IHR_PSRC",
                                 "description": "Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_IHR_PSRCN",
                                 "description": "Number of victims of intentional homicide, by sex (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -6239,17 +6186,17 @@
                             {
                                 "code": "VC_VOV_PHYL",
                                 "description": "Proportion of population subjected to physical violence in the previous 12 months, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_VOV_ROBB",
                                 "description": "Proportion of population subjected to robbery in the previous 12 months, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_VOV_SEXL",
                                 "description": "Proportion of population subjected to sexual violence in the previous 12 months, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -6268,7 +6215,7 @@
                             {
                                 "code": "VC_SNS_WALN",
                                 "description": "Proportion of population that feel safe walking alone around the area they live (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6298,7 +6245,7 @@
                             {
                                 "code": "VC_VAW_PHYPYV",
                                 "description": "Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -6317,27 +6264,27 @@
                             {
                                 "code": "VC_HTF_DETVFL",
                                 "description": "Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_HTF_DETVOP",
                                 "description": "Detected victims of human trafficking for other purposes, by age and sex (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_HTF_DETVOG",
                                 "description": "Detected victims of human trafficking for removal of organ, by age and sex (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_HTF_DETVSX",
                                 "description": "Detected victims of human trafficking for sexual exploitaton, by age and sex (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_HTF_DETV",
                                 "description": "Detected victims of human trafficking, by age and sex (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -6356,7 +6303,7 @@
                             {
                                 "code": "VC_VAW_SXVLN",
                                 "description": "Proportion of population aged 18-29 years who experienced sexual violence by age\u00a018, by sex (% of population aged 18-29)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6386,17 +6333,17 @@
                             {
                                 "code": "VC_PRR_PHYV",
                                 "description": "Police reporting rate for physical assault, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_PRR_SEXV",
                                 "description": "Police reporting rate for sexual assault, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "VC_PRR_ROBB",
                                 "description": "Police reporting rate for robbery, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -6415,7 +6362,7 @@
                             {
                                 "code": "VC_PRS_UNSEC",
                                 "description": "Unsentenced detainees as a proportion of overall prison population (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6480,7 +6427,7 @@
                             {
                                 "code": "IU_COR_BRIB",
                                 "description": "Prevalence rate of bribery, by sex (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -6499,7 +6446,7 @@
                             {
                                 "code": "IC_FRM_BRIB",
                                 "description": "Bribery incidence (% of firms experiencing at least one bribe payment request)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6529,7 +6476,7 @@
                             {
                                 "code": "GF_XPD_GBPC",
                                 "description": "Primary government expenditures as a proportion of original approved budget (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -6606,12 +6553,12 @@
                             {
                                 "code": "SG_INT_MBRDEV",
                                 "description": "Proportion of members of developing countries in international organizations, by organization (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_INT_VRTDEV",
                                 "description": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6641,7 +6588,7 @@
                             {
                                 "code": "SG_REG_BRTH",
                                 "description": "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6671,7 +6618,7 @@
                             {
                                 "code": "VC_VAW_MTUHRA",
                                 "description": "Number of cases of killings of human rights defenders, journalists and trade unionists",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -6690,7 +6637,7 @@
                             {
                                 "code": "SG_INF_ACCSS",
                                 "description": "Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6720,32 +6667,32 @@
                             {
                                 "code": "SG_NHR_IMPL",
                                 "description": "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_NHR_IMPLN",
                                 "description": "Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_NHR_INTEXST",
                                 "description": "Proportion of countries that applied for accreditation as independent National Human Rights Institutions in compliance with the Paris Principles (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_NHR_NOSTUSN",
                                 "description": "Countries with National Human Rights Institutions and no status with the Paris Principles, C status (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_NHR_INTEXSTN",
                                 "description": "Countries with National Human Rights Institutions not fully compliant with the Paris Principles, B status (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_NHR_NOAPPLN",
                                 "description": "Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6809,7 +6756,7 @@
                             {
                                 "code": "GR_G14_GDP",
                                 "description": "Total government revenue (budgetary central government) as a proportion of GDP (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -6828,7 +6775,7 @@
                             {
                                 "code": "GC_GOB_TAXD",
                                 "description": "Proportion of domestic budget funded by domestic taxes (% of GDP)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6858,52 +6805,52 @@
                             {
                                 "code": "DC_ODA_SIDSG",
                                 "description": "Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_LDCG",
                                 "description": "Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_LLDC",
                                 "description": "Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_SIDS",
                                 "description": "Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_LDCS",
                                 "description": "Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_LLDCG",
                                 "description": "Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_TOTG",
                                 "description": "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_TOTL",
                                 "description": "Net official development assistance (ODA) from OECD-DAC countries, by donor countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_TOTLGE",
                                 "description": "Net official development assistance (ODA) from OECD-DAC countries (grant equivalent methodology), by donor countries (millions of constant 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "DC_ODA_TOTGGE",
                                 "description": "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI (grant equivalent methodology), by donor countries (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6945,7 +6892,7 @@
                             {
                                 "code": "BX_TRF_PWKR",
                                 "description": "Volume of remittances (in United States dollars) as a proportion of total GDP (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -6975,7 +6922,7 @@
                             {
                                 "code": "DT_TDS_DECT",
                                 "description": "Debt service as a proportion of exports of goods and services (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7040,12 +6987,12 @@
                             {
                                 "code": "IT_NET_BBN",
                                 "description": "Number of fixed Internet broadband subscriptions, by speed (number)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "IT_NET_BBP",
                                 "description": "Fixed Internet broadband subscriptions per 100\u00a0inhabitants, by speed (per 100 inhabitants)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7098,7 +7045,7 @@
                             {
                                 "code": "IT_USE_ii99",
                                 "description": "Internet users per 100 inhabitants",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7128,7 +7075,7 @@
                             {
                                 "code": "DC_FTA_TOTAL",
                                 "description": "Total official development assistance (gross disbursement) for technical cooperation (millions of 2017 United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7158,7 +7105,7 @@
                             {
                                 "code": "TM_TAX_WWTAV",
                                 "description": "Worldwide weighted tariff-average (weighted mean), by type of product and trade regime (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7188,22 +7135,22 @@
                             {
                                 "code": "TX_IMP_GBMRCH",
                                 "description": "Developing countries\u2019 and least developed countries\u2019 share of global merchandise imports (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "TX_EXP_GBMRCH",
                                 "description": "Developing countries\u2019 and least developed countries\u2019 share of global merchandise exports (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "TX_EXP_GBSVR",
                                 "description": "Developing countries\u2019 and least developed countries\u2019 share of global services exports (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "TX_IMP_GBSVR",
                                 "description": "Developing countries\u2019 and least developed countries\u2019 share of global services imports (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7233,7 +7180,7 @@
                             {
                                 "code": "TM_TAX_ATRFD",
                                 "description": "Average tariff applied by developed countries, by type of product (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7309,42 +7256,42 @@
                             {
                                 "code": "SG_PLN_PRVRIMON",
                                 "description": "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_PLN_RECRIMON",
                                 "description": "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_PLN_PRVNDI",
                                 "description": "Proportion of new development interventions drawn from country-led result frameworks - data by provider (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_PLN_RECNDI",
                                 "description": "Proportion of new development interventions drawn from country-led result frameworks - data by recipient (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_PLN_PRVRICTRY",
                                 "description": "Proportion of results indicators drawn from country-led results frameworks - data by provider (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_PLN_RECRICTRY",
                                 "description": "Proportion of results indicators drawn from country-led results frameworks - data by recipient (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_PLN_REPOLRES",
                                 "description": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%) ",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_PLN_PRPOLRES",
                                 "description": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%) ",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7374,7 +7321,7 @@
                             {
                                 "code": "SG_PLN_MSTKSDG",
                                 "description": "Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7439,7 +7386,7 @@
                             {
                                 "code": "SG_STT_FPOS",
                                 "description": "Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -7458,27 +7405,27 @@
                             {
                                 "code": "SG_STT_NSDSFDGVT",
                                 "description": "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_STT_NSDSFDDNR",
                                 "description": "Countries with national statistical plans with funding from donors (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_STT_NSDSFDOTHR",
                                 "description": "Countries with national statistical plans with funding from others (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_STT_NSDSIMPL",
                                 "description": "Countries with national statistical plans that are under implementation (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_STT_NSDSFND",
                                 "description": "Countries with national statistical plans that are fully funded (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
@@ -7508,7 +7455,7 @@
                             {
                                 "code": "SG_STT_CAPTY",
                                 "description": "Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     },
@@ -7527,32 +7474,32 @@
                             {
                                 "code": "SG_REG_BRTH90",
                                 "description": "Proportion of countries with birth registration data that are at least 90 percent complete (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_REG_DETH75",
                                 "description": "Proportion of countries with death registration data that are at least 75 percent complete (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_REG_CENSUS",
                                 "description": "Proportion of countries that have conducted at least one population and housing census in the last 10 years (%)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_REG_CENSUSN",
                                 "description": "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_REG_BRTH90N",
                                 "description": "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             },
                             {
                                 "code": "SG_REG_DETH75N",
                                 "description": "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO)",
-                                "release": "2019.Q2.G.01"
+                                "release": "2019.Q3.G.01"
                             }
                         ]
                     }
