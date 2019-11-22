@@ -4,7 +4,7 @@
     "indicator": "1.5.4",
     "seriesCode": "SG_GOV_LOGV",
     "seriesDesc": "Number of local governments (number)",
-    "release": "2019.Q2.G.01",
+    "release": "2019.Q3.G.01",
     "data": [
         {
             "geoAreaCode": "004",
@@ -21,6 +21,9 @@
             "areaName": "Afghanistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -56,6 +59,9 @@
             "areaName": "Albania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -91,6 +97,9 @@
             "areaName": "Antarctica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -126,6 +135,9 @@
             "areaName": "Algeria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -161,6 +173,9 @@
             "areaName": "American Samoa",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -196,6 +211,9 @@
             "areaName": "Andorra",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -231,6 +249,9 @@
             "areaName": "Angola",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -266,6 +287,9 @@
             "areaName": "Antigua and Barbuda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -301,6 +325,9 @@
             "areaName": "Azerbaijan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -336,6 +363,9 @@
             "areaName": "Argentina",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -371,6 +401,9 @@
             "areaName": "Australia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -406,6 +439,9 @@
             "areaName": "Austria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -441,6 +477,9 @@
             "areaName": "Bahamas",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -476,6 +515,9 @@
             "areaName": "Bahrain",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -511,6 +553,9 @@
             "areaName": "Bangladesh",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -546,6 +591,9 @@
             "areaName": "Armenia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -581,6 +629,9 @@
             "areaName": "Barbados",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -616,6 +667,9 @@
             "areaName": "Belgium",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -651,6 +705,9 @@
             "areaName": "Bermuda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -686,6 +743,9 @@
             "areaName": "Bhutan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -721,6 +781,9 @@
             "areaName": "Bolivia (Plurinational State of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -756,6 +819,9 @@
             "areaName": "Bosnia and Herzegovina",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -791,6 +857,9 @@
             "areaName": "Botswana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -826,6 +895,9 @@
             "areaName": "Bouvet Island",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -861,6 +933,9 @@
             "areaName": "Brazil",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -896,6 +971,9 @@
             "areaName": "Belize",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -931,6 +1009,9 @@
             "areaName": "British Indian Ocean Territory",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -966,6 +1047,9 @@
             "areaName": "Solomon Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1001,6 +1085,9 @@
             "areaName": "British Virgin Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1036,6 +1123,9 @@
             "areaName": "Brunei Darussalam",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1071,6 +1161,9 @@
             "areaName": "Bulgaria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -1106,6 +1199,9 @@
             "areaName": "Myanmar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -1141,6 +1237,9 @@
             "areaName": "Burundi",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -1176,6 +1275,9 @@
             "areaName": "Belarus",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1211,6 +1313,9 @@
             "areaName": "Cambodia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1246,6 +1351,9 @@
             "areaName": "Cameroon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1281,6 +1389,9 @@
             "areaName": "Canada",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1316,6 +1427,9 @@
             "areaName": "Cabo Verde",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1351,6 +1465,9 @@
             "areaName": "Cayman Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1386,6 +1503,9 @@
             "areaName": "Central African Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1421,6 +1541,9 @@
             "areaName": "Sri Lanka",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1456,6 +1579,9 @@
             "areaName": "Chad",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1491,6 +1617,9 @@
             "areaName": "Chile",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -1526,6 +1655,9 @@
             "areaName": "China",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1561,6 +1693,9 @@
             "areaName": "Christmas Island",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1596,6 +1731,9 @@
             "areaName": "Cocos (Keeling) Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1631,6 +1769,9 @@
             "areaName": "Colombia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -1666,6 +1807,9 @@
             "areaName": "Comoros",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -1701,6 +1845,9 @@
             "areaName": "Mayotte",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1736,6 +1883,9 @@
             "areaName": "Congo",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1771,6 +1921,9 @@
             "areaName": "Democratic Republic of the Congo",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1806,6 +1959,9 @@
             "areaName": "Cook Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1841,6 +1997,9 @@
             "areaName": "Costa Rica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -1876,6 +2035,9 @@
             "areaName": "Croatia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -1911,6 +2073,9 @@
             "areaName": "Cuba",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1946,6 +2111,9 @@
             "areaName": "Cyprus",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1981,6 +2149,9 @@
             "areaName": "Czechia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -2016,6 +2187,9 @@
             "areaName": "Benin",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2051,6 +2225,9 @@
             "areaName": "Denmark",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2086,6 +2263,9 @@
             "areaName": "Dominica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2121,6 +2301,9 @@
             "areaName": "Dominican Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2156,6 +2339,9 @@
             "areaName": "Ecuador",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -2191,6 +2377,9 @@
             "areaName": "El Salvador",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2226,6 +2415,9 @@
             "areaName": "Equatorial Guinea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2261,6 +2453,9 @@
             "areaName": "Ethiopia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2296,6 +2491,9 @@
             "areaName": "Eritrea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2331,6 +2529,9 @@
             "areaName": "Estonia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -2366,6 +2567,9 @@
             "areaName": "Faroe Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2401,6 +2605,9 @@
             "areaName": "Falkland Islands (Malvinas)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2436,6 +2643,9 @@
             "areaName": "South Georgia and the South Sandwich Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2471,6 +2681,9 @@
             "areaName": "Fiji",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2506,6 +2719,9 @@
             "areaName": "Finland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -2541,6 +2757,9 @@
             "areaName": "\u00c5land Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2576,6 +2795,9 @@
             "areaName": "France",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2611,6 +2833,9 @@
             "areaName": "French Guiana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2646,6 +2871,9 @@
             "areaName": "French Polynesia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2681,6 +2909,9 @@
             "areaName": "French Southern Territories",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2716,6 +2947,9 @@
             "areaName": "Djibouti",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2751,6 +2985,9 @@
             "areaName": "Gabon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2786,6 +3023,9 @@
             "areaName": "Georgia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -2821,6 +3061,9 @@
             "areaName": "Gambia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -2856,6 +3099,9 @@
             "areaName": "State of Palestine",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -2891,6 +3137,9 @@
             "areaName": "Germany",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2926,6 +3175,9 @@
             "areaName": "Ghana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2961,6 +3213,9 @@
             "areaName": "Gibraltar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2996,6 +3251,9 @@
             "areaName": "Kiribati",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3031,6 +3289,9 @@
             "areaName": "Greece",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3066,6 +3327,9 @@
             "areaName": "Greenland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3101,6 +3365,9 @@
             "areaName": "Grenada",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3136,6 +3403,9 @@
             "areaName": "Guadeloupe",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3171,6 +3441,9 @@
             "areaName": "Guam",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3206,6 +3479,9 @@
             "areaName": "Guatemala",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3241,6 +3517,9 @@
             "areaName": "Guinea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3276,6 +3555,9 @@
             "areaName": "Guyana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3311,6 +3593,9 @@
             "areaName": "Haiti",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3346,6 +3631,9 @@
             "areaName": "Heard Island and McDonald Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3381,6 +3669,9 @@
             "areaName": "Holy See",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3416,6 +3707,9 @@
             "areaName": "Honduras",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3451,6 +3745,9 @@
             "areaName": "China, Hong Kong Special Administrative Region",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3486,6 +3783,9 @@
             "areaName": "Hungary",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3521,6 +3821,9 @@
             "areaName": "Iceland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3556,6 +3859,9 @@
             "areaName": "India",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3591,6 +3897,9 @@
             "areaName": "Indonesia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -3626,6 +3935,9 @@
             "areaName": "Iran (Islamic Republic of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3661,6 +3973,9 @@
             "areaName": "Iraq",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -3696,6 +4011,9 @@
             "areaName": "Ireland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -3731,6 +4049,9 @@
             "areaName": "Israel",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3766,6 +4087,9 @@
             "areaName": "Italy",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3801,6 +4125,9 @@
             "areaName": "C\u00f4te d'Ivoire",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3836,6 +4163,9 @@
             "areaName": "Jamaica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3871,6 +4201,9 @@
             "areaName": "Japan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -3906,6 +4239,9 @@
             "areaName": "Kazakhstan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -3941,6 +4277,9 @@
             "areaName": "Jordan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3976,6 +4315,9 @@
             "areaName": "Kenya",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4011,6 +4353,9 @@
             "areaName": "Democratic People's Republic of Korea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4046,6 +4391,9 @@
             "areaName": "Republic of Korea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -4081,6 +4429,9 @@
             "areaName": "Kuwait",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -4116,6 +4467,9 @@
             "areaName": "Kyrgyzstan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4151,6 +4505,9 @@
             "areaName": "Lao People's Democratic Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4186,6 +4543,9 @@
             "areaName": "Lebanon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -4221,6 +4581,9 @@
             "areaName": "Lesotho",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4256,6 +4619,9 @@
             "areaName": "Latvia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4291,6 +4657,9 @@
             "areaName": "Liberia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4326,6 +4695,9 @@
             "areaName": "Libya",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4361,6 +4733,9 @@
             "areaName": "Liechtenstein",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4396,6 +4771,9 @@
             "areaName": "Lithuania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4431,6 +4809,9 @@
             "areaName": "Luxembourg",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4466,6 +4847,9 @@
             "areaName": "China, Macao Special Administrative Region",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4501,6 +4885,9 @@
             "areaName": "Madagascar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4536,6 +4923,9 @@
             "areaName": "Malawi",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -4571,6 +4961,9 @@
             "areaName": "Malaysia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -4606,6 +4999,9 @@
             "areaName": "Maldives",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4641,6 +5037,9 @@
             "areaName": "Mali",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4676,6 +5075,9 @@
             "areaName": "Malta",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4711,6 +5113,9 @@
             "areaName": "Martinique",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4746,6 +5151,9 @@
             "areaName": "Mauritania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4781,6 +5189,9 @@
             "areaName": "Mauritius",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4816,6 +5227,9 @@
             "areaName": "Mexico",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -4851,6 +5265,9 @@
             "areaName": "Monaco",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -4886,6 +5303,9 @@
             "areaName": "Mongolia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -4921,6 +5341,9 @@
             "areaName": "Republic of Moldova",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4956,6 +5379,9 @@
             "areaName": "Montenegro",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -4991,6 +5417,9 @@
             "areaName": "Montserrat",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5026,6 +5455,9 @@
             "areaName": "Morocco",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5061,6 +5493,9 @@
             "areaName": "Mozambique",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -5096,6 +5531,9 @@
             "areaName": "Oman",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5131,6 +5569,9 @@
             "areaName": "Namibia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -5166,6 +5607,9 @@
             "areaName": "Nauru",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5201,6 +5645,9 @@
             "areaName": "Nepal",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -5236,6 +5683,9 @@
             "areaName": "Netherlands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -5271,6 +5721,9 @@
             "areaName": "Netherlands Antilles",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5306,6 +5759,9 @@
             "areaName": "Cura\u00e7ao",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5341,6 +5797,9 @@
             "areaName": "Aruba",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5376,6 +5835,9 @@
             "areaName": "Sint Maarten (Dutch part)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5411,6 +5873,9 @@
             "areaName": "New Caledonia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5446,6 +5911,9 @@
             "areaName": "Vanuatu",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5481,6 +5949,9 @@
             "areaName": "New Zealand",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -5516,6 +5987,9 @@
             "areaName": "Nicaragua",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5551,6 +6025,9 @@
             "areaName": "Niger",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -5586,6 +6063,9 @@
             "areaName": "Nigeria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5621,6 +6101,9 @@
             "areaName": "Niue",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5656,6 +6139,9 @@
             "areaName": "Norfolk Island",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5691,6 +6177,9 @@
             "areaName": "Norway",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -5726,6 +6215,9 @@
             "areaName": "Northern Mariana Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5761,6 +6253,9 @@
             "areaName": "United States Minor Outlying Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5796,6 +6291,9 @@
             "areaName": "Micronesia (Federated States of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5831,6 +6329,9 @@
             "areaName": "Marshall Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5866,6 +6367,9 @@
             "areaName": "Palau",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5901,6 +6405,9 @@
             "areaName": "Pakistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5936,6 +6443,9 @@
             "areaName": "Panama",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5971,6 +6481,9 @@
             "areaName": "Papua New Guinea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6006,6 +6519,9 @@
             "areaName": "Paraguay",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6041,6 +6557,9 @@
             "areaName": "Peru",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -6076,6 +6595,9 @@
             "areaName": "Philippines",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6111,6 +6633,9 @@
             "areaName": "Pitcairn",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6146,6 +6671,9 @@
             "areaName": "Poland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6181,6 +6709,9 @@
             "areaName": "Portugal",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6216,6 +6747,9 @@
             "areaName": "Guinea-Bissau",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6251,6 +6785,9 @@
             "areaName": "Timor-Leste",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6286,6 +6823,9 @@
             "areaName": "Puerto Rico",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6321,6 +6861,9 @@
             "areaName": "Qatar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6356,6 +6899,9 @@
             "areaName": "R\u00e9union",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6391,6 +6937,9 @@
             "areaName": "Romania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -6426,6 +6975,9 @@
             "areaName": "Russian Federation",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6461,6 +7013,9 @@
             "areaName": "Rwanda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6496,6 +7051,9 @@
             "areaName": "Saint Barth\u00e9lemy",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6531,6 +7089,9 @@
             "areaName": "Saint Helena",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6566,6 +7127,9 @@
             "areaName": "Saint Kitts and Nevis",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6601,6 +7165,9 @@
             "areaName": "Anguilla",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6636,6 +7203,9 @@
             "areaName": "Saint Lucia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6671,6 +7241,9 @@
             "areaName": "Saint Martin (French Part)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6706,6 +7279,9 @@
             "areaName": "Saint Pierre and Miquelon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6741,6 +7317,9 @@
             "areaName": "Saint Vincent and the Grenadines",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6776,6 +7355,9 @@
             "areaName": "San Marino",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6811,6 +7393,9 @@
             "areaName": "Sao Tome and Principe",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6846,6 +7431,9 @@
             "areaName": "Saudi Arabia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6881,6 +7469,9 @@
             "areaName": "Senegal",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6916,6 +7507,9 @@
             "areaName": "Serbia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -6951,6 +7545,9 @@
             "areaName": "Seychelles",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6986,6 +7583,9 @@
             "areaName": "Sierra Leone",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7021,6 +7621,9 @@
             "areaName": "Singapore",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7056,6 +7659,9 @@
             "areaName": "Slovakia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7091,6 +7697,9 @@
             "areaName": "Viet Nam",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7126,6 +7735,9 @@
             "areaName": "Slovenia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -7161,6 +7773,9 @@
             "areaName": "Somalia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -7196,6 +7811,9 @@
             "areaName": "South Africa",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -7231,6 +7849,9 @@
             "areaName": "Zimbabwe",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -7266,6 +7887,9 @@
             "areaName": "Spain",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7301,6 +7925,9 @@
             "areaName": "South Sudan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7336,6 +7963,9 @@
             "areaName": "Sudan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7371,6 +8001,9 @@
             "areaName": "Western Sahara",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7406,6 +8039,9 @@
             "areaName": "Suriname",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7441,6 +8077,9 @@
             "areaName": "Svalbard and Jan Mayen Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7476,6 +8115,9 @@
             "areaName": "Eswatini",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -7511,6 +8153,9 @@
             "areaName": "Sweden",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -7546,6 +8191,9 @@
             "areaName": "Switzerland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -7581,6 +8229,9 @@
             "areaName": "Syrian Arab Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7616,6 +8267,9 @@
             "areaName": "Tajikistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -7651,6 +8305,9 @@
             "areaName": "Thailand",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -7686,6 +8343,9 @@
             "areaName": "Togo",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7721,6 +8381,9 @@
             "areaName": "Tokelau",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7756,6 +8419,9 @@
             "areaName": "Tonga",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7791,6 +8457,9 @@
             "areaName": "Trinidad and Tobago",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7826,6 +8495,9 @@
             "areaName": "United Arab Emirates",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7861,6 +8533,9 @@
             "areaName": "Tunisia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7896,6 +8571,9 @@
             "areaName": "Turkey",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7931,6 +8609,9 @@
             "areaName": "Turkmenistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7966,6 +8647,9 @@
             "areaName": "Turks and Caicos Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8001,6 +8685,9 @@
             "areaName": "Tuvalu",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8036,6 +8723,9 @@
             "areaName": "Uganda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -8071,6 +8761,9 @@
             "areaName": "Ukraine",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -8106,6 +8799,9 @@
             "areaName": "North Macedonia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8141,6 +8837,9 @@
             "areaName": "Egypt",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -8176,6 +8875,9 @@
             "areaName": "United Kingdom of Great Britain and Northern Ireland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8211,6 +8913,9 @@
             "areaName": "Guernsey",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8246,6 +8951,9 @@
             "areaName": "Jersey",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8281,6 +8989,9 @@
             "areaName": "Isle of Man",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8316,6 +9027,9 @@
             "areaName": "United Republic of Tanzania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -8351,6 +9065,9 @@
             "areaName": "United States of America",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8386,6 +9103,9 @@
             "areaName": "United States Virgin Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8421,6 +9141,9 @@
             "areaName": "Burkina Faso",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8456,6 +9179,9 @@
             "areaName": "Uruguay",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "NUMBER",
                     "unitsDesc": "Number",
                     "unitmultiplierCode": "",
@@ -8491,6 +9217,9 @@
             "areaName": "Uzbekistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8526,6 +9255,9 @@
             "areaName": "Venezuela (Bolivarian Republic of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8561,6 +9293,9 @@
             "areaName": "Wallis and Futuna Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8596,6 +9331,9 @@
             "areaName": "Samoa",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8631,6 +9369,9 @@
             "areaName": "Yemen",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8666,6 +9407,9 @@
             "areaName": "Zambia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",

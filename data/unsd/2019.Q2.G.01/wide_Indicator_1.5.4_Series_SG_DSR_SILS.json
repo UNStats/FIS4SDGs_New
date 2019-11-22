@@ -4,7 +4,7 @@
     "indicator": "1.5.4",
     "seriesCode": "SG_DSR_SILS",
     "seriesDesc": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
-    "release": "2019.Q2.G.01",
+    "release": "2019.Q3.G.01",
     "data": [
         {
             "geoAreaCode": "004",
@@ -21,7 +21,10 @@
             "areaName": "Afghanistan",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -56,7 +59,10 @@
             "areaName": "Albania",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -91,6 +97,9 @@
             "areaName": "Antarctica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -126,6 +135,9 @@
             "areaName": "Algeria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -161,6 +173,9 @@
             "areaName": "American Samoa",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -196,6 +211,9 @@
             "areaName": "Andorra",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -231,7 +249,10 @@
             "areaName": "Angola",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -242,11 +263,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.44,
-                    "value_2016": 0.44,
-                    "value_2017": 0.44,
-                    "value_2018": 0.44,
-                    "value_latest_year": 0.44,
+                    "value_2015": 44.44444,
+                    "value_2016": 44.44444,
+                    "value_2017": 44.44444,
+                    "value_2018": 44.44444,
+                    "value_latest_year": 44.44444,
                     "latest_year": 2018
                 }
             ]
@@ -266,6 +287,9 @@
             "areaName": "Antigua and Barbuda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -301,6 +325,9 @@
             "areaName": "Azerbaijan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -336,6 +363,9 @@
             "areaName": "Argentina",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -371,7 +401,10 @@
             "areaName": "Australia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -385,8 +418,8 @@
                     "value_2015": null,
                     "value_2016": null,
                     "value_2017": null,
-                    "value_2018": 0.23,
-                    "value_latest_year": 0.23,
+                    "value_2018": 23.46369,
+                    "value_latest_year": 23.46369,
                     "latest_year": 2018
                 }
             ]
@@ -406,6 +439,9 @@
             "areaName": "Austria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -441,6 +477,9 @@
             "areaName": "Bahamas",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -476,6 +515,9 @@
             "areaName": "Bahrain",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -511,6 +553,9 @@
             "areaName": "Bangladesh",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -546,7 +591,10 @@
             "areaName": "Armenia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -559,9 +607,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 0.16,
+                    "value_2017": 16.01513,
                     "value_2018": null,
-                    "value_latest_year": 0.16,
+                    "value_latest_year": 16.01513,
                     "latest_year": 2017
                 }
             ]
@@ -581,6 +629,9 @@
             "areaName": "Barbados",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -616,6 +667,9 @@
             "areaName": "Belgium",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -651,6 +705,9 @@
             "areaName": "Bermuda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -686,7 +743,10 @@
             "areaName": "Bhutan",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -700,8 +760,8 @@
                     "value_2015": null,
                     "value_2016": null,
                     "value_2017": null,
-                    "value_2018": 0.51,
-                    "value_latest_year": 0.51,
+                    "value_2018": 51.28205,
+                    "value_latest_year": 51.28205,
                     "latest_year": 2018
                 }
             ]
@@ -721,6 +781,9 @@
             "areaName": "Bolivia (Plurinational State of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -756,7 +819,10 @@
             "areaName": "Bosnia and Herzegovina",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -791,7 +857,10 @@
             "areaName": "Botswana",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -804,9 +873,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 0.22,
-                    "value_2018": 0.28,
-                    "value_latest_year": 0.28,
+                    "value_2017": 21.875,
+                    "value_2018": 28.125,
+                    "value_latest_year": 28.125,
                     "latest_year": 2018
                 }
             ]
@@ -826,6 +895,9 @@
             "areaName": "Bouvet Island",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -861,6 +933,9 @@
             "areaName": "Brazil",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -896,6 +971,9 @@
             "areaName": "Belize",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -931,6 +1009,9 @@
             "areaName": "British Indian Ocean Territory",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -966,6 +1047,9 @@
             "areaName": "Solomon Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1001,6 +1085,9 @@
             "areaName": "British Virgin Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1036,6 +1123,9 @@
             "areaName": "Brunei Darussalam",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1071,7 +1161,10 @@
             "areaName": "Bulgaria",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1106,7 +1199,10 @@
             "areaName": "Myanmar",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1117,11 +1213,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -1141,7 +1237,10 @@
             "areaName": "Burundi",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1152,11 +1251,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.56,
+                    "value_2015": 55.83333,
                     "value_2016": null,
                     "value_2017": null,
                     "value_2018": null,
-                    "value_latest_year": 0.56,
+                    "value_latest_year": 55.83333,
                     "latest_year": 2015
                 }
             ]
@@ -1176,6 +1275,9 @@
             "areaName": "Belarus",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1211,6 +1313,9 @@
             "areaName": "Cambodia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1246,6 +1351,9 @@
             "areaName": "Cameroon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1281,6 +1389,9 @@
             "areaName": "Canada",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1316,6 +1427,9 @@
             "areaName": "Cabo Verde",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1351,6 +1465,9 @@
             "areaName": "Cayman Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1386,6 +1503,9 @@
             "areaName": "Central African Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1421,6 +1541,9 @@
             "areaName": "Sri Lanka",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1456,6 +1579,9 @@
             "areaName": "Chad",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1491,7 +1617,10 @@
             "areaName": "Chile",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1502,11 +1631,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.2,
-                    "value_2016": 0.22,
-                    "value_2017": 0.3,
-                    "value_2018": 0.56,
-                    "value_latest_year": 0.56,
+                    "value_2015": 20.28986,
+                    "value_2016": 22.02899,
+                    "value_2017": 29.56522,
+                    "value_2018": 55.65217,
+                    "value_latest_year": 55.65217,
                     "latest_year": 2018
                 }
             ]
@@ -1526,6 +1655,9 @@
             "areaName": "China",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1561,6 +1693,9 @@
             "areaName": "Christmas Island",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1596,6 +1731,9 @@
             "areaName": "Cocos (Keeling) Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1631,7 +1769,10 @@
             "areaName": "Colombia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1642,11 +1783,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.74,
-                    "value_2016": 0.79,
-                    "value_2017": 0.8,
-                    "value_2018": 0.82,
-                    "value_latest_year": 0.82,
+                    "value_2015": 73.77495,
+                    "value_2016": 78.67514,
+                    "value_2017": 80.30853,
+                    "value_2018": 81.94192,
+                    "value_latest_year": 81.94192,
                     "latest_year": 2018
                 }
             ]
@@ -1666,7 +1807,10 @@
             "areaName": "Comoros",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1679,9 +1823,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 1.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -1701,6 +1845,9 @@
             "areaName": "Mayotte",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1736,6 +1883,9 @@
             "areaName": "Congo",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1771,6 +1921,9 @@
             "areaName": "Democratic Republic of the Congo",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1806,6 +1959,9 @@
             "areaName": "Cook Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1841,7 +1997,10 @@
             "areaName": "Costa Rica",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1852,11 +2011,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -1876,7 +2035,10 @@
             "areaName": "Croatia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1911,6 +2073,9 @@
             "areaName": "Cuba",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1946,6 +2111,9 @@
             "areaName": "Cyprus",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -1981,7 +2149,10 @@
             "areaName": "Czechia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1992,11 +2163,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -2016,6 +2187,9 @@
             "areaName": "Benin",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2051,6 +2225,9 @@
             "areaName": "Denmark",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2086,6 +2263,9 @@
             "areaName": "Dominica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2121,6 +2301,9 @@
             "areaName": "Dominican Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2156,7 +2339,10 @@
             "areaName": "Ecuador",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2167,11 +2353,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.79,
-                    "value_2016": 0.83,
-                    "value_2017": 0.86,
-                    "value_2018": 0.95,
-                    "value_latest_year": 0.95,
+                    "value_2015": 78.73303,
+                    "value_2016": 82.80543,
+                    "value_2017": 86.42534,
+                    "value_2018": 94.57014,
+                    "value_latest_year": 94.57014,
                     "latest_year": 2018
                 }
             ]
@@ -2191,6 +2377,9 @@
             "areaName": "El Salvador",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2226,6 +2415,9 @@
             "areaName": "Equatorial Guinea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2261,6 +2453,9 @@
             "areaName": "Ethiopia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2296,6 +2491,9 @@
             "areaName": "Eritrea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2331,7 +2529,10 @@
             "areaName": "Estonia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2342,11 +2543,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -2366,6 +2567,9 @@
             "areaName": "Faroe Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2401,6 +2605,9 @@
             "areaName": "Falkland Islands (Malvinas)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2436,6 +2643,9 @@
             "areaName": "South Georgia and the South Sandwich Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2471,6 +2681,9 @@
             "areaName": "Fiji",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2506,7 +2719,10 @@
             "areaName": "Finland",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2517,11 +2733,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -2541,6 +2757,9 @@
             "areaName": "\u00c5land Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2576,6 +2795,9 @@
             "areaName": "France",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2611,6 +2833,9 @@
             "areaName": "French Guiana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2646,6 +2871,9 @@
             "areaName": "French Polynesia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2681,6 +2909,9 @@
             "areaName": "French Southern Territories",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2716,6 +2947,9 @@
             "areaName": "Djibouti",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2751,6 +2985,9 @@
             "areaName": "Gabon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2786,7 +3023,10 @@
             "areaName": "Georgia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2821,7 +3061,10 @@
             "areaName": "Gambia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2834,9 +3077,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -2856,7 +3099,10 @@
             "areaName": "State of Palestine",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2867,11 +3113,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -2891,6 +3137,9 @@
             "areaName": "Germany",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2926,6 +3175,9 @@
             "areaName": "Ghana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2961,6 +3213,9 @@
             "areaName": "Gibraltar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -2996,6 +3251,9 @@
             "areaName": "Kiribati",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3031,6 +3289,9 @@
             "areaName": "Greece",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3066,6 +3327,9 @@
             "areaName": "Greenland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3101,6 +3365,9 @@
             "areaName": "Grenada",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3136,6 +3403,9 @@
             "areaName": "Guadeloupe",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3171,6 +3441,9 @@
             "areaName": "Guam",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3206,6 +3479,9 @@
             "areaName": "Guatemala",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3241,6 +3517,9 @@
             "areaName": "Guinea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3276,6 +3555,9 @@
             "areaName": "Guyana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3311,6 +3593,9 @@
             "areaName": "Haiti",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3346,6 +3631,9 @@
             "areaName": "Heard Island and McDonald Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3381,6 +3669,9 @@
             "areaName": "Holy See",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3416,6 +3707,9 @@
             "areaName": "Honduras",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3451,6 +3745,9 @@
             "areaName": "China, Hong Kong Special Administrative Region",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3486,6 +3783,9 @@
             "areaName": "Hungary",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3521,6 +3821,9 @@
             "areaName": "Iceland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3556,6 +3859,9 @@
             "areaName": "India",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3591,7 +3897,10 @@
             "areaName": "Indonesia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3603,10 +3912,10 @@
                     "timeDetails": "",
                     "nature": "C: Country data",
                     "value_2015": 0.0,
-                    "value_2016": 0.03,
-                    "value_2017": 0.09,
-                    "value_2018": 0.05,
-                    "value_latest_year": 0.05,
+                    "value_2016": 2.91829,
+                    "value_2017": 8.75486,
+                    "value_2018": 5.05837,
+                    "value_latest_year": 5.05837,
                     "latest_year": 2018
                 }
             ]
@@ -3626,6 +3935,9 @@
             "areaName": "Iran (Islamic Republic of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3661,7 +3973,10 @@
             "areaName": "Iraq",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3675,8 +3990,8 @@
                     "value_2015": null,
                     "value_2016": null,
                     "value_2017": null,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -3696,7 +4011,10 @@
             "areaName": "Ireland",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3707,11 +4025,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -3731,6 +4049,9 @@
             "areaName": "Israel",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3766,6 +4087,9 @@
             "areaName": "Italy",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3801,6 +4125,9 @@
             "areaName": "C\u00f4te d'Ivoire",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3836,6 +4163,9 @@
             "areaName": "Jamaica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -3871,7 +4201,10 @@
             "areaName": "Japan",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3882,11 +4215,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -3906,7 +4239,10 @@
             "areaName": "Kazakhstan",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3919,9 +4255,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -3941,7 +4277,10 @@
             "areaName": "Jordan",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3976,6 +4315,9 @@
             "areaName": "Kenya",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4011,6 +4353,9 @@
             "areaName": "Democratic People's Republic of Korea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4046,7 +4391,10 @@
             "areaName": "Republic of Korea",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4057,11 +4405,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -4081,7 +4429,10 @@
             "areaName": "Kuwait",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4092,11 +4443,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -4116,6 +4467,9 @@
             "areaName": "Kyrgyzstan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4151,6 +4505,9 @@
             "areaName": "Lao People's Democratic Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4186,7 +4543,10 @@
             "areaName": "Lebanon",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4221,6 +4581,9 @@
             "areaName": "Lesotho",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4256,6 +4619,9 @@
             "areaName": "Latvia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4291,6 +4657,9 @@
             "areaName": "Liberia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4326,6 +4695,9 @@
             "areaName": "Libya",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4361,6 +4733,9 @@
             "areaName": "Liechtenstein",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4396,6 +4771,9 @@
             "areaName": "Lithuania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4431,6 +4809,9 @@
             "areaName": "Luxembourg",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4466,6 +4847,9 @@
             "areaName": "China, Macao Special Administrative Region",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4501,6 +4885,9 @@
             "areaName": "Madagascar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4536,7 +4923,10 @@
             "areaName": "Malawi",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4547,11 +4937,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.12,
-                    "value_2016": 0.12,
-                    "value_2017": 0.21,
-                    "value_2018": 0.56,
-                    "value_latest_year": 0.56,
+                    "value_2015": 11.76471,
+                    "value_2016": 11.76471,
+                    "value_2017": 20.58824,
+                    "value_2018": 55.88235,
+                    "value_latest_year": 55.88235,
                     "latest_year": 2018
                 }
             ]
@@ -4571,7 +4961,10 @@
             "areaName": "Malaysia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4582,11 +4975,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -4606,6 +4999,9 @@
             "areaName": "Maldives",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4641,6 +5037,9 @@
             "areaName": "Mali",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4676,6 +5075,9 @@
             "areaName": "Malta",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4711,6 +5113,9 @@
             "areaName": "Martinique",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4746,6 +5151,9 @@
             "areaName": "Mauritania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4781,6 +5189,9 @@
             "areaName": "Mauritius",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4816,7 +5227,10 @@
             "areaName": "Mexico",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4827,11 +5241,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.63,
-                    "value_2016": 0.75,
-                    "value_2017": 0.75,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2015": 62.5,
+                    "value_2016": 75.0,
+                    "value_2017": 75.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -4851,7 +5265,10 @@
             "areaName": "Monaco",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4864,9 +5281,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -4886,7 +5303,10 @@
             "areaName": "Mongolia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4898,10 +5318,10 @@
                     "timeDetails": "",
                     "nature": "C: Country data",
                     "value_2015": 0.0,
-                    "value_2016": 0.09,
-                    "value_2017": 0.27,
+                    "value_2016": 9.09091,
+                    "value_2017": 27.27273,
                     "value_2018": null,
-                    "value_latest_year": 0.27,
+                    "value_latest_year": 27.27273,
                     "latest_year": 2017
                 }
             ]
@@ -4921,6 +5341,9 @@
             "areaName": "Republic of Moldova",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -4956,7 +5379,10 @@
             "areaName": "Montenegro",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4991,6 +5417,9 @@
             "areaName": "Montserrat",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5026,6 +5455,9 @@
             "areaName": "Morocco",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5061,7 +5493,10 @@
             "areaName": "Mozambique",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5074,9 +5509,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 1.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -5096,6 +5531,9 @@
             "areaName": "Oman",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5131,7 +5569,10 @@
             "areaName": "Namibia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5142,11 +5583,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -5166,6 +5607,9 @@
             "areaName": "Nauru",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5201,7 +5645,10 @@
             "areaName": "Nepal",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5212,11 +5659,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.24,
-                    "value_2016": 0.24,
-                    "value_2017": 0.02,
-                    "value_2018": 0.07,
-                    "value_latest_year": 0.07,
+                    "value_2015": 23.71073,
+                    "value_2016": 24.45169,
+                    "value_2017": 1.59363,
+                    "value_2018": 7.43692,
+                    "value_latest_year": 7.43692,
                     "latest_year": 2018
                 }
             ]
@@ -5236,7 +5683,10 @@
             "areaName": "Netherlands",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5249,9 +5699,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 1.0,
+                    "value_2017": 100.0,
                     "value_2018": null,
-                    "value_latest_year": 1.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2017
                 }
             ]
@@ -5271,6 +5721,9 @@
             "areaName": "Netherlands Antilles",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5306,6 +5759,9 @@
             "areaName": "Cura\u00e7ao",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5341,6 +5797,9 @@
             "areaName": "Aruba",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5376,6 +5835,9 @@
             "areaName": "Sint Maarten (Dutch part)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5411,6 +5873,9 @@
             "areaName": "New Caledonia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5446,6 +5911,9 @@
             "areaName": "Vanuatu",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5481,7 +5949,10 @@
             "areaName": "New Zealand",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5492,11 +5963,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -5516,6 +5987,9 @@
             "areaName": "Nicaragua",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5551,7 +6025,10 @@
             "areaName": "Niger",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5562,11 +6039,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.51,
-                    "value_2016": 0.73,
-                    "value_2017": 0.85,
-                    "value_2018": 0.85,
-                    "value_latest_year": 0.85,
+                    "value_2015": 51.45985,
+                    "value_2016": 72.84483,
+                    "value_2017": 84.67153,
+                    "value_2018": 84.67153,
+                    "value_latest_year": 84.67153,
                     "latest_year": 2018
                 }
             ]
@@ -5586,6 +6063,9 @@
             "areaName": "Nigeria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5621,6 +6101,9 @@
             "areaName": "Niue",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5656,6 +6139,9 @@
             "areaName": "Norfolk Island",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5691,7 +6177,10 @@
             "areaName": "Norway",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5704,9 +6193,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 0.97,
+                    "value_2017": 97.05094,
                     "value_2018": null,
-                    "value_latest_year": 0.97,
+                    "value_latest_year": 97.05094,
                     "latest_year": 2017
                 }
             ]
@@ -5726,6 +6215,9 @@
             "areaName": "Northern Mariana Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5761,6 +6253,9 @@
             "areaName": "United States Minor Outlying Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5796,6 +6291,9 @@
             "areaName": "Micronesia (Federated States of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5831,6 +6329,9 @@
             "areaName": "Marshall Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5866,6 +6367,9 @@
             "areaName": "Palau",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5901,6 +6405,9 @@
             "areaName": "Pakistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5936,6 +6443,9 @@
             "areaName": "Panama",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -5971,6 +6481,9 @@
             "areaName": "Papua New Guinea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6006,6 +6519,9 @@
             "areaName": "Paraguay",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6041,7 +6557,10 @@
             "areaName": "Peru",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -6054,9 +6573,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 0.31,
+                    "value_2017": 30.69212,
                     "value_2018": null,
-                    "value_latest_year": 0.31,
+                    "value_latest_year": 30.69212,
                     "latest_year": 2017
                 }
             ]
@@ -6076,6 +6595,9 @@
             "areaName": "Philippines",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6111,6 +6633,9 @@
             "areaName": "Pitcairn",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6146,6 +6671,9 @@
             "areaName": "Poland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6181,6 +6709,9 @@
             "areaName": "Portugal",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6216,6 +6747,9 @@
             "areaName": "Guinea-Bissau",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6251,6 +6785,9 @@
             "areaName": "Timor-Leste",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6286,6 +6823,9 @@
             "areaName": "Puerto Rico",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6321,6 +6861,9 @@
             "areaName": "Qatar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6356,6 +6899,9 @@
             "areaName": "R\u00e9union",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6391,7 +6937,10 @@
             "areaName": "Romania",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -6426,6 +6975,9 @@
             "areaName": "Russian Federation",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6461,6 +7013,9 @@
             "areaName": "Rwanda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6496,6 +7051,9 @@
             "areaName": "Saint Barth\u00e9lemy",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6531,6 +7089,9 @@
             "areaName": "Saint Helena",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6566,6 +7127,9 @@
             "areaName": "Saint Kitts and Nevis",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6601,6 +7165,9 @@
             "areaName": "Anguilla",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6636,6 +7203,9 @@
             "areaName": "Saint Lucia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6671,6 +7241,9 @@
             "areaName": "Saint Martin (French Part)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6706,6 +7279,9 @@
             "areaName": "Saint Pierre and Miquelon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6741,6 +7317,9 @@
             "areaName": "Saint Vincent and the Grenadines",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6776,6 +7355,9 @@
             "areaName": "San Marino",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6811,6 +7393,9 @@
             "areaName": "Sao Tome and Principe",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6846,6 +7431,9 @@
             "areaName": "Saudi Arabia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6881,6 +7469,9 @@
             "areaName": "Senegal",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6916,7 +7507,10 @@
             "areaName": "Serbia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -6930,8 +7524,8 @@
                     "value_2015": null,
                     "value_2016": null,
                     "value_2017": 0.0,
-                    "value_2018": 0.05,
-                    "value_latest_year": 0.05,
+                    "value_2018": 4.5977,
+                    "value_latest_year": 4.5977,
                     "latest_year": 2018
                 }
             ]
@@ -6951,6 +7545,9 @@
             "areaName": "Seychelles",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -6986,6 +7583,9 @@
             "areaName": "Sierra Leone",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7021,6 +7621,9 @@
             "areaName": "Singapore",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7056,6 +7659,9 @@
             "areaName": "Slovakia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7091,6 +7697,9 @@
             "areaName": "Viet Nam",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7126,7 +7735,10 @@
             "areaName": "Slovenia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7140,8 +7752,8 @@
                     "value_2015": 0.0,
                     "value_2016": 0.0,
                     "value_2017": 0.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -7161,7 +7773,10 @@
             "areaName": "Somalia",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7174,9 +7789,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 0.29,
-                    "value_2018": 0.43,
-                    "value_latest_year": 0.43,
+                    "value_2017": 28.57143,
+                    "value_2018": 42.85714,
+                    "value_latest_year": 42.85714,
                     "latest_year": 2018
                 }
             ]
@@ -7196,7 +7811,10 @@
             "areaName": "South Africa",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7207,11 +7825,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.92,
-                    "value_2016": 0.92,
-                    "value_2017": 0.92,
+                    "value_2015": 92.30769,
+                    "value_2016": 92.30769,
+                    "value_2017": 92.30769,
                     "value_2018": null,
-                    "value_latest_year": 0.92,
+                    "value_latest_year": 92.30769,
                     "latest_year": 2017
                 }
             ]
@@ -7231,7 +7849,10 @@
             "areaName": "Zimbabwe",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7244,9 +7865,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 0.83,
-                    "value_2018": 0.9,
-                    "value_latest_year": 0.9,
+                    "value_2017": 83.33333,
+                    "value_2018": 90.27778,
+                    "value_latest_year": 90.27778,
                     "latest_year": 2018
                 }
             ]
@@ -7266,6 +7887,9 @@
             "areaName": "Spain",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7301,6 +7925,9 @@
             "areaName": "South Sudan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7336,6 +7963,9 @@
             "areaName": "Sudan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7371,6 +8001,9 @@
             "areaName": "Western Sahara",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7406,6 +8039,9 @@
             "areaName": "Suriname",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7441,6 +8077,9 @@
             "areaName": "Svalbard and Jan Mayen Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7476,7 +8115,10 @@
             "areaName": "Eswatini",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7487,11 +8129,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.33,
-                    "value_2016": 0.34,
-                    "value_2017": 0.34,
-                    "value_2018": 0.34,
-                    "value_latest_year": 0.34,
+                    "value_2015": 32.5779,
+                    "value_2016": 33.71105,
+                    "value_2017": 34.27762,
+                    "value_2018": 34.27762,
+                    "value_latest_year": 34.27762,
                     "latest_year": 2018
                 }
             ]
@@ -7511,7 +8153,10 @@
             "areaName": "Sweden",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7546,7 +8191,10 @@
             "areaName": "Switzerland",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7559,9 +8207,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 0.5,
+                    "value_2017": 50.0,
                     "value_2018": null,
-                    "value_latest_year": 0.5,
+                    "value_latest_year": 50.0,
                     "latest_year": 2017
                 }
             ]
@@ -7581,6 +8229,9 @@
             "areaName": "Syrian Arab Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7616,7 +8267,10 @@
             "areaName": "Tajikistan",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7651,7 +8305,10 @@
             "areaName": "Thailand",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7663,10 +8320,10 @@
                     "timeDetails": "",
                     "nature": "C: Country data",
                     "value_2015": 0.0,
-                    "value_2016": 0.32,
-                    "value_2017": 0.35,
-                    "value_2018": 0.35,
-                    "value_latest_year": 0.35,
+                    "value_2016": 31.83902,
+                    "value_2017": 35.41773,
+                    "value_2018": 35.41773,
+                    "value_latest_year": 35.41773,
                     "latest_year": 2018
                 }
             ]
@@ -7686,7 +8343,10 @@
             "areaName": "Togo",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7721,6 +8381,9 @@
             "areaName": "Tokelau",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7756,6 +8419,9 @@
             "areaName": "Tonga",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7791,6 +8457,9 @@
             "areaName": "Trinidad and Tobago",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7826,6 +8495,9 @@
             "areaName": "United Arab Emirates",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7861,6 +8533,9 @@
             "areaName": "Tunisia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7896,6 +8571,9 @@
             "areaName": "Turkey",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7931,6 +8609,9 @@
             "areaName": "Turkmenistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -7966,6 +8647,9 @@
             "areaName": "Turks and Caicos Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8001,6 +8685,9 @@
             "areaName": "Tuvalu",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8036,7 +8723,10 @@
             "areaName": "Uganda",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8049,9 +8739,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 0.32,
+                    "value_2017": 32.14286,
                     "value_2018": null,
-                    "value_latest_year": 0.32,
+                    "value_latest_year": 32.14286,
                     "latest_year": 2017
                 }
             ]
@@ -8071,7 +8761,10 @@
             "areaName": "Ukraine",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8082,11 +8775,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 1.0,
-                    "value_2016": 1.0,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2015": 100.0,
+                    "value_2016": 100.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -8106,6 +8799,9 @@
             "areaName": "North Macedonia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8141,7 +8837,10 @@
             "areaName": "Egypt",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8153,10 +8852,10 @@
                     "timeDetails": "",
                     "nature": "C: Country data",
                     "value_2015": null,
-                    "value_2016": 0.19,
-                    "value_2017": 0.33,
+                    "value_2016": 18.51852,
+                    "value_2017": 33.33333,
                     "value_2018": null,
-                    "value_latest_year": 0.33,
+                    "value_latest_year": 33.33333,
                     "latest_year": 2017
                 }
             ]
@@ -8176,6 +8875,9 @@
             "areaName": "United Kingdom of Great Britain and Northern Ireland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8211,6 +8913,9 @@
             "areaName": "Guernsey",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8246,6 +8951,9 @@
             "areaName": "Jersey",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8281,6 +8989,9 @@
             "areaName": "Isle of Man",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8316,7 +9027,10 @@
             "areaName": "United Republic of Tanzania",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8327,11 +9041,11 @@
                     "sources": "Sendai Framework Monitoring System as provided by designated national focal points (2019)",
                     "timeDetails": "",
                     "nature": "C: Country data",
-                    "value_2015": 0.11,
-                    "value_2016": 0.12,
-                    "value_2017": 0.14,
-                    "value_2018": 0.17,
-                    "value_latest_year": 0.17,
+                    "value_2015": 11.17021,
+                    "value_2016": 11.70213,
+                    "value_2017": 14.3617,
+                    "value_2018": 17.02128,
+                    "value_latest_year": 17.02128,
                     "latest_year": 2018
                 }
             ]
@@ -8351,6 +9065,9 @@
             "areaName": "United States of America",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8386,6 +9103,9 @@
             "areaName": "United States Virgin Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8421,6 +9141,9 @@
             "areaName": "Burkina Faso",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8456,7 +9179,10 @@
             "areaName": "Uruguay",
             "data": [
                 {
-                    "unitsCode": "PERCENT",
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8469,9 +9195,9 @@
                     "nature": "C: Country data",
                     "value_2015": null,
                     "value_2016": null,
-                    "value_2017": 1.0,
-                    "value_2018": 1.0,
-                    "value_latest_year": 1.0,
+                    "value_2017": 100.0,
+                    "value_2018": 100.0,
+                    "value_latest_year": 100.0,
                     "latest_year": 2018
                 }
             ]
@@ -8491,6 +9217,9 @@
             "areaName": "Uzbekistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8526,6 +9255,9 @@
             "areaName": "Venezuela (Bolivarian Republic of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8561,6 +9293,9 @@
             "areaName": "Wallis and Futuna Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8596,6 +9331,9 @@
             "areaName": "Samoa",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8631,6 +9369,9 @@
             "areaName": "Yemen",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",
@@ -8666,6 +9407,9 @@
             "areaName": "Zambia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "unitsCode": "",
                     "unitsDesc": "",
                     "unitmultiplierCode": "",

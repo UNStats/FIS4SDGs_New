@@ -4,7 +4,7 @@
     "indicator": "1.3.1",
     "seriesCode": "SI_COV_POOR",
     "seriesDesc": "[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",
-    "release": "2019.Q2.G.01",
+    "release": "2019.Q3.G.01",
     "data": [
         {
             "geoAreaCode": "004",
@@ -21,6 +21,9 @@
             "areaName": "Afghanistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -57,6 +60,9 @@
             "areaName": "Albania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -93,6 +99,9 @@
             "areaName": "Antarctica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -129,6 +138,9 @@
             "areaName": "Algeria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -165,6 +177,9 @@
             "areaName": "American Samoa",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -201,6 +216,9 @@
             "areaName": "Andorra",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -237,6 +255,9 @@
             "areaName": "Angola",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -273,6 +294,9 @@
             "areaName": "Antigua and Barbuda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -309,9 +333,12 @@
             "areaName": "Azerbaijan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -345,6 +372,9 @@
             "areaName": "Argentina",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -381,9 +411,12 @@
             "areaName": "Australia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -417,9 +450,12 @@
             "areaName": "Austria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -453,6 +489,9 @@
             "areaName": "Bahamas",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -489,6 +528,9 @@
             "areaName": "Bahrain",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -525,9 +567,12 @@
             "areaName": "Bangladesh",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -561,9 +606,12 @@
             "areaName": "Armenia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -597,6 +645,9 @@
             "areaName": "Barbados",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -633,9 +684,12 @@
             "areaName": "Belgium",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -669,6 +723,9 @@
             "areaName": "Bermuda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -705,6 +762,9 @@
             "areaName": "Bhutan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -741,9 +801,12 @@
             "areaName": "Bolivia (Plurinational State of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -777,6 +840,9 @@
             "areaName": "Bosnia and Herzegovina",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -813,6 +879,9 @@
             "areaName": "Botswana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -849,6 +918,9 @@
             "areaName": "Bouvet Island",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -885,9 +957,12 @@
             "areaName": "Brazil",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -921,6 +996,9 @@
             "areaName": "Belize",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -957,6 +1035,9 @@
             "areaName": "British Indian Ocean Territory",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -993,6 +1074,9 @@
             "areaName": "Solomon Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1029,6 +1113,9 @@
             "areaName": "British Virgin Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1065,6 +1152,9 @@
             "areaName": "Brunei Darussalam",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1101,9 +1191,12 @@
             "areaName": "Bulgaria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1137,6 +1230,9 @@
             "areaName": "Myanmar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1173,6 +1269,9 @@
             "areaName": "Burundi",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1209,6 +1308,9 @@
             "areaName": "Belarus",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1245,6 +1347,9 @@
             "areaName": "Cambodia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1281,9 +1386,12 @@
             "areaName": "Cameroon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1317,9 +1425,12 @@
             "areaName": "Canada",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1353,6 +1464,9 @@
             "areaName": "Cabo Verde",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1389,6 +1503,9 @@
             "areaName": "Cayman Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1425,6 +1542,9 @@
             "areaName": "Central African Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1461,9 +1581,12 @@
             "areaName": "Sri Lanka",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1497,6 +1620,9 @@
             "areaName": "Chad",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1533,9 +1659,12 @@
             "areaName": "Chile",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1569,9 +1698,12 @@
             "areaName": "China",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1605,6 +1737,9 @@
             "areaName": "Christmas Island",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1641,6 +1776,9 @@
             "areaName": "Cocos (Keeling) Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1677,9 +1815,12 @@
             "areaName": "Colombia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1713,6 +1854,9 @@
             "areaName": "Comoros",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1749,6 +1893,9 @@
             "areaName": "Mayotte",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1785,6 +1932,9 @@
             "areaName": "Congo",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1821,9 +1971,12 @@
             "areaName": "Democratic Republic of the Congo",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1857,6 +2010,9 @@
             "areaName": "Cook Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1893,9 +2049,12 @@
             "areaName": "Costa Rica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -1929,6 +2088,9 @@
             "areaName": "Croatia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -1965,6 +2127,9 @@
             "areaName": "Cuba",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2001,9 +2166,12 @@
             "areaName": "Cyprus",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2037,9 +2205,12 @@
             "areaName": "Czechia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2073,6 +2244,9 @@
             "areaName": "Benin",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2109,9 +2283,12 @@
             "areaName": "Denmark",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2145,6 +2322,9 @@
             "areaName": "Dominica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2181,9 +2361,12 @@
             "areaName": "Dominican Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2217,6 +2400,9 @@
             "areaName": "Ecuador",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2253,6 +2439,9 @@
             "areaName": "El Salvador",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2289,6 +2478,9 @@
             "areaName": "Equatorial Guinea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2325,6 +2517,9 @@
             "areaName": "Ethiopia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2361,6 +2556,9 @@
             "areaName": "Eritrea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2397,9 +2595,12 @@
             "areaName": "Estonia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2433,6 +2634,9 @@
             "areaName": "Faroe Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2469,6 +2673,9 @@
             "areaName": "Falkland Islands (Malvinas)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2505,6 +2712,9 @@
             "areaName": "South Georgia and the South Sandwich Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2541,6 +2751,9 @@
             "areaName": "Fiji",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2577,9 +2790,12 @@
             "areaName": "Finland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2613,6 +2829,9 @@
             "areaName": "\u00c5land Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2649,9 +2868,12 @@
             "areaName": "France",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2685,6 +2907,9 @@
             "areaName": "French Guiana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2721,6 +2946,9 @@
             "areaName": "French Polynesia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2757,6 +2985,9 @@
             "areaName": "French Southern Territories",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2793,6 +3024,9 @@
             "areaName": "Djibouti",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2829,6 +3063,9 @@
             "areaName": "Gabon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2865,9 +3102,12 @@
             "areaName": "Georgia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2901,9 +3141,12 @@
             "areaName": "Gambia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -2937,6 +3180,9 @@
             "areaName": "State of Palestine",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -2973,9 +3219,12 @@
             "areaName": "Germany",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3009,6 +3258,9 @@
             "areaName": "Ghana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3045,6 +3297,9 @@
             "areaName": "Gibraltar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3081,6 +3336,9 @@
             "areaName": "Kiribati",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3117,6 +3375,9 @@
             "areaName": "Greece",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3153,6 +3414,9 @@
             "areaName": "Greenland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3189,6 +3453,9 @@
             "areaName": "Grenada",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3225,6 +3492,9 @@
             "areaName": "Guadeloupe",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3261,6 +3531,9 @@
             "areaName": "Guam",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3297,9 +3570,12 @@
             "areaName": "Guatemala",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3333,6 +3609,9 @@
             "areaName": "Guinea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3369,6 +3648,9 @@
             "areaName": "Guyana",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3405,6 +3687,9 @@
             "areaName": "Haiti",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3441,6 +3726,9 @@
             "areaName": "Heard Island and McDonald Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3477,6 +3765,9 @@
             "areaName": "Holy See",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3513,6 +3804,9 @@
             "areaName": "Honduras",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3549,6 +3843,9 @@
             "areaName": "China, Hong Kong Special Administrative Region",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3585,9 +3882,12 @@
             "areaName": "Hungary",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3621,6 +3921,9 @@
             "areaName": "Iceland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3657,6 +3960,9 @@
             "areaName": "India",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3693,6 +3999,9 @@
             "areaName": "Indonesia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3729,6 +4038,9 @@
             "areaName": "Iran (Islamic Republic of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3765,6 +4077,9 @@
             "areaName": "Iraq",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3801,9 +4116,12 @@
             "areaName": "Ireland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -3837,6 +4155,9 @@
             "areaName": "Israel",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3873,6 +4194,9 @@
             "areaName": "Italy",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3909,6 +4233,9 @@
             "areaName": "C\u00f4te d'Ivoire",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3945,6 +4272,9 @@
             "areaName": "Jamaica",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -3981,6 +4311,9 @@
             "areaName": "Japan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4017,9 +4350,12 @@
             "areaName": "Kazakhstan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4053,6 +4389,9 @@
             "areaName": "Jordan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4089,6 +4428,9 @@
             "areaName": "Kenya",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4125,6 +4467,9 @@
             "areaName": "Democratic People's Republic of Korea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4161,9 +4506,12 @@
             "areaName": "Republic of Korea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4197,6 +4545,9 @@
             "areaName": "Kuwait",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4233,6 +4584,9 @@
             "areaName": "Kyrgyzstan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4269,6 +4623,9 @@
             "areaName": "Lao People's Democratic Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4305,6 +4662,9 @@
             "areaName": "Lebanon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4341,6 +4701,9 @@
             "areaName": "Lesotho",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4377,9 +4740,12 @@
             "areaName": "Latvia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4413,6 +4779,9 @@
             "areaName": "Liberia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4449,6 +4818,9 @@
             "areaName": "Libya",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4485,6 +4857,9 @@
             "areaName": "Liechtenstein",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4521,9 +4896,12 @@
             "areaName": "Lithuania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4557,6 +4935,9 @@
             "areaName": "Luxembourg",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4593,6 +4974,9 @@
             "areaName": "China, Macao Special Administrative Region",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4629,6 +5013,9 @@
             "areaName": "Madagascar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4665,9 +5052,12 @@
             "areaName": "Malawi",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4701,6 +5091,9 @@
             "areaName": "Malaysia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4737,6 +5130,9 @@
             "areaName": "Maldives",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4773,6 +5169,9 @@
             "areaName": "Mali",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4809,6 +5208,9 @@
             "areaName": "Malta",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4845,6 +5247,9 @@
             "areaName": "Martinique",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4881,6 +5286,9 @@
             "areaName": "Mauritania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4917,6 +5325,9 @@
             "areaName": "Mauritius",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -4953,9 +5364,12 @@
             "areaName": "Mexico",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -4989,6 +5403,9 @@
             "areaName": "Monaco",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5025,9 +5442,12 @@
             "areaName": "Mongolia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5061,6 +5481,9 @@
             "areaName": "Republic of Moldova",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5097,6 +5520,9 @@
             "areaName": "Montenegro",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5133,6 +5559,9 @@
             "areaName": "Montserrat",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5169,6 +5598,9 @@
             "areaName": "Morocco",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5205,6 +5637,9 @@
             "areaName": "Mozambique",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5241,6 +5676,9 @@
             "areaName": "Oman",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5277,6 +5715,9 @@
             "areaName": "Namibia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5313,6 +5754,9 @@
             "areaName": "Nauru",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5349,6 +5793,9 @@
             "areaName": "Nepal",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5385,9 +5832,12 @@
             "areaName": "Netherlands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5421,6 +5871,9 @@
             "areaName": "Netherlands Antilles",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5457,6 +5910,9 @@
             "areaName": "Cura\u00e7ao",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5493,6 +5949,9 @@
             "areaName": "Aruba",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5529,6 +5988,9 @@
             "areaName": "Sint Maarten (Dutch part)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5565,6 +6027,9 @@
             "areaName": "New Caledonia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5601,6 +6066,9 @@
             "areaName": "Vanuatu",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5637,9 +6105,12 @@
             "areaName": "New Zealand",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5673,6 +6144,9 @@
             "areaName": "Nicaragua",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5709,9 +6183,12 @@
             "areaName": "Niger",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5745,6 +6222,9 @@
             "areaName": "Nigeria",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5781,6 +6261,9 @@
             "areaName": "Niue",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5817,6 +6300,9 @@
             "areaName": "Norfolk Island",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5853,9 +6339,12 @@
             "areaName": "Norway",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -5889,6 +6378,9 @@
             "areaName": "Northern Mariana Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5925,6 +6417,9 @@
             "areaName": "United States Minor Outlying Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5961,6 +6456,9 @@
             "areaName": "Micronesia (Federated States of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -5997,6 +6495,9 @@
             "areaName": "Marshall Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6033,6 +6534,9 @@
             "areaName": "Palau",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6069,6 +6573,9 @@
             "areaName": "Pakistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6105,6 +6612,9 @@
             "areaName": "Panama",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6141,6 +6651,9 @@
             "areaName": "Papua New Guinea",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6177,6 +6690,9 @@
             "areaName": "Paraguay",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6213,6 +6729,9 @@
             "areaName": "Peru",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6249,6 +6768,9 @@
             "areaName": "Philippines",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6285,6 +6807,9 @@
             "areaName": "Pitcairn",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6321,9 +6846,12 @@
             "areaName": "Poland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -6357,9 +6885,12 @@
             "areaName": "Portugal",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -6393,6 +6924,9 @@
             "areaName": "Guinea-Bissau",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6429,6 +6963,9 @@
             "areaName": "Timor-Leste",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6465,6 +7002,9 @@
             "areaName": "Puerto Rico",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6501,6 +7041,9 @@
             "areaName": "Qatar",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6537,6 +7080,9 @@
             "areaName": "R\u00e9union",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6573,9 +7119,12 @@
             "areaName": "Romania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -6609,9 +7158,12 @@
             "areaName": "Russian Federation",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -6645,6 +7197,9 @@
             "areaName": "Rwanda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6681,6 +7236,9 @@
             "areaName": "Saint Barth\u00e9lemy",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6717,6 +7275,9 @@
             "areaName": "Saint Helena",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6753,6 +7314,9 @@
             "areaName": "Saint Kitts and Nevis",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6789,6 +7353,9 @@
             "areaName": "Anguilla",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6825,6 +7392,9 @@
             "areaName": "Saint Lucia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6861,6 +7431,9 @@
             "areaName": "Saint Martin (French Part)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6897,6 +7470,9 @@
             "areaName": "Saint Pierre and Miquelon",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6933,6 +7509,9 @@
             "areaName": "Saint Vincent and the Grenadines",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -6969,6 +7548,9 @@
             "areaName": "San Marino",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7005,6 +7587,9 @@
             "areaName": "Sao Tome and Principe",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7041,6 +7626,9 @@
             "areaName": "Saudi Arabia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7077,6 +7665,9 @@
             "areaName": "Senegal",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7113,6 +7704,9 @@
             "areaName": "Serbia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7149,6 +7743,9 @@
             "areaName": "Seychelles",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7185,6 +7782,9 @@
             "areaName": "Sierra Leone",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7221,6 +7821,9 @@
             "areaName": "Singapore",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7257,9 +7860,12 @@
             "areaName": "Slovakia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7293,6 +7899,9 @@
             "areaName": "Viet Nam",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7329,9 +7938,12 @@
             "areaName": "Slovenia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7365,6 +7977,9 @@
             "areaName": "Somalia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7401,6 +8016,9 @@
             "areaName": "South Africa",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7437,6 +8055,9 @@
             "areaName": "Zimbabwe",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7473,9 +8094,12 @@
             "areaName": "Spain",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7509,6 +8133,9 @@
             "areaName": "South Sudan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7545,6 +8172,9 @@
             "areaName": "Sudan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7581,6 +8211,9 @@
             "areaName": "Western Sahara",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7617,6 +8250,9 @@
             "areaName": "Suriname",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7653,6 +8289,9 @@
             "areaName": "Svalbard and Jan Mayen Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7689,6 +8328,9 @@
             "areaName": "Eswatini",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7725,9 +8367,12 @@
             "areaName": "Sweden",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7761,9 +8406,12 @@
             "areaName": "Switzerland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -7797,6 +8445,9 @@
             "areaName": "Syrian Arab Republic",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7833,6 +8484,9 @@
             "areaName": "Tajikistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7869,6 +8523,9 @@
             "areaName": "Thailand",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7905,6 +8562,9 @@
             "areaName": "Togo",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7941,6 +8601,9 @@
             "areaName": "Tokelau",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -7977,6 +8640,9 @@
             "areaName": "Tonga",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8013,6 +8679,9 @@
             "areaName": "Trinidad and Tobago",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8049,6 +8718,9 @@
             "areaName": "United Arab Emirates",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8085,6 +8757,9 @@
             "areaName": "Tunisia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8121,6 +8796,9 @@
             "areaName": "Turkey",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8157,6 +8835,9 @@
             "areaName": "Turkmenistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8193,6 +8874,9 @@
             "areaName": "Turks and Caicos Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8229,6 +8913,9 @@
             "areaName": "Tuvalu",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8265,6 +8952,9 @@
             "areaName": "Uganda",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8301,9 +8991,12 @@
             "areaName": "Ukraine",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8337,6 +9030,9 @@
             "areaName": "North Macedonia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8373,6 +9069,9 @@
             "areaName": "Egypt",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8409,9 +9108,12 @@
             "areaName": "United Kingdom of Great Britain and Northern Ireland",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8445,6 +9147,9 @@
             "areaName": "Guernsey",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8481,6 +9186,9 @@
             "areaName": "Jersey",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8517,6 +9225,9 @@
             "areaName": "Isle of Man",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8553,6 +9264,9 @@
             "areaName": "United Republic of Tanzania",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8589,9 +9303,12 @@
             "areaName": "United States of America",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8625,6 +9342,9 @@
             "areaName": "United States Virgin Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8661,9 +9381,12 @@
             "areaName": "Burkina Faso",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8697,6 +9420,9 @@
             "areaName": "Uruguay",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8733,9 +9459,12 @@
             "areaName": "Uzbekistan",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
@@ -8769,6 +9498,9 @@
             "areaName": "Venezuela (Bolivarian Republic of)",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8805,6 +9537,9 @@
             "areaName": "Wallis and Futuna Islands",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8841,6 +9576,9 @@
             "areaName": "Samoa",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8877,6 +9615,9 @@
             "areaName": "Yemen",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
                     "unitsCode": "",
@@ -8913,9 +9654,12 @@
             "areaName": "Zambia",
             "data": [
                 {
+                    "upperBound": null,
+                    "lowerBound": null,
+                    "basePeriod": null,
                     "sexCode": "_T",
                     "sexDesc": "Both sexes",
-                    "unitsCode": "PERCENT",
+                    "unitsCode": "PT",
                     "unitsDesc": "Percentage",
                     "unitmultiplierCode": "",
                     "unitmultiplierDesc": "",
