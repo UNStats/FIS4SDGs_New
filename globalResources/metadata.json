@@ -5833,12 +5833,20 @@
                             {
                                 "code": "SG_CPA_MIGR",
                                 "description": "Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets) ",
-                                "release": "2019.Q3.G.01"
+                                "release": "2019.Q3.G.01",
+                                "tags": [
+                                    "migration",
+                                    "migration policy"
+                                ]
                             },
                             {
                                 "code": "SG_CPA_MIGRP",
                                 "description": "Proportion of countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (%)",
-                                "release": "2019.Q3.G.01"
+                                "release": "2019.Q3.G.01",
+                                "tags": [
+                                    "migration",
+                                    "migration policy"
+                                ]
                             }
                         ]
                     }
